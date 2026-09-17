@@ -1,0 +1,3934 @@
+English words/sentences,French words/sentences
+Isn't life just great?,La vie n'est-elle pas simplement fantastique ?
+Isn't life just great?,La vie n'est-elle pas simplement formidable ?
+Isn't that irritating?,N'est-ce pas agaçant?
+It all depends on Tom.,Tout dépend de Tom.
+It came as a surprise.,C'est arrivé par surprise.
+It can be frustrating.,Ça peut être frustrant.
+It could be dangerous.,Ça pourrait être dangereux.
+It could be dangerous.,Cela pourrait être dangereux.
+It could have been me.,Ça aurait pu être moi.
+It could rain tonight.,Il se pourrait qu'il pleuve ce soir.
+It didn't hurt at all.,Ça n'a pas fait mal du tout.
+It didn't really hurt.,Ça n'a pas vraiment fait mal.
+It doesn't look right.,Ça n'a pas l'air juste.
+It doesn't look right.,Ça n'a pas l'air correct.
+It feels like a dream.,On dirait un rêve.
+It feels like a dream.,On se croit dans un rêve.
+It feels like a dream.,On se sent comme dans un rêve.
+It frosted last night.,Il a gelé la nuit dernière.
+It gave me the creeps.,Cela me donne la chair de poule.
+It gave me the creeps.,Ça m'a foutu les jetons.
+It happened in Boston.,Ça s'est passé à Boston.
+It happened very fast.,Ça s'est passé très vite.
+It happened very fast.,Ça s'est produit très rapidement.
+It happened very fast.,C'est survenu très rapidement.
+It happened very fast.,C'est arrivé très vite.
+It has been confirmed.,Cela a été confirmé.
+It has been wonderful.,Ça a été merveilleux.
+It is a luxury cruise.,C'est une croisière de luxe.
+It is a very sad tale.,C'est une bien triste histoire.
+It is a very sad tale.,C'est une histoire très triste.
+It is beyond my power.,Ceci est en dehors de mon pouvoir.
+It is good to see you.,C'est bon de te voir.
+It is good to see you.,C'est bon de vous voir.
+It is raining heavily.,Il pleut fortement.
+It is still too early.,Il est encore trop tôt.
+It is too hot to work.,Il fait trop chaud pour travailler.
+It is too late for me.,C'est trop tard pour moi.
+It is true in a sense.,"C'est vrai, en un sens."
+It is true in a sense.,"En un sens, c'est vrai."
+It is under the chair.,Il est sous la chaise.
+It is under the chair.,Elle est sous la chaise.
+It is very cold today.,Il fait très froid aujourd'hui.
+It is what I would do.,C'est ce que je ferais.
+It just doesn't count.,Ça ne compte pas.
+It just doesn't count.,Ça ne compte tout simplement pas.
+It looks great so far.,Ça a l'air très bien jusqu'à présent.
+It made me very happy.,Ça m'a rendu très heureux.
+It made me very happy.,Ça m'a rendue très heureuse.
+It made no difference.,Ça ne faisait aucune différence.
+It made no difference.,Ça ne fit aucune différence.
+It may not be a dream.,Il se peut que ce ne soit pas un rêve.
+It might prove useful.,Ça peut se révéler utile.
+It might snow tonight.,Il va peut-être neiger ce soir.
+It really was crowded.,C'était vraiment bondé.
+It reminded me of you.,Ça m'a rappelé toi.
+It reminded me of you.,Ça m'a rappelé vous.
+It reminded me of you.,Ça m'a fait penser à toi.
+It reminded me of you.,Ça m'a fait penser à vous.
+It reminded me of you.,Ça m'a fait me souvenir de toi.
+It reminded me of you.,Ça m'a fait me souvenir de vous.
+"It scared me, too, OK?","Moi aussi, j'ai eu peur. D'accord ?"
+It seemed appropriate.,Ça semblait approprié.
+It seemed appropriate.,Ça paraissait approprié.
+It seems quiet enough.,Ça a l'air assez calme.
+It seems warm outside.,Il a l'air de faire bon dehors.
+It seems well written.,Ça à l'air bien écrit.
+It serves our purpose.,Ça sert notre objectif.
+It smells like bleach.,Ça sent comme la javel.
+It snowed all weekend.,Il a neigé tout le week-end.
+It started as a hobby.,Ça a commencé comme un passe-temps.
+It started as a hobby.,Ça commença comme un passe-temps.
+It tastes really good.,C'est très bon.
+It was Saturday night.,C'était samedi soir.
+It was a church event.,C'était un événement religieux.
+It was a forced smile.,C'était un sourire emprunté.
+It was a forced smile.,C'était un sourire forcé.
+It was a good example.,C'était un bon exemple.
+It was a group effort.,C'était un effort de groupe.
+It was a huge project.,C'était un gros projet.
+It was a huge success.,Ce fut un immense succès.
+It was a huge success.,Ça a été un immense succès.
+It was a little scary.,C'était un peu lugubre.
+It was a little scary.,C'était un peu macabre.
+It was a terrible day.,Ce fut un jour terrible.
+It was after midnight.,C'était après minuit.
+It was an impulse buy.,C'était un achat impulsif.
+It was cold yesterday.,Il faisait froid hier.
+It was extremely cold.,Il faisait extrêmement froid.
+It was hot last night.,Il faisait chaud la nuit dernière.
+It was just a thought.,C'était juste une idée.
+It was my last chance.,C'était ma dernière chance.
+It was no one's fault.,Ce n'était la faute de personne.
+It was not conclusive.,Ce ne fut pas concluant.
+It was not conclusive.,Ça n'a pas été concluant.
+It was not unexpected.,Ce n'était pas inattendu.
+It was pretty chaotic.,C'était assez chaotique.
+It was pretty obvious.,C'était assez évident.
+It was quite pleasant.,Ce fut assez agréable.
+It was quite pleasant.,Ça a été assez agréable.
+It was real hard work.,C'était vraiment un travail difficile.
+It was three days ago.,C'était il y a trois jours.
+It was time for lunch.,C'était l'heure du déjeuner.
+It was time for lunch.,C'était l'heure de déjeuner.
+It was to be expected.,Il fallait s'y attendre.
+It was understandable.,C'était compréhensible.
+It was very beautiful.,C'était très beau.
+It was very beautiful.,C'était fort beau.
+It was very beautiful.,Ce fut très beau.
+It was very beautiful.,Ce fut fort beau.
+It was very difficult.,C'était très difficile.
+It was very stressful.,C'était très stressant.
+It wasn't an accident.,Ce n'était pas un accident.
+It wasn't an accident.,Ce ne fut pas un accident.
+It wasn't an accident.,Ça n'a pas été un accident.
+It will be ready soon.,Bientôt prêt.
+It will clear up soon.,Ça va bientôt s'éclaircir.
+It will probably rain.,Il pleuvra probablement.
+It won't be that hard.,Ce ne sera pas si difficile.
+It won't be that hard.,Ce ne sera pas si dur.
+It won't happen again.,Ça n'arrivera plus.
+It won't happen again.,Ça ne se produira plus.
+It won't stop raining.,Il pleut sans arrêt.
+It won't take so long.,Ça ne prendra pas tellement de temps.
+It won't take so long.,Ça ne va pas durer aussi longtemps.
+It won't take so long.,Ça ne prendra pas si longtemps.
+It'll definitely rain.,Il va certainement pleuvoir.
+It'll definitely rain.,Il va sûrement pleuvoir.
+It'll definitely rain.,Il pleuvra assurément.
+It's Tom on the phone.,C'est Tom au téléphone.
+It's a common mistake.,C'est une erreur commune.
+It's a common mistake.,C'est une erreur classique.
+It's a cultural thing.,C'est quelque chose de culturel.
+It's a matter of time.,C'est une question de temps.
+It's a necessary evil.,C'est un mal nécessaire.
+It's a nice day today.,"C'est une belle journée, aujourd'hui."
+It's a one-time offer.,C'est une proposition inédite.
+It's a quarter to two.,Il est deux heures moins le quart.
+It's a quarter to two.,Il est treize heures quarante-cinq.
+It's a real challenge.,C'est un véritable défi.
+It's a social problem.,C'est un problème de société.
+It's a social problem.,C'est un problème social.
+It's a very big apple.,C'est une très grosse pomme.
+It's a very sad story.,C'est une fort triste histoire.
+It's about to explode!,C'est sur le point d'exploser !
+It's all been written.,Tout a été écrit.
+It's all in my report.,Tout est dans mon rapport.
+It's all in your head.,Tout ça est dans ta tête.
+It's all in your head.,Tout ça est dans votre tête.
+It's all quite simple.,Tout est assez simple.
+It's all so senseless.,Tout est si dépourvu de sens.
+It's all that matters.,C'est tout ce qui compte.
+It's all work-related.,Tout est lié au travail.
+It's almost Christmas.,C'est bientôt Noël.
+It's already too late.,C'est déjà trop tard.
+It's bad for business.,C'est mauvais pour les affaires.
+It's beautifully made.,C'est de belle facture.
+It's been a hard year.,Ça a été une année difficile.
+It's been a long time.,Ça fait un bail.
+It's been a long week.,Ça a été une longue semaine.
+It's cold around here.,Il fait froid par ici.
+It's deeper than that.,C'est plus profond que ça.
+It's driving me crazy.,Ça me rend dingue.
+It's easy to get lost.,C'est facile de se perdre.
+It's easy to get lost.,On se perd facilement.
+It's easy to remember.,C'est facile à retenir.
+It's easy to remember.,C'est facile de s'en souvenir.
+It's extremely unfair.,C'est extrêmement injuste.
+It's for the children.,C'est pour les enfants.
+It's freezing in here.,"Ça pèle, là-dedans !"
+It's freezing in here.,"Ça caille, là-dedans !"
+It's freezing outside.,Il gèle dehors.
+It's going to be fine.,Ça va aller.
+It's going to explode!,Ça va exploser !
+It's hard to describe.,C'est difficile à décrire.
+It's insanely complex.,C'est à y perdre son latin.
+It's insanely complex.,C'est d'une complexité délirante.
+It's just a formality.,Ce n'est qu'une formalité.
+It's just a formality.,C'est juste une formalité.
+It's my biggest dream.,C'est mon plus grand rêve.
+It's my favorite food.,C'est ma nourriture préférée.
+It's nice to meet you.,Je suis heureuse de vous rencontrer.
+It's not a conspiracy.,Ce n'est pas une conspiration.
+It's not a fair fight.,Ce n'est pas un combat loyal.
+It's not an emergency.,Il ne s'agit pas d'une urgence.
+It's not for everyone.,Ce n'est pas pour tout le monde.
+It's not hard to find.,Ce n'est pas difficile à trouver.
+It's not looking good.,Ça ne se présente pas bien.
+It's not quite normal.,Ce n'est pas tout à fait normal.
+It's not that strange.,Ce n'est pas si étrange.
+It's not what we want.,Ce n'est pas ce que nous voulons.
+It's not why I'm here.,Ce n'est pas pour cela que je suis là.
+It's not why I'm here.,Ce n'est pas ma raison d'être ici.
+It's not your problem.,Ce n'est pas ton problème.
+It's not your problem.,Ce n'est pas votre problème.
+It's nothing personal.,Ça n'a rien de personnel.
+It's one of our rules.,C'est l'une de nos règles.
+It's our duty to help.,Il est de notre devoir d'aider.
+It's pretty expensive.,C'est plutôt cher.
+It's probably a virus.,C'est probablement un virus.
+It's really cool here.,"C'est vraiment relaxant, ici."
+It's really cool here.,"C'est vraiment détendu, ici."
+It's really cool here.,"C'est vraiment frais, ici."
+It's really hot there.,Il y fait vraiment chaud.
+It's really hot there.,"Il fait vraiment chaud, là-bas."
+It's really hot today.,Il fait vraiment chaud aujourd'hui.
+It's really stressful.,C'est vraiment stressant.
+It's really very good.,C'est vraiment très bon.
+It's relatively early.,Il est relativement tôt.
+It's self-explanatory.,Ça tombe sous le sens.
+It's self-explanatory.,Ça se passe d'explications.
+It's so different now.,"C'est tellement différent, maintenant."
+It's starting to snow.,Il se met à neiger.
+It's starting to snow.,Il commence à neiger.
+It's still a big risk.,C'est quand même un gros risque.
+It's the best we have.,C'est le meilleur que nous avons.
+It's the best we have.,C'est la meilleure que nous avons.
+It's the perfect size.,C'est la taille idéale.
+It's time for a break.,Il est temps de faire une pause.
+It's up to you and me.,C'est à toi et moi de voir.
+It's up to you and me.,Cela dépend de toi et moi.
+It's up to you and me.,C'est comme nous voulons toi et moi.
+It's very easy to use.,C'est très facile à employer.
+It's very easy to use.,C'est très facile à utiliser.
+It's very easy to use.,C'est très facile d'emploi.
+It's very interesting.,C'est très intéressant.
+It's very interesting.,C'est fort intéressant.
+It's very kind of you.,C'est très gentil de ta part.
+It's very kind of you.,C'est très gentil de votre part.
+It's very kind of you.,C'est fort gentil de votre part.
+It's what we expected.,C'est ce à quoi nous nous attendions.
+It's what you deserve.,C'est ce que tu mérites.
+It's what you deserve.,C'est ce que vous méritez.
+It's your only chance.,C'est votre unique occasion.
+It's your only chance.,C'est ton unique occasion.
+It's your only chance.,C'est ta seule chance.
+Jupiter is very large.,Jupiter est très grand.
+"Just a moment, please.",Attendez un moment s'il vous plait.
+Just do what you want.,Fais ce que tu veux.
+Just do what you want.,Faites ce que vous voulez.
+Just get back to work.,Retournez juste au travail !
+Just get back to work.,Retourne juste au travail !
+Just give me a chance.,Donne-moi juste une chance.
+Just let me walk away.,Laisse-moi m'en aller !
+Just turn this handle.,Tourne juste cette poignée !
+Just turn this handle.,Tournez juste cette poignée !
+Just use mine for now.,"Utilise simplement le mien, pour le moment !"
+Just use mine for now.,"Utilisez simplement le mien, pour le moment !"
+Keep in touch with me.,Restez en contact avec moi.
+"Keep it together, Tom.","Tiens le coup, Tom."
+"Keep it together, Tom.","Ne craque pas, Tom."
+"Keep it together, Tom.","Garde ton calme, Tom."
+Keep next Sunday free.,Garde dimanche prochain de libre.
+Keep this to yourself.,Gardez ceci pour vous.
+Keep this to yourself.,Garde ça pour toi.
+Keep up the good work.,Continuez le bon boulot.
+Keep up the good work.,Continue le bon boulot.
+Keep your eyes closed.,Garde les yeux fermés.
+Keep your eyes closed.,Gardez les yeux fermés.
+Keep your eyes peeled!,Ouvre grands les yeux !
+Keep your hands clean.,Garde les mains propres.
+Keep your hands clean.,Gardez les mains propres.
+Keep your hands clean.,Gardez vos mains propres.
+Keep your hands still.,Ne bouge pas les mains.
+Kids do stupid things.,Les enfants font des choses stupides.
+Kids do stupid things.,Les enfants font des trucs stupides.
+Last night I threw up.,"La nuit dernière, j'ai vomi."
+Lawyers are all liars.,Les avocats sont tous des menteurs.
+Lawyers are all liars.,Tous les avocats sont des menteurs.
+Lay down on the couch.,Allonge-toi sur le canapé !
+Lay down on the couch.,Allongez-vous sur le canapé !
+Learn these sentences.,Apprends ces phrases !
+Leave my camera alone.,Laisse mon appareil photo tranquille.
+Leave my family alone.,Laissez ma famille tranquille !
+Leave my family alone.,Laisse ma famille tranquille !
+Leave my things alone.,Laisse mes affaires tranquilles.
+Let in some fresh air.,Faites entrer un peu d'air frais.
+Let me buy you a beer.,Laisse-moi t'acheter une bière.
+Let me buy you a beer.,Laissez-moi vous acheter une bière.
+Let me call my lawyer.,Laissez-moi appeler mon avocat !
+Let me call my lawyer.,Laisse-moi appeler mon avocat !
+Let me deal with this.,Laisse-moi m'en charger !
+Let me deal with this.,Laissez-moi m'en charger !
+Let me do the cooking.,Laissez-moi faire la cuisine.
+Let me do the talking.,Laisse-moi parler.
+Let me do the talking.,Laisse-moi palabrer.
+Let me give you a hug.,Laisse-moi te serrer dans mes bras.
+Let me give you a hug.,Laissez-moi vous serrer dans mes bras.
+Let me take your coat.,Laisse-moi prendre ton manteau.
+Let me take your coat.,Laissez-moi prendre votre manteau.
+Let me think a minute.,Laissez-moi réfléchir une minute !
+Let me think a minute.,Laisse-moi réfléchir une minute !
+Let me think about it.,Laisse-moi y réfléchir.
+Let sleeping dogs lie.,Il ne faut pas réveiller le chien qui dort.
+Let some fresh air in.,Laisse entrer un peu d'air frais.
+Let the children play.,Laissons les enfants jouer.
+Let the pigs eat that.,Laisse les cochons manger ça.
+Let the pigs eat that.,Laissez les cochons manger ça.
+Let the weekend begin.,Que le week-end commence.
+Let them do their job.,Laissez-les faire leur travail !
+Let them do their job.,Laissez-les faire leur boulot !
+Let's ask the teacher.,Demandons au professeur.
+Let's ask the teacher.,Demandons à l'institutrice.
+Let's ask the teacher.,Demandons à l'instituteur.
+Let's build something.,Construisons quelque chose !
+Let's call it a night.,Arrêtons-nous pour ce soir.
+Let's call it a night.,On va s'arrêter là pour ce soir.
+Let's compare the two.,Comparons les deux.
+"Let's dance, shall we?","Dansons, voulez-vous ?"
+"Let's dance, shall we?","Dansons, veux-tu ?"
+Let's drink some beer.,Buvons de la bière.
+Let's eat out tonight.,"Ce soir, mangeons dehors."
+Let's end this debate.,Finissons ce débat.
+Let's end this debate.,Mettons un terme à ce débat.
+Let's end this debate.,Terminons ce débat.
+Let's escape together.,Évadons-nous ensemble !
+Let's find the others.,Trouvons les autres.
+Let's get off the bus.,Descendons du bus.
+Let's get rid of this.,Débarrassons-nous de ceci.
+Let's go eat together.,Allons manger ensemble.
+Let's go in my office.,Allons dans mon bureau.
+Let's go to the beach.,Allons à la plage.
+Let's go to your room.,Allons dans ta chambre.
+Let's have lunch here.,Déjeunons ici.
+Let's help each other.,Aidons-nous les uns les autres !
+Let's help these guys.,Aidons ces gars.
+Let's hit the showers.,Allons prendre une douche.
+Let's hit the showers.,Allons nous doucher.
+Let's hope this works.,Espérons que ceci marche.
+Let's leave her alone.,Laissons-la tranquille.
+Let's meet again soon.,Revoyons-nous bientôt.
+Let's meet on Tuesday.,Voyons-nous mardi.
+Let's never lose hope.,Ne perdons jamais espoir.
+Let's not do the work.,Ne faisons pas le travail.
+Let's not do the work.,N'effectuons pas le travail.
+Let's not do this now.,Ne faisons pas ça maintenant.
+Let's not forget that.,Ne l'oublions pas !
+Let's not split hairs.,Ne coupons pas les cheveux en quatre.
+Let's not talk to her.,Ne lui parlons pas.
+Let's open the window.,Ouvrons la fenêtre !
+Let's play a new game.,Jouons à un nouveau jeu.
+Let's play dodge ball.,Jouons à la balle au prisonnier.
+Let's play volleyball.,Jouons au volley.
+Let's review Lesson 5.,Révisons la leçon 5.
+Let's see if it works.,Voyons si ça marche.
+Let's share the money.,Partageons l'argent !
+Let's speak in French.,Parlons en français.
+Let's start the party.,Que la fête commence.
+Let's start with beer.,Commençons par de la bière !
+Let's take a breather.,Faisons une petite pause.
+Let's take a breather.,Prenons un moment de repos.
+Let's talk about love.,Parlons d'amour.
+Let's talk about that.,Parlons-en.
+Let's talk about this.,Parlons-en.
+Let's talk about this.,Parlons de ceci.
+Let's talk man to man.,Parlons d'homme à homme.
+Let's travel together.,Voyageons ensemble.
+Let's try calling Tom.,Essayons d’appeler Tom.
+Life could be so easy.,La vie pourrait être tellement facile.
+Life is unpredictable.,La vie est imprévisible.
+"Like father, like son.","Tel père, tel fils."
+"Like father, like son.","Tel père, tel fils !"
+Listen to your mother.,Écoute ta mère !
+Listen to your mother.,Écoutez votre mère !
+Look at that building.,Regarde ce bâtiment.
+Look at that mountain.,Regarde cette montagne.
+Look at that mountain.,Regardez cette montagne.
+Look at the next page.,Regardez la page suivante.
+Look what we've found.,Regarde ce qu'on a trouvé.
+"Look, I'm really busy.","Écoute, je suis très occupé."
+Make up your own mind.,Décide-toi par toi-même !
+Make up your own mind.,Décidez-vous par vous-même !
+Make yourself at home.,Faites comme chez vous.
+Make yourself at home.,Fais comme chez toi.
+Many people are upset.,De nombreuses personnes sont fâchées.
+Many people are upset.,De nombreuses personnes sont contrariées.
+Marriage is a lottery.,Le mariage est une loterie.
+Mary has her problems.,Marie a ses propres problèmes.
+Mary ironed her skirt.,Mary a repassé sa chemise.
+Mary isn't Tom's wife.,Marie n'est pas la femme de Tom.
+May I ask you a favor?,Puis-je vous demander une faveur ?
+May I ask you a favor?,Puis-je te demander une faveur ?
+May I borrow this pen?,Puis-je emprunter ce stylo ?
+May I borrow your car?,Pourrais-je emprunter votre voiture ?
+May I do it right now?,Puis-je le faire sur-le-champ ?
+May I do it right now?,Puis-je le faire immédiatement ?
+May I do it right now?,Puis-je le faire sans attendre ?
+May I eat that orange?,Puis-je manger cette orange ?
+May I eat that orange?,Est-ce que je peux manger cette orange ?
+May I escort you home?,Puis-je vous raccompagner chez vous ?
+May I have a road map?,Puis-je avoir une carte routière ?
+May I have this dance?,M'accordez-vous cette danse ?
+May I lie on the sofa?,Est-ce que je peux m'allonger sur le sofa ?
+May I open the window?,Puis-je ouvrir la fenêtre ?
+May I sit next to you?,Puis-je m'asseoir près de vous ?
+May I sit next to you?,Puis-je m'asseoir auprès de vous ?
+May I sit next to you?,Puis-je m'asseoir près de toi ?
+May I sit next to you?,Puis-je m'asseoir auprès de toi ?
+May I sit next to you?,Puis-je m'asseoir à ton côté ?
+May I sit next to you?,Puis-je m'asseoir à votre côté ?
+May I use this pencil?,Puis-je utiliser ce crayon ?
+May I use your toilet?,Puis-je utiliser vos toilettes ?
+May I use your toilet?,Puis-je utiliser tes toilettes ?
+May comes after April.,Mai se trouve après avril.
+May comes after April.,Mai vient après avril.
+Maybe I need a lawyer.,Peut-être ai-je besoin d'un avocat.
+Maybe I'll buy a bike.,J'achèterai peut-être un vélo.
+Maybe we can fix this.,Nous pouvons peut-être réparer ceci.
+Maybe we can fix this.,Nous pouvons peut-être corriger ceci.
+Maybe we should start.,Peut-être devrions-nous commencer.
+Maybe we should start.,Peut-être devrions-nous démarrer.
+Maybe you can help us.,Peut-être pouvez-vous nous aider.
+Maybe you can help us.,Peut-être peux-tu nous aider.
+Meeting girls is hard.,Rencontrer des filles est difficile.
+Might I ask your name?,Puis-je vous demander votre nom ?
+Mom didn't mention it.,Maman ne l'avait pas mentionné.
+Monday was a busy day.,Lundi était un jour chargé.
+Monday was a busy day.,Lundi était une journée bien remplie.
+Money opens all doors.,L'argent ouvre toutes les portes.
+Money rules the world.,L'argent régit le monde.
+My back is killing me.,J'ai un mal de dos épouvantable.
+My baggage is missing.,Mes bagages manquent.
+My baggage is missing.,Mes bagages sont manquants.
+My bicycle has a flat.,Ma bicyclette a un pneu à plat.
+My bicycle has a flat.,Mon vélo a un pneu à plat.
+My bicycle was stolen.,Mon vélo a été volé.
+My brother is healthy.,Mon frère est en bonne santé.
+My car is not running.,Ma voiture ne fonctionne pas.
+My car is right there.,Ma voiture est juste là.
+My car isn't for sale.,Ma voiture n'est pas à vendre.
+My car ran out of gas.,Ma voiture était à court d'essence.
+My cat died yesterday.,Mon chat est mort hier soir.
+My cat died yesterday.,Mon chat est mort hier.
+My cat will love this.,Mon chat adorera ça.
+My class was canceled.,Mon cours a été annulé.
+My class was canceled.,Mon cours fut annulé.
+My college has a dorm.,Mon université a un dortoir.
+My college has a dorm.,Mon école dispose d'un dortoir.
+My dad is very strict.,Mon père est très strict.
+My dog didn't do that.,Mon chien n'a pas fait ça.
+My door's always open.,Ma porte est toujours ouverte.
+My father is a doctor.,Mon père est médecin.
+My father is a doctor.,Mon père est toubib.
+My father is a doctor.,Mon père est docteur.
+My father loves pizza.,Mon père aime la pizza.
+My flight was delayed.,Mon vol a été retardé.
+My house is on a hill.,Ma maison se tient sur une colline.
+My husband is at work.,Mon mari est au travail.
+My husband is in jail.,Mon mari est en prison.
+My instinct was right.,Mon instinct se révéla juste.
+My kid was in the car.,Mon enfant était dans la voiture.
+My left arm is asleep.,Mon bras gauche est engourdi.
+My left arm is asleep.,Mon bras gauche est ankylosé.
+My life was in danger.,Ma vie était en danger.
+My mom is proud of me.,Ma mère est fière de moi.
+My mom made it for me.,Ma mère l'a fait pour moi.
+My mother is a lawyer.,Ma mère est avocat.
+My mother is well off.,Ma mère est riche.
+My mother is well off.,Ma mère est aisée.
+My mother was furious.,Ma mère était furieuse.
+My name's on the door.,Mon nom est sur la porte.
+My nose is stuffed up.,J'ai le nez bouché.
+My parents are asleep.,Mes parents sont endormis.
+My parents don't know.,Mes parents l'ignorent.
+My phone doesn't work.,Mon téléphone ne fonctionne pas.
+My phone is vibrating.,Mon téléphone est en train de vibrer.
+My right hand is numb.,Ma main droite est ankylosée.
+My room is just below.,Ma chambre est juste au-dessous.
+My room is very small.,Ma chambre est très petite.
+My shoes are worn out.,Mes chaussures sont usées.
+My sister got engaged.,Ma sœur s'est fiancée.
+My sister has a piano.,Ma sœur possède un piano.
+My sister has a piano.,Ma sœur a un piano.
+My sister often cries.,Ma sœur pleure souvent.
+My suitcase is broken.,Ma valise est cassée.
+My toe began to bleed.,Mon doigt de pied s'est mis à saigner.
+My uncle plays guitar.,Mon oncle joue de la guitare.
+My uncle runs a hotel.,Mon oncle tient un hôtel.
+My whole body is sore.,Tout mon corps me fait mal.
+My whole body is sore.,Tout mon corps est douloureux.
+My whole body is sore.,Tout mon corps est endolori.
+My wife is very upset.,Ma femme est très contrariée.
+My wife is very upset.,Ma femme est très fâchée.
+My work is my passion.,Mon travail est ma passion.
+Nail the windows shut.,Clouez les fenêtres !
+Nail the windows shut.,Cloue les fenêtres !
+"Next time, I'll drive.","La prochaine fois, je conduirai."
+No doubt he will come.,"Il viendra, c'est sûr."
+No expense was spared.,Aucune dépense n'a été épargnée.
+No one agreed with me.,Personne n'a été d'accord avec moi.
+No one agreed with me.,Personne ne fut d'accord avec moi.
+No one cares about me.,Personne ne se soucie de moi.
+No one cares about us.,Personne ne se soucie de nous.
+No one encouraged her.,Personne ne l'a encouragée.
+No one has that right.,Personne n'a ce droit.
+No one has that right.,Personne ne dispose de ce droit.
+No one has the answer.,Personne n'a la réponse.
+No one heard anything.,Personne n'a rien entendu.
+No one heard anything.,Personne n'a entendu quoi que ce soit.
+No one here has a car.,Personne ici n'a de voiture.
+No one here has a car.,Personne ici ne dispose de voiture.
+No one is in the room.,Personne ne se trouve dans la pièce.
+No one is saying that.,Personne ne dit ça.
+No one knew who I was.,Tout le monde ignorait qui j'étais.
+No one knew who I was.,Personne ne savait qui j'étais.
+No one knows anything.,Personne ne sait quoi que ce soit.
+No one knows for sure.,Personne ne sait vraiment.
+No one knows her name.,Personne ne sait son nom.
+No one knows her name.,Personne ne connaît son nom.
+No one knows his name.,Personne ne sait son nom.
+No one knows his name.,Personne ne connaît son nom.
+No one knows the fact.,Personne n'est au fait.
+No one knows the fact.,Personne n'est au courant.
+No one listened to me.,Personne ne m'a écouté.
+No one listened to me.,Personne ne m'a écoutée.
+No one recognized you.,Personne ne vous a reconnu.
+No one recognized you.,Personne ne vous a reconnue.
+No one recognized you.,Personne ne t'a reconnu.
+No one recognized you.,Personne ne t'a reconnue.
+No one recognized you.,Personne ne vous a reconnues.
+No one recognized you.,Personne ne vous a reconnus.
+No one seemed to hear.,Personne ne semblait entendre.
+No one speaks with me.,Personne ne me parle.
+No one wants to fight.,Personne ne veut se battre.
+No one wants to speak.,Personne ne veut parler.
+No one was helping us.,Personne ne nous aidait.
+No one was in the car.,Personne ne se trouvait dans la voiture.
+No one was quite sure.,Personne n'était vraiment sûr.
+No such person exists.,Une telle personne n'existe pas.
+No tickets are needed.,Aucun ticket n'est nécessaire.
+No weapons were found.,Aucune arme ne fut trouvée.
+Nobody appreciates me.,Personne ne me rend grâce.
+Nobody can control us.,Personne ne peut nous contrôler.
+Nobody cares about me.,Personne ne se soucie de moi.
+Nobody cares about me.,Personne ne se préoccupe de moi.
+Nobody does it better.,Personne ne le fait mieux.
+Nobody else was there.,Personne d'autre n'y était.
+Nobody encouraged her.,Personne ne l'a encouragée.
+Nobody encouraged her.,Personne ne l'encouragea.
+Nobody here eats meat.,"Ici, personne ne mange de viande."
+Nobody knows his name.,Personne ne sait son nom.
+Nobody knows his name.,Personne ne connaît son nom.
+Nobody likes that guy.,Personne n'aime ce type.
+Nobody listened to me.,Personne ne m'a écouté.
+Nobody recognized you.,Personne ne vous a reconnu.
+Nobody recognized you.,Personne ne vous a reconnue.
+Nobody recognized you.,Personne ne t'a reconnu.
+Nobody recognized you.,Personne ne t'a reconnue.
+Nobody recognized you.,Personne ne vous a reconnues.
+Nobody recognized you.,Personne ne vous a reconnus.
+Nobody should've died.,Personne n'aurait dû mourir.
+Nobody understands it.,Personne ne le comprend.
+Nobody understands me.,Personne ne me comprend.
+Nobody wants to do it?,Personne ne veut le faire ?
+Nobody was interested.,Personne n'était intéressé.
+None of them is alive.,Aucun d'eux n'est en vie.
+None of us is perfect.,Aucune d'entre nous n'est parfaite.
+None of us is perfect.,Aucun d'entre nous n'est parfait.
+None of your business.,Ce ne sont pas tes oignons.
+Not a sound was heard.,Pas un son ne pouvait être entendu.
+Not all birds can fly.,Tous les oiseaux ne peuvent pas voler.
+Not all change is bad.,Tous les changements ne sont pas mauvais.
+Not all change is bad.,Tout changement n'est pas mauvais.
+Not all experts agree.,Tous les experts ne s'accordent pas.
+Nothing is ever right.,Rien n'est jamais bien.
+Nothing lasts forever.,Rien ne dure pour toujours.
+Nothing lasts forever.,Rien ne dure pour l'éternité.
+Nothing's changed yet.,Rien n'a encore changé.
+Nuclear power is safe.,L'énergie nucléaire est sans risque.
+Obviously he is wrong.,"Il a tort, à l'évidence."
+"Obviously, she's sick.","Manifestement, elle est malade."
+One of my teeth hurts.,L'une de mes dents me fait mal.
+One of my teeth hurts.,Une de mes dents me fait mal.
+Only one man survived.,Un seul homme a survécu.
+Only one man survived.,Un seul homme survécut.
+"Open the door, please.","Ouvrez la porte, s'il vous plaît."
+"Open the door, please.",Veuillez ouvrir la porte.
+"Open the door, please.","Ouvrez la porte, je vous prie !"
+"Open the door, please.","Ouvre la porte, je te prie !"
+Our dog has gone away.,Notre chien est parti.
+Our team won the game.,Notre équipe a gagné la partie.
+Our water pipes burst.,Notre canalisation d'eau a explosé.
+People laughed at him.,Les gens se sont moqués de lui.
+Perhaps Tom is guilty.,Peut-être que Tom est coupable.
+Perhaps you are right.,Tu as peut-être raison.
+Planning is important.,Il est essentiel de planifier.
+Playing tennis is fun.,Jouer au tennis est amusant.
+Please allow me to go.,Veuillez me permettre d'y aller.
+Please allow me to go.,"Permets-moi d'y aller, je te prie."
+Please close the door.,"Fermez la porte, s'il vous plaît."
+Please close the door.,Veuillez fermer la porte.
+Please close the door.,"Ferme la porte, je te prie."
+Please close the door.,"Ferme la porte, s'il te plait."
+Please close the door.,Je vous prie de fermer la porte.
+Please copy this page.,Recopie cette page s'il te plait.
+Please copy this page.,Veuillez copier cette page.
+Please dance with Tom.,"S'il-te-plaît, danse avec Tom."
+Please do it this way.,"Faites comme cela, s'il vous plait."
+Please give me a book.,Donne-moi un livre s'il te plaît.
+Please give me a book.,Donnez-moi un livre s'il vous plaît.
+Please give me a call.,Appelle-moi s'il te plaît.
+Please give me a hand.,S'il vous plaît donnez-moi un coup de main.
+Please go to the bank.,"S'il te plait, va à la banque."
+Please go to the bank.,Merci d'aller à la banque.
+Please go to the bank.,Veuillez vous rendre à la banque.
+Please go to the bank.,"Va à la banque, s'il te plaît."
+Please heat the water.,"Chauffe l'eau, s'il te plaît !"
+Please heat the water.,"Chauffez l'eau, s'il vous plaît !"
+Please iron the shirt.,Je te prie de repasser la chemise.
+Please leave me alone.,"S'il vous plaît, laissez-moi tranquille."
+Please let me explain.,"Veuillez me laisser m'expliquer, je vous prie."
+Please let me explain.,"Laisse-moi m'expliquer, je te prie."
+Please let me go home.,"S'il vous plait, laissez-moi rentrer chez moi !"
+Please light a candle.,"Allume une bougie, je te prie !"
+Please light a candle.,"Allumez un cierge, je vous prie !"
+Please read that book.,Veuillez lire ce livre.
+Please read that book.,"Lis ce livre, s'il te plaît."
+Please stop whistling.,"Arrête de siffler, je te prie !"
+Please stop whistling.,"Arrêtez de siffler, je vous prie !"
+Please take my advice.,"S'il vous plaît, suivez mon conseil."
+Please think about it.,Penses-y.
+Please throw the ball.,"Lance la balle, s'il te plait."
+Please turn on the TV.,Allume la télévision s'il te plaît.
+Please wait till noon.,Attendez jusqu'à midi.
+Please wake me at six.,Merci de me réveiller à six heures.
+Please wake me at six.,"Réveille-moi à six heures, s'il te plaît."
+Poverty is everywhere.,La pauvreté règne partout.
+Price is not an issue.,Le prix n'est pas un problème.
+Prices are reasonable.,Les prix sont raisonnables.
+Prices have gone down.,Les prix ont baissé.
+Proper ID is required.,Une carte d'identité en règle est requise.
+Put down your pencils.,Posez vos crayons.
+Put down your weapons!,Bas les armes !
+Put it where you like.,Posez-le où vous voulez.
+Put the baby to sleep.,"Allez coucher le bébé, s'il vous plaît."
+Put them on the table.,Pose-les sur la table.
+Put your coat back on.,Remets ton manteau.
+Rabbits breed quickly.,Les lapins se reproduisent comme des lapins.
+Red is out of fashion.,Le rouge n'est plus à la mode.
+"Remain seated, please.",Veuillez rester assis.
+"Remain seated, please.",Veuillez rester assise.
+"Remain seated, please.",Veuillez rester assises.
+"Remain seated, please.","Reste assis, je te prie."
+"Remain seated, please.","Reste assise, je te prie."
+"Remain seated, please.","Restez assis, je vous prie."
+"Remain seated, please.","Restez assise, je vous prie."
+"Remain seated, please.","Restez assises, je vous prie."
+Remember your promise.,Souviens-toi de ta promesse !
+Rinse with warm water.,Rincez avec de l'eau tiède.
+Rinse with warm water.,Rince avec de l'eau tiède.
+Rinse with warm water.,Rincer avec de l'eau tiède.
+Rinse with warm water.,Rincez avec de l'eau chaude.
+Rinse with warm water.,Rince avec de l'eau chaude.
+Rinse with warm water.,Rincer avec de l'eau chaude.
+Roll down your window.,Baisse ta fenêtre !
+Roll down your window.,Baissez votre fenêtre !
+Roll down your window.,Abaisse ta fenêtre !
+Roll down your window.,Abaissez votre fenêtre !
+Say it in another way.,Dis-le autrement.
+Say you understand me.,Dis-moi que tu me comprends.
+School begins at nine.,L'école débute à neuf heures.
+School starts at 8:40.,L'école commence à 8 h 40.
+Send me a new catalog.,Envoyez-moi un nouveau catalogue.
+Sewing is manual work.,"Coudre, c'est du travail manuel."
+Shall I check the oil?,Je vérifie l'huile ?
+She accepted his gift.,Elle accepta son cadeau.
+She achieved her goal.,Elle atteignit son objectif.
+She achieved her goal.,Elle a atteint son objectif.
+She acted in the play.,Elle a joué dans la pièce.
+She acted in the play.,Elle joua dans la pièce.
+She agreed to my idea.,Elle a accepté mon idée.
+She almost passed out.,Elle est presque tombée dans les pommes.
+She almost passed out.,Elle s'est presque évanouie.
+She altered her plans.,Elle changea ses plans.
+She altered her plans.,Elle a modifié ses plans.
+She and I get on well.,Elle et moi nous entendons bien.
+She answered in tears.,Elle répondit en larmes.
+She asked me for help.,Elle m'a demandé de l'aide.
+She attempted suicide.,Elle a essayé de se suicider.
+She attempted suicide.,Elle a tenté de se suicider.
+She beat him to death.,Elle le battit à mort.
+She beat him to death.,Elle l'a battu à mort.
+She called him a fool.,Elle l'a traité d'idiot.
+She called him a liar.,Elle l'a traité de menteur.
+She came out of there.,Elle est venue de là.
+She can play the drum.,Elle sait jouer de la batterie.
+She can sew very well.,Elle sait très bien coudre.
+She caught her breath.,Elle a repris son souffle.
+She committed a crime.,Elle a commis un crime.
+She decided not to go.,Elle décida de ne pas y aller.
+She decided not to go.,Elle décida de ne pas s'y rendre.
+She decided not to go.,Elle décida de ne pas partir.
+She decided not to go.,Elle a décidé de ne pas y aller.
+She decided not to go.,Elle a décidé de ne pas partir.
+She decided not to go.,Elle a décidé de ne pas s'y rendre.
+She did it on purpose.,Elle l'a fait exprès.
+She does not like him.,Elle ne l'apprécie pas.
+She does not like him.,Elle ne l'aime pas.
+She felt like dancing.,Elle avait envie de danser.
+She felt like dancing.,Elle eut envie de danser.
+She followed him home.,Elle le suivit à la maison.
+She gave me a present.,Elle m'a donné un cadeau.
+She gave me a present.,Elle me donna un cadeau.
+She gave us a present.,Elle nous donna un présent.
+She got brushed aside.,Elle s'est fait écarter.
+She got him a new hat.,Elle lui dégota un nouveau chapeau.
+She got home at seven.,Elle est arrivée chez elle à sept heures.
+She got me a tiny toy.,Elle m'a acheté un petit jouet.
+She handed him a book.,Elle lui tendit un livre.
+She has a few friends.,Elle a quelques amis.
+She has a good figure.,Elle a une ligne superbe.
+She has a good figure.,Elle est bien faite.
+She has a pretty doll.,Elle a une jolie poupée.
+She has a pretty face.,Elle a un joli visage.
+She has a small house.,Elle a une petite maison.
+She has abundant hair.,Elle a une chevelure abondante.
+She has been to Paris.,Elle a été à Paris.
+She has gone shopping.,Elle est allée faire les courses.
+She has gone shopping.,Elle est partie faire des courses.
+She has gone shopping.,Elle est partie faire des emplettes.
+She has gone to Italy.,Elle est partie pour l'Italie.
+She has lunch at home.,Elle déjeune chez elle.
+She has two daughters.,Elle a deux filles.
+She hated him so much.,Elle le détestait tant.
+She helped cook lunch.,Elle aida à préparer le déjeuner.
+She helped cook lunch.,Elle donna un coup de main pour le repas de midi.
+She hit the ball hard.,Elle frappa la balle avec force.
+She ironed his shirts.,Elle repassait ses chemises.
+She is a good swimmer.,Elle est bonne nageuse.
+She is a good swimmer.,C'est une bonne nageuse.
+She is about to leave.,Elle est sur le point de partir.
+She is afraid of cats.,Elle a peur des chats.
+She is afraid of dogs.,Elle a peur des chiens.
+She is always smiling.,Elle est toujours en train de sourire.
+She is always smoking.,Elle est toujours à fumer.
+She is as tall as you.,Elle est aussi grande que toi.
+She is engaged to him.,C'est sa fiancée.
+She is five years old.,Elle a cinq ans.
+She is gaining weight.,Elle prend du poids.
+She is good at skiing.,Elle est bonne en ski.
+She is related to him.,Elle lui est apparentée.
+She is sewing a dress.,Elle coud une robe.
+She is very beautiful.,Elle est très belle.
+She is weak by nature.,Elle est d'une nature faible.
+She isn't kind to him.,Elle n'est pas gentille avec lui.
+She just wrote a book.,Elle vient d'écrire un livre.
+She left her children.,Elle a abandonné ses enfants.
+She left her children.,Elle abandonna ses enfants.
+She likes Russian pop.,Elle aime le pop russe.
+She likes the teacher.,Elle aime l'enseignant.
+She likes the teacher.,Elle aime l'enseignante.
+She likes the teacher.,Elle aime le maitre.
+She likes the teacher.,Elle aime la maitresse.
+She lived a long life.,Elle vécut une longue vie.
+She lives in New York.,Elle vit à New York.
+She lives in New York.,Elle habite à New York.
+She looked all around.,Elle regarda tout autour.
+She looks very afraid.,Elle semble avoir très peur.
+She made a man of him.,Elle a fait de lui un homme.
+She needs to help him.,Il lui faut l'aider.
+She never wears green.,Elle ne s'habille jamais en vert.
+She never wears green.,Elle ne porte jamais de vert.
+She picked up a stone.,Elle ramassa une pierre.
+She played the violin.,Elle joua du violon.
+She played the violin.,Elle a joué du violon.
+She put it in the box.,Elle l'a mise dans la boîte.
+She put it in the box.,Elle le mit dans la boîte.
+She put it in the box.,Elle la mit dans la boîte.
+She refused his offer.,Elle refusa sa proposition.
+She returned his kiss.,Elle lui retourna son baiser.
+She returned to Japan.,Elle retourna au Japon.
+She returned to Japan.,Elle est retournée au Japon.
+She returned to Japan.,Elle s'en retourna au Japon.
+She screamed for help.,Elle cria à l'aide.
+She screamed for help.,Elle hurla à l'aide.
+She seems to be happy.,Elle semble être heureuse.
+She sings out of tune.,Elle chante faux.
+She stayed at a hotel.,Elle est restée à l'hôtel.
+She talked childishly.,Elle parla puérilement.
+She taught us singing.,Elle nous enseigna à chanter.
+She teaches us French.,Elle nous apprend le français.
+She told him to study.,Elle lui enjoignit d'étudier.
+She took off her coat.,Elle retira son manteau.
+She took up his offer.,Elle accepta sa proposition.
+She understands music.,Elle comprend la musique.
+She uses cheap makeup.,Elle utilise du maquillage pas cher.
+She wants to kiss him.,Elle veut l'embrasser.
+She was fully clothed.,Elle était entièrement vêtue.
+She was fully clothed.,Elle était entièrement habillée.
+She was kissed by him.,Elle a été embrassée par lui.
+She was unkind to him.,Elle était méchante envers lui.
+She watched him dance.,Elle le regarda danser.
+She watched him dance.,Elle l'a regardé danser.
+She weeded the garden.,Elle débarrassa le jardin des mauvaises herbes.
+She weighs 120 pounds.,Elle pèse 120 livres.
+She went in to get it.,Elle est entrée pour se le procurer.
+She went to bed early.,Elle s'est couchée de bonne heure.
+She wept with emotion.,Elle a pleuré d'émotion.
+She wore a pretty hat.,Elle portait un joli chapeau.
+She wore a red blouse.,Elle portait un chemisier rouge.
+She wriggled her toes.,Elle remua les orteils.
+She wriggled her toes.,Elle a remué les orteils.
+She's a jealous woman.,C'est une femme jalouse.
+She's a single mother.,Elle est mère célibataire.
+She's had a hard life.,Elle a eu une vie difficile.
+She's missed the boat.,Elle a loupé le coche.
+She's my older sister.,C'est ma sœur aînée.
+She's not at home now.,"Elle n'est pas chez elle, actuellement."
+She's not in the mood.,Elle n'est pas d'humeur.
+She's rather clueless.,Elle est plutôt conne.
+She's smarter than me.,Elle est plus intelligent que moi.
+She's smartly dressed.,Elle est habillée élégamment.
+She's still under age.,Elle est encore mineure.
+She's sure to succeed.,Elle est sûre de réussir.
+She's taller than him.,Elle est plus grande que lui.
+She's too old for you.,Elle est trop vieille pour toi.
+She's too old for you.,Elle est trop vieille pour vous.
+She's too old for you.,Elle est trop âgée pour toi.
+She's under the chair.,Elle est sous la chaise.
+She's upset right now.,"Elle est fâchée, là."
+Should I take the bus?,Devrais-je prendre le bus ?
+Should we get a table?,Devrions-nous prendre une table ?
+Shouldn't you go home?,Ne devrais-tu pas te rendre chez toi ?
+Shouldn't you go home?,Ne devrais-tu pas aller chez toi ?
+Shouldn't you go home?,Ne devriez-vous pas vous rendre chez vous ?
+Shouldn't you go home?,Ne devriez-vous pas aller chez vous ?
+Show me another watch.,Montre-moi une autre montre.
+Show me another watch.,Montrez-moi une autre montre.
+Show me another watch.,Faites-moi voir une autre montre.
+Show me another watch.,Fais-moi voir une autre montre.
+Show me something new.,Montre-moi quelque chose de nouveau.
+Show me something new.,Montrez-moi quelque chose de nouveau.
+Show me your passport.,Montre-moi ton passeport !
+Show me your passport.,Montrez-moi votre passeport !
+"Shut the door, please.","Fermez la porte, s'il vous plaît."
+"Shut the door, please.",Veuillez fermer la porte.
+"Shut the door, please.","Ferme la porte, je te prie."
+"Shut the door, please.","Ferme la porte, s'il te plait."
+"Shut the door, please.",Je vous prie de fermer la porte.
+"Shut the door, please.",Veuillez fermer la porte !
+"Shut the door, please.","Fermez la porte, je vous prie !"
+"Shut the door, please.","Ferme la porte, je te prie !"
+"Shut the door, please.",Je te prie de fermer la porte !
+Sit wherever you like.,Assieds-toi où tu veux !
+Sit wherever you like.,Asseyez-vous où vous voulez !
+Sit wherever you like.,Asseyez-vous où ça vous chante !
+Sit wherever you like.,Asseyez-vous où bon vous semble !
+Smoke filled the room.,La fumée a envahi la pièce.
+Smoke filled the room.,La fumée envahit la pièce.
+Smoking is prohibited.,Il est interdit de fumer.
+So what're you saying?,Alors qu'es-tu en train de dire ?
+So what're you saying?,Alors qu'êtes-vous en train de dire ?
+"So you give up, right?",Alors tu as abandonné n'est-ce pas ?
+Somebody poisoned Tom.,Quelqu'un a empoisonné Tom.
+Somebody stole my car.,Quelqu'un a volé ma voiture.
+Somebody stole my car.,Quelqu'un a dérobé ma voiture.
+Somebody's in trouble.,Quelqu'un a des ennuis.
+Someone asked for you.,Quelqu'un a demandé après vous.
+Someone took my place.,Quelqu'un a pris ma place.
+Someone took my stuff.,Quelqu'un a pris mes affaires.
+Something is odd here.,Il y a quelque chose de bizarre ici.
+Something isn't right.,Quelque chose n'est pas correct.
+Something smells good.,Quelque chose sent bon.
+Something's not right.,Quelque chose cloche.
+"Sorry, I've got to go.","Désolé, je dois partir."
+Speak a little louder.,Parle un peu plus fort.
+Speak a little louder.,Parlez un peu plus fort.
+Speak a little louder.,Parle un tantinet plus fort.
+Spring is coming soon.,Le printemps approche à grands pas.
+Stay absolutely still.,Reste absolument immobile !
+Stay absolutely still.,Restez absolument immobile !
+Stay out of the water.,Restez en dehors de l'eau !
+Stay out of the water.,Reste en dehors de l'eau !
+Stick out your tongue.,Montrez-moi votre langue.
+Stick out your tongue.,Tire la langue !
+Still waters run deep.,Les eaux calmes sont profondes.
+Stocks hit a new high.,Les actions ont atteint un nouveau pic.
+Stocks hit a new high.,Les actions ont atteint un nouveau sommet.
+Stop being so curious.,Arrête d'être aussi fouineur.
+Stop being so curious.,Arrête d'être aussi fouineuse.
+Stop flirting with me.,Arrêtez de me draguer !
+Stop flirting with me.,Arrête de me draguer !
+Stop making that face.,Arrête de faire cette tête.
+Stop making that face.,Arrêtez de faire cette tête.
+Stop your bellyaching.,Arrête tes lamentations.
+Study these sentences.,Étudie ces phrases.
+Study these sentences.,Étudiez ces phrases.
+Summer has just begun.,L'été a juste commencé.
+Summer is almost here.,L'été est presque là.
+Summer is almost over.,L'été est bientôt fini.
+Summer is almost over.,L'été est presque terminé.
+Tadpoles become frogs.,Les têtards deviennent des grenouilles.
+Take a walk every day.,Promène-toi chaque jour.
+Take a walk every day.,Promène-toi quotidiennement.
+Take care of the kids.,Prenez soin des enfants.
+Take care of yourself.,Prends soin de toi.
+Take care of yourself.,Prenez soin de vous.
+Take hold of the rope.,Saisissez la corde !
+Take hold of the rope.,Saisis la corde !
+Take me to your place.,Emmenez-moi chez vous !
+Take me to your place.,Emmène-moi chez toi !
+Take off your clothes.,Défais-toi !
+Take off your clothes.,Défaites-vous !
+Take off your clothes.,Retire tes vêtements !
+Take off your clothes.,Retirez vos vêtements !
+Take off your clothes.,Ôte tes vêtements !
+Take off your clothes.,Ôtez vos vêtements !
+Tears filled her eyes.,Ses yeux se remplirent de larmes.
+Tell Tom I'll be back.,Dis à Tom que je vais revenir.
+Tell Tom I'll be back.,Dites à Tom que je reviendrai.
+Tell Tom I'm not home.,Dites à Tom que je ne suis pas chez moi.
+Tell Tom I'm not home.,Dis à Tom que je ne suis pas à la maison.
+Tell me how he got it.,Dis-moi comment il l'a eu.
+Tell me it's not true.,Dis-moi que ce n'est pas vrai !
+Tell me it's not true.,Dites-moi que ce n'est pas vrai !
+Tell me what Tom said.,Dites-moi ce que Tom a dit.
+Tell me what Tom said.,Dis-moi ce que Tom a dit.
+Tell me what happened.,Dis-moi ce qui est arrivé.
+Tell me what to think.,Dites-moi que penser !
+Tell me what to think.,Dis-moi que penser !
+Tell me what you want.,Dis-moi ce que tu veux.
+Tell me what you want.,Dites-moi ce que vous voulez.
+Tell me when to start.,Dis-moi quand commencer.
+Tell me. I'm all ears.,"Raconte-moi, je suis tout ouïe."
+Tell the truth to Tom.,Dis la vérité à Tom.
+Tell the truth to Tom.,Dites la vérité à Tom.
+Tell them who you are.,Dis-leur que tu es.
+Tell them who you are.,Dites-leur qui vous êtes.
+Tell us a ghost story.,Raconte-nous une histoire de fantômes.
+Tell us a ghost story.,Racontez-nous une histoire de fantômes.
+Tell us the truth now.,Dis-nous la vérité maintenant.
+Tests start next week.,Les tests débutent la semaine prochaine.
+Thank you all so much.,"Merci à tous, tellement."
+Thank you for calling.,Merci d'avoir appelé.
+Thank you for waiting.,Merci d'avoir attendu.
+Thanks for joining us.,Merci de te joindre à nous.
+Thanks for joining us.,Merci de vous joindre à nous.
+Thanks for the advice.,Merci pour le conseil !
+Thanks to both of you.,Merci à vous deux.
+"Thanks, but no thanks.",Non merci.
+That book is very old.,Ce livre est très ancien.
+That brown hat is old.,Ce chapeau marron est vieux.
+That can be a problem.,Cela peut être un problème.
+That can be a problem.,Ça peut être un problème.
+That can be confusing.,Cela peut être déroutant.
+That can't be allowed.,Cela ne peut être autorisé.
+That cannot be denied.,On ne peut pas dire le contraire.
+That car is quite new.,La voiture est assez neuve.
+That car is very fast.,Cette voiture est très rapide.
+That cost him his job.,Cela lui coûta son poste.
+That could be helpful.,Ça pourrait être utile.
+That could take weeks.,Cela pourrait prendre des semaines.
+That didn't take long.,Ça n'a pas duré longtemps.
+That dog doesn't bite.,Ce chien-là ne mord pas.
+That dog is so stupid.,Ce chien est tellement idiot.
+That game was awesome.,Cette partie était géniale.
+That gave Tom an idea.,Cela donné une idée à Tom.
+That gives me an idea.,Cela me donne une idée.
+That guy is an outlaw.,Ce type est un bandit.
+That happened in 2013.,C'est arrivé en 2013.
+That house is haunted.,Cette maison est hantée.
+That is an old camera.,C'est un vieil appareil photo.
+That is an old castle.,C'est un vieux château.
+That is my own affair.,C'est mon affaire à moi.
+That is too expensive.,C'est trop cher.
+That is very exciting.,C'est très excitant.
+That isn't big enough.,Ce n'est pas assez grand.
+That isn't big enough.,Ce n'est pas assez gros.
+That joke isn't funny.,Cette blague n'est pas drôle.
+That kiss was amazing.,Ce baiser était fantastique.
+That kiss was amazing.,Ce baiser était incroyable.
+That looks like blood.,On dirait du sang.
+That made me very sad.,Cela me rendit très triste.
+That made me very sad.,Ça me rendit très triste.
+That made me very sad.,Cela m'a rendu très triste.
+That made me very sad.,Cela m'a rendue très triste.
+That made me very sad.,Ça m'a rendu très triste.
+That made me very sad.,Ça m'a rendue très triste.
+That makes more sense.,Ça a davantage de sens.
+That man is a soldier.,L'homme est soldat.
+That man is a soldier.,Cet homme est soldat.
+That man is dangerous.,Cet homme est dangereux.
+That might be serious.,Il se pourrait que ce soit sérieux.
+That must be exciting.,Ce doit être excitant.
+That noise woke me up.,Ce bruit me réveilla.
+That noise woke me up.,Ce bruit m'a réveillé.
+That one is all yours.,Celui-ci est tout à toi.
+That one is all yours.,Celui-ci est tout à vous.
+That probably is true.,C'est probablement vrai.
+That really scares me.,Ça me fait vraiment peur.
+That seems like a lot.,Ça semble être beaucoup.
+That serves you right.,Bien fait pour toi.
+That should be enough.,Ça devrait le faire.
+That should be enough.,Ça devrait suffire.
+That smells delicious.,Cela sent délicieusement bon.
+That was Tom's cousin.,C'était le cousin de Tom.
+That was Tom's cousin.,C'était la cousine de Tom.
+That was Tom's cousin.,Ce fut le cousin de Tom.
+That was Tom's cousin.,Ce fut la cousine de Tom.
+That was a bad choice.,C’était un mauvais choix.
+That was a cheap shot.,Ce fut une bassesse.
+That was a cheap shot.,C'était une bassesse.
+That was a close call.,On l'a échappé belle.
+That was a funny joke.,C'était une blague drôle.
+That was a lot of fun.,C'était très marrant.
+That was all I needed.,C'est tout ce dont j'avais besoin.
+That was all we heard.,C'est tout ce que nous avons entendu.
+That was embarrassing.,C'était embarrassant.
+That was great advice.,Ce furent d'excellents conseils.
+That was kind of mean.,C'était plutôt méchant.
+That was kind of rude.,C'était plutôt grossier.
+That was pretty weird.,C'était assez bizarre.
+That was really great.,C'était vraiment génial.
+That was really weird.,C'était vraiment bizarre.
+That was sweet of you.,C'était gentil de ta part.
+That was unbelievable.,C'était incroyable.
+That was uncalled for.,C'était déplacé.
+That was unforgivable.,C'était impardonnable.
+That wasn't my intent.,Ce n'était pas mon intention.
+That wasn't very nice.,Ce n'était pas très sympa.
+That water pipe leaks.,Le tuyau d'eau fuit.
+That will buy us time.,Cela nous fera gagner du temps.
+That would be helpful.,Ça serait utile.
+That would make sense.,Cela aurait du sens.
+That wouldn't help me.,Ça ne m'aiderait pas.
+That'll be impossible.,Ce sera impossible.
+That'll make me happy.,Cela me rendra heureuse.
+That'll make me happy.,Cela me rendra heureux.
+That's a lot of money.,C'est beaucoup d'argent.
+That's a minor detail.,C'est un détail mineur.
+That's a small detail.,C'est un petit détail.
+That's all I remember.,C'est tout ce dont je me souviens.
+That's all I remember.,C'est tout ce que je me rappelle.
+That's all we can ask.,C'est tout ce que nous pouvons demander.
+That's all we do here.,C'est tout ce que nous faisons ici.
+That's all you can do.,C'est tout ce que tu peux faire.
+That's all you can do.,C'est tout ce que vous pouvez faire.
+That's another matter.,C'est un autre problème.
+That's another matter.,C'est une autre affaire.
+That's enough for now.,C'en est assez pour le moment.
+That's fantastic news.,C'est super.
+That's fantastic news.,C'est une bonne nouvelle.
+"That's good, isn't it?","C'est bien, non ?"
+That's how I feel now.,C'est ainsi que je me sens actuellement.
+That's how it started.,C'est ainsi que ça commença.
+That's how it started.,C'est ainsi que ça a commencé.
+That's just not right.,C'est simplement incorrect.
+That's my final offer.,C'est ma dernière offre.
+That's not acceptable.,Ce n'est pas acceptable.
+That's not big enough.,Ce n'est pas assez grand.
+That's not easy to do.,Ce n'est pas facile à faire.
+That's not even funny.,Ce n'est même pas drôle.
+That's not how I feel.,Ce n'est pas ce que je ressens.
+That's not my concern.,Ce n'est pas mon problème.
+That's not my opinion.,Ce n'est pas mon opinion.
+That's not quite true.,Ce n'est pas tout à fait vrai.
+That's not reasonable.,Ce n'est pas raisonnable.
+That's not surprising.,Ce n'est pas surprenant.
+That's not the answer.,Ce n'est pas la réponse.
+That's not very funny.,Ce n'est pas très drôle.
+That's not what I saw.,Ce n'est pas ce que j'ai vu.
+That's not your fault.,Ce n'est pas de ta faute.
+That's not your fault.,Ce n'est pas de votre faute.
+That's not your knife.,Ce n'est pas ton couteau.
+That's not your knife.,Ce n'est pas votre couteau.
+That's open to debate.,C'est ouvert au débat.
+That's pretty serious.,C'est assez sérieux.
+That's pretty strange.,C'est plutôt étrange.
+That's pretty strange.,C'est assez bizarre.
+That's probably safer.,C'est probablement plus sûr.
+That's quite a secret.,C'est assez secret.
+That's rather amusing.,C'est plutôt amusant.
+That's really awesome.,C'est vraiment génial.
+That's the difference.,C'est la différence.
+That's the last straw!,C'est la goutte qui fait déborder le vase !
+That's the last straw!,Il ne manquait plus que ça !
+That's the tough part.,C'est la partie difficile.
+That's their strategy.,C'est leur stratégie.
+That's very dishonest.,C'est très malhonnête.
+That's very good news.,Ce sont d'excellentes nouvelles.
+That's very good news.,Ce sont là d'excellentes nouvelles.
+That's what I believe.,C'est ce que je crois.
+That's what I figured.,C'est ce que je me suis imaginé.
+That's what I thought.,C'est ce que je pensais.
+That's what scared me.,C'est ce qui m'a fait peur.
+That's what scared me.,C'est ce qui m'a effrayé.
+That's what you think.,C'est ce que tu penses.
+That's where we'll go.,C'est là que nous irons.
+That's why I love you.,C'est pour ça que je t'aime.
+That's why I'm so fat.,C'est pourquoi je suis si gros.
+That's why we're here.,C'est pourquoi nous sommes ici.
+The airplane is ready.,L'avion est prêt.
+The airport is closed.,L'aéroport est fermé.
+The antelope ran away.,L'antilope s'enfuit.
+The attacker ran away.,L'agresseur s'est enfui.
+The baby smiled at me.,Le bébé me sourit.
+The beach was crowded.,La plage était bondée.
+The birds are singing.,Les oiseaux chantent.
+The birds were hungry.,Les oiseaux avaient faim.
+The black one is mine.,Le noir est à moi.
+The bookstore is open.,La librairie est ouverte.
+The boy threw a stone.,Le garçon a jeté une pierre.
+The boy was shirtless.,Le garçon était torse nu.
+The boys built a raft.,Les garçons construisirent un radeau.
+The boys built a raft.,Les garçons ont construit un radeau.
+The boys were injured.,Les garçons ont été blessés.
+The brake didn't work.,Le frein n'a pas fonctionné.
+The cake is delicious.,Le gâteau est délicieux.
+The candle burned out.,La chandelle s'est consumée.
+The candle burned out.,La bougie s'est consumée.
+The car doesn't start.,La voiture ne démarre pas.
+The cat ate the mouse.,Le chat a mangé la souris.
+The cat ate the mouse.,Le chat mangea la souris.
+The cat is in the box.,Le chat est dans la caisse.
+The chicken is cooked.,Le poulet est cuit.
+The chicken was great.,Le poulet était super.
+The children are cold.,Les enfants ont froid.
+The children are safe.,Les enfants sont en sécurité.
+The circus is in town.,Le cirque est en ville.
+The clock has stopped.,L'horloge s'est arrêtée.
+The coffee was bitter.,Le café était amer.
+The concert was awful.,Le concert était horrible.
+The danger is minimal.,Le danger est minimum.
+The dog barked at Tom.,Le chien aboya sur Tom.
+The dog growled at me.,Le chien a grogné après moi.
+The door clicked shut.,La porte se ferma en cliquetant.
+The door doesn't lock.,La porte ne se ferme pas.
+The door was unlocked.,La porte était déverrouillée.
+The doors were closed.,Les portes étaient fermées.
+The doors were closed.,Les portes étaient closes.
+The drawer won't open.,Le tiroir ne veut pas s'ouvrir.
+The feeling is mutual.,Le sentiment est réciproque.
+The files are missing.,Les dossiers sont manquants.
+The files are missing.,Les fichiers sont manquants.
+The fire is spreading.,Le feu s'étend.
+The fire is spreading.,L'incendie s'étend.
+The floor is slippery.,Le sol est glissant.
+The food is delicious.,La nourriture est délicieuse.
+The food is too salty.,La nourriture est trop salée.
+The girls all laughed.,Toutes les filles rirent.
+The girls are excited.,Les filles sont enthousiastes.
+The girls are excited.,Les filles sont excitées.
+The goldfish is alive.,Le poisson rouge est vivant.
+The gun wasn't loaded.,Le pistolet n'était pas chargé.
+The honeymoon is over.,La lune de miel est terminée.
+The hotel burned down.,L'hôtel a été réduit en cendres.
+The hotel burned down.,L'hôtel fut réduit en cendres.
+The house caught fire.,La maison prit feu.
+The house caught fire.,La maison a pris feu.
+The hunter shot a fox.,Le chasseur a tué un renard.
+The ice is very thick.,La glace est très épaisse.
+The kettle is boiling.,La bouilloire est en ébullition.
+The kitchen was clean.,La cuisine était propre.
+The knife isn't sharp.,Le couteau n'est pas aiguisé.
+The lake is deep here.,Le lac est profond ici.
+The long wait is over.,La longue attente est terminée.
+The man lost all hope.,L'homme perdit tout espoir.
+The man lost all hope.,L'homme a perdu tout espoir.
+The meat is expensive.,La viande est chère.
+The meeting went well.,La réunion s'est bien passée.
+The mistakes are mine.,Au temps pour moi.
+The moon has come out.,La lune est apparue.
+The moon has come out.,La lune a fait son apparition.
+The mountain is green.,La montagne est verte.
+The news made her sad.,La nouvelle l'a rendue triste.
+The nurse is not here.,L'infirmière n'est pas là.
+The old man looks sad.,Le vieil homme a l'air triste.
+The old man looks sad.,Le vieil homme semble triste.
+The pain is agonizing.,La douleur est insoutenable.
+The party's on Monday.,La fête est lundi.
+The party's on Monday.,La fête a lieu lundi.
+The pizza tasted good.,La pizza était bonne.
+The pond has dried up.,L'étang s'est asséché.
+The pond is very deep.,L'étang est très profond.
+The price is too high.,Le prix est trop élevé.
+The problem is solved.,Le problème est réglé.
+The problem is theirs.,C'est leur problème.
+The radio is too loud.,La radio est trop forte.
+The rain is wonderful.,La pluie est merveilleuse.
+The rain made me late.,La pluie m'a mis en retard.
+The rent is very high.,Le loyer est très élevé.
+The rest will be easy.,Le reste sera facile.
+The risk is too great.,Le risque est trop grand.
+The risk is too great.,Le risque est trop élevé.
+The risk is too great.,Le risque en est trop élevé.
+The room is too small.,La chambre est trop petite.
+The rumors were false.,Les rumeurs ne s'avérèrent pas.
+The rumors were false.,Les rumeurs étaient fausses.
+The same applies here.,Il en va de même ici.
+The same goes for Tom.,Il en va de même pour Tom.
+The show is on Monday.,Le spectacle est lundi.
+The sky's clear today.,"Aujourd'hui, le ciel est clair."
+The snow is very deep.,La neige est très profonde.
+The soap hurt my eyes.,Le savon me piqua les yeux.
+The soap hurt my eyes.,Le savon m'a piqué les yeux.
+The soldiers are dead.,Les soldats sont morts.
+The soup is too salty.,La soupe est trop salée.
+The spider spun a web.,L'araignée a filé une toile.
+The stars are shining.,Les étoiles brillent.
+The station is nearby.,La gare est juste à côté.
+The streets are clean.,Les rues sont propres.
+The sun has gone down.,Le soleil s'est couché.
+The sun is in the sky.,Le Soleil est dans le ciel.
+The sun is rising now.,Le soleil se lève à présent.
+The sun will set soon.,Le soleil va bientôt se coucher.
+The sun will soon set.,Le soleil va bientôt se coucher.
+The thief ran quickly.,Le voleur courait rapidement.
+The tide is coming in.,La marée monte.
+The town is beautiful.,La bourgade est belle.
+The town was deserted.,La ville était déserte.
+The town was deserted.,La ville était désertée.
+The train has arrived.,Le train est arrivé.
+The train was on time.,Le train était à l'heure.
+The training was hard.,L'entraînement était difficile.
+The treaty was signed.,Le traité a été signé.
+The tubes are clogged.,Les tubes sont bouchés.
+The two brothers died.,Les deux frères sont morts.
+The vote is unanimous.,Le vote est unanime.
+The war ended in 1954.,La guerre a fini en 1954.
+The war has not ended.,La guerre n'est pas finie.
+The war has not ended.,La guerre n'est pas terminée.
+The water is lukewarm.,L'eau est tiède.
+The weather was ideal.,Le temps était idéal.
+The whale is a mammal.,La baleine est un mammifère.
+The wind blew all day.,Le vent souffla tout le jour.
+The wind blew all day.,Le vent a soufflé toute la journée.
+The windows were open.,Les fenêtres étaient ouvertes.
+The women are working.,Les femmes sont au travail.
+The women are working.,Les femmes travaillent.
+The world has changed.,Le monde a changé.
+The world is changing.,Le monde change.
+The world is changing.,Le monde est en train de changer.
+The young girl sighed.,La jeune fille poussa un soupir.
+Their car passed ours.,Leur voiture a doublé la nôtre.
+Their son grew bigger.,Leur fils a grandi.
+There are no examples.,Il n'y a pas d'exemples.
+There are no problems.,Il n'y a pas de problème.
+There are no problems.,Il n'y a aucun problème.
+There are seven of us.,Nous sommes sept.
+There are three of us.,Nous sommes trois.
+There is a new survey.,Il y a un nouveau sondage.
+There is no ambiguity.,Il n'y a pas d'ambiguité.
+There is no milk left.,Il n'y a plus de lait.
+There is no milk left.,Il ne reste plus de lait.
+There is no one there.,Il n'y a personne.
+There is no one there.,"Il n'y a personne, là."
+There is no other way.,Il n'y a pas d'autre moyen.
+There is no other way.,Il n'y a pas d'autre possibilité.
+There is no salt left.,Il n'y a plus de sel.
+There is no timetable.,Aucun calendrier n'a été fixé.
+There is nothing here.,Il n'y a rien ici.
+There isn't much time.,Il n'y a pas beaucoup de temps.
+There was a thick fog.,Il y avait un épais brouillard.
+There was another one.,Il y en avait un autre.
+There was another one.,Il y en avait une autre.
+There was another one.,Il y en a eu un autre.
+There was another one.,Il y en a eu une autre.
+There was no bathroom.,Il n'y avait pas de salle-de-bain.
+There was no one home.,Il n'y avait personne à la maison.
+There was no response.,Il n'y eut pas de réponse.
+There was no response.,Il n'y a pas eu de réponse.
+There was no swelling.,Ça n'a pas enflé.
+There was no violence.,Il n'y a pas eu de violence.
+There'll be a problem.,Il y aura un problème.
+There's a big problem.,Il y a un gros problème.
+There's a yellow rose.,Voici une rose jaune.
+There's no danger now.,Il n'y a plus de danger maintenant.
+There's no difference.,Il n'y a pas de différence.
+There's no free lunch.,On ne rase pas gratis.
+There's no going back.,Il n'y a pas de retour possible.
+There's no one around.,Il n'y a personne aux alentours.
+There's no sugar here.,Il n'y a pas de sucre ici.
+There's no way to win.,Il n'y a pas moyen de gagner.
+There's no wind today.,Il n'y a pas de vent aujourd'hui.
+There's nothing on TV.,Il n'y a rien à la téloche.
+There's nothing there.,Il n'y a rien ici.
+There's nothing there.,Il n'y a rien là.
+There's one condition.,Il y a une condition.
+There's so much to do.,Il y a tant à faire.
+These are counterfeit.,Ce sont des contrefaçons.
+These are my students.,Ce sont mes étudiants.
+These are my students.,Ce sont mes étudiantes.
+These are my students.,Ce sont mes élèves.
+These aren't my ideas.,Ce ne sont pas mes idées.
+These books are Tom's.,Ces livres sont à Tom.
+These books are heavy.,Ces livres sont lourds.
+These boxes are heavy.,Ces boîtes sont lourdes.
+These boxes are heavy.,Ces caisses sont lourdes.
+They all looked happy.,Ils avaient l'air tous contents.
+They all looked happy.,Ils avaient l'air tous satisfaits.
+They all looked happy.,Elles avaient l'air toutes contentes.
+They all looked happy.,Elles avaient l'air toutes satisfaites.
+They all speak French.,Ils parlent tous français.
+They all speak French.,Elles parlent toutes français.
+They are all the same.,Ils sont tous les mêmes.
+They are out shopping.,Ils sont sortis faire les magasins.
+They are out shopping.,Elles sont sorties faire les magasins.
+They are the same age.,Ils sont du même âge.
+They are the same age.,Ils ont le même âge.
+They arrived too soon.,Ils sont arrivés trop tôt.
+They arrived too soon.,Elles sont arrivées trop tôt.
+They arrived too soon.,Ils arrivèrent trop tôt.
+They arrived too soon.,Elles arrivèrent trop tôt.
+They ate marshmallows.,Elles ont mangé des guimauves.
+They can't all be bad.,Ils ne peuvent pas tous être mauvais.
+They can't all be bad.,Elles ne peuvent pas toutes être mauvaises.
+They can't be ignored.,Ils ne peuvent être ignorés.
+They can't be ignored.,Elles ne peuvent pas être ignorées.
+They can't believe it.,Ils n'arrivent pas à y croire.
+They can't believe it.,Elles n'arrivent pas à y croire.
+They couldn't help us.,Ils ne pouvaient pas nous aider.
+They couldn't help us.,Elles ne pouvaient pas nous aider.
+They couldn't help us.,Ils ne pourraient pas nous aider.
+They couldn't help us.,Elles ne pourraient pas nous aider.
+They danced for hours.,Ils ont dansé pendant des heures.
+They danced for hours.,Elles ont dansé pendant des heures.
+They did not go there.,Elles ne s'y sont pas rendues.
+They didn't choose me.,Ils ne m'ont pas choisi.
+They didn't choose me.,Ils ne m'ont pas choisie.
+They didn't choose me.,Elles ne m'ont pas choisi.
+They didn't choose me.,Elles ne m'ont pas choisie.
+They don't have a car.,Ils n'ont pas de voiture.
+They don't have a car.,Elles n'ont pas de voiture.
+They don't have a car.,Ils ne disposent pas de voiture.
+They don't have a car.,Elles ne disposent pas de voiture.
+They don't seem happy.,Ils ne semblent pas heureux.
+They entered the room.,Ils sont entrés dans la pièce.
+They entered the room.,Ils sont entrés dans la chambre.
+They found each other.,Ils se sont trouvés.
+They found each other.,Elles se sont trouvées.
+They found each other.,Ils se trouvèrent.
+They found each other.,Elles se trouvèrent.
+They found him guilty.,Elles l'ont jugé coupable.
+They found him guilty.,Ils l'ont trouvé coupable.
+They ganged up on him.,Ils se liguèrent contre lui.
+They ganged up on him.,Ils se sont ligués contre lui.
+They hated each other.,Ils se haïssaient l'un l'autre.
+They hated each other.,Ils se détestaient.
+They have information.,Ils ont des informations.
+They have information.,Elles ont des informations.
+They huddled together.,Ils se blottirent les uns contre les autres.
+They huddled together.,Ils se blottirent l'un contre l'autre.
+They huddled together.,Elles se blottirent les unes contre les autres.
+They huddled together.,Elles se blottirent l'une contre l'autre.
+They huddled together.,Ils se sont blottis l'un contre l'autre.
+They huddled together.,Elles se sont blotties les unes contre les autres.
+They huddled together.,Elles se sont blotties l'une contre l'autre.
+They huddled together.,Ils se sont blottis les uns contre les autres.
+They lie all the time.,Ils mentent tout le temps.
+They lie all the time.,Elles mentent tout le temps.
+They loaded the truck.,Ils ont chargé le camion.
+They loaded the truck.,Elles ont chargé le camion.
+They made fun of Mary.,Ils se moquèrent de Marie.
+They made fun of Mary.,Elles se sont moquées de Mary.
+They made fun of Mary.,Ils se sont moqués de Mary.
+They made me go there.,Ils m'ont fait aller là.
+They made me go there.,Ils m'y ont fait aller.
+They made me go there.,Ils me forcèrent à y aller.
+They made me go there.,Ils m'ont forcé à y aller.
+They made me go there.,Ils m'y firent aller.
+They meet once a week.,Ils se rencontrent une fois par semaine.
+They meet once a week.,Ils se voient une fois par semaine.
+They missed the train.,Ils manquèrent le train.
+They must be punished.,Ils doivent être punis.
+They must be replaced.,Ils doivent être remplacés.
+They must be replaced.,Il faut les remplacer.
+They never tell a lie.,Ils ne mentent jamais.
+They sat side by side.,Ils s'assirent côte à côte.
+They sat under a tree.,Ils s'assirent sous un arbre.
+They sat up all night.,Ils sont restés assis toute la nuit.
+They saw us yesterday.,Ils nous ont vus hier.
+They saw us yesterday.,Ils nous ont vues hier.
+They saw us yesterday.,Elles nous ont vus hier.
+They saw us yesterday.,Elles nous ont vues hier.
+They shared the money.,Ils partagèrent l'argent.
+They shared the money.,Elles partagèrent l'argent.
+They shared the money.,Ils ont partagé l'argent.
+They shared the money.,Elles ont partagé l'argent.
+They shouted for help.,Elles hurlèrent au secours.
+They shouted for help.,Ils crièrent à l'aide.
+They stopped laughing.,Ils arrêtèrent de rire.
+They stopped laughing.,Ils se sont arrêtés de rigoler.
+They talked all night.,Ils parlèrent toute la nuit.
+They talked all night.,Ils ont parlé toute la nuit.
+They think it's a toy.,Ils pensent que c'est un jouet.
+They told me about it.,Ils me l'ont dit.
+They told me about it.,Ils m'en ont parlé.
+They told me about it.,Elles m'en ont parlé.
+They told me about it.,Elles me l'ont dit.
+They told me about it.,Ils m'en parlèrent.
+They told me about it.,Elles m'en parlèrent.
+They took it by force.,Ils l'ont pris de force.
+They tried to kill us.,Ils ont essayé de nous tuer.
+They tried to kill us.,Elles ont essayé de nous tuer.
+They used truth serum.,Ils ont employé du sérum de vérité.
+They used truth serum.,Ils employèrent du sérum de vérité.
+They used truth serum.,Elles ont employé du sérum de vérité.
+They used truth serum.,Elles employèrent du sérum de vérité.
+They wash their hands.,Elles se lavent les mains.
+They went to bed late.,Elles se sont couchées tard.
+They were all friends.,Ils étaient tous amis.
+They were all friends.,Elles étaient toutes amies.
+They were all smiling.,Ils souriaient tous.
+They were all smiling.,Elles souriaient toutes.
+They were buying time.,Ils gagnaient du temps.
+They were buying time.,Elles étaient en train de gagner du temps.
+They were not pleased.,Ils ne furent pas contents.
+They were not pleased.,Elles ne furent pas contentes.
+They were unimpressed.,Ils n'ont pas été impressionnés.
+They were unimpressed.,Ils ne furent pas impressionnés.
+They were unimpressed.,Elles n'ont pas été impressionnées.
+They were unimpressed.,Elles ne furent pas impressionnées.
+They were very hungry.,Ils avaient très faim.
+They were very hungry.,Elles avaient très faim.
+They will never agree.,Ils ne tomberont jamais d'accord.
+They won't be in time.,Ils ne seront pas à temps.
+They won't let Tom in.,Ils ne laisseront pas Tom entrer.
+They worked like bees.,Elles travaillaient comme des abeilles.
+They worked like bees.,Ils travaillaient comme des abeilles.
+They'll never make it.,Ils n'y parviendront jamais.
+They'll never make it.,Ils n'y arriveront jamais.
+They'll never make it.,Elles n'y parviendront jamais.
+They'll understand us.,Elles nous comprendront.
+They're able students.,Ce sont des étudiants capables.
+They're afraid of him.,Elles ont peur de lui.
+They're afraid of him.,Ils ont peur de lui.
+They're all terrified.,Ils sont tous terrifiés.
+They're all terrified.,Elles sont toutes terrifiées.
+They're coming for me.,Ils viennent pour moi.
+They're coming for me.,Elles viennent pour moi.
+They're coming for us.,Ils viennent nous chercher.
+They're coming for us.,Elles viennent nous chercher.
+They're eating apples.,Ils mangent des pommes.
+They're in the garden.,Ils sont au jardin.
+They're in the garden.,Elles sont au jardin.
+They're in the shower.,Ils sont dans la douche.
+They're in the shower.,Elles sont dans la douche.
+They're in the shower.,Elles sont sous la douche.
+They're in the shower.,Ils sont sous la douche.
+They're just students.,Ce sont juste des étudiants.
+They're just students.,Ce ne sont que des étudiants.
+They're just students.,Ce ne sont que des étudiantes.
+They're just students.,Ce sont juste des étudiantes.
+They're not criminals.,Ce ne sont pas des criminels.
+They're not criminals.,Ce ne sont pas des criminelles.
+They're not expensive.,Ils ne sont pas chers.
+They're not expensive.,Elles ne sont pas chères.
+They're not expensive.,Elles ne sont pas onéreuses.
+They're not following.,Ils ne sont pas en train de suivre.
+They're not following.,Elles ne sont pas en train de suivre.
+They're playing chess.,Ils jouent aux échecs.
+They're too dangerous.,Ils sont trop dangereux.
+They're too dangerous.,Elles sont trop dangereuses.
+They're up to no good.,Ils ne mijotent rien de bon.
+They're up to no good.,Ils vont faire des conneries.
+They're up to no good.,Ils préparent un mauvais tour.
+They're up to no good.,Ils font des affaires pas correctes.
+They've changed a lot.,Ils ont beaucoup changé.
+They've changed a lot.,Elles ont beaucoup changé.
+Think of your brother.,Pensez à votre frère !
+Think of your brother.,Pense à ton frère !
+Think outside the box.,Sortez du cadre !
+Think outside the box.,Sors du cadre !
+Thirty isn't that old.,"Trente ans, ce n'est pas si vieux."
+This bag is too heavy.,Ce sac est trop lourd.
+This banana is rotten.,Cette banane est pourrie.
+This blouse is cotton.,Ce chemisier est en coton.
+This box is too small.,Cette boîte est trop petite.
+This car handles well.,Cette voiture se manie bien.
+This chair is plastic.,Cette chaise est en plastique.
+This could be serious.,Ça pourrait être sérieux.
+This curry is too hot.,Ce curry est trop épicé.
+This data is outdated.,Ces données sont obsolètes.
+This dog is a mongrel.,Ce chien est un bâtard.
+This fell off a truck.,C'est tombé d'un camion.
+This food is terrible.,Cette nourriture est infecte.
+This gives me an idea.,Ça me donne une idée.
+This glass isn't mine.,Ce verre n'est pas à moi.
+This guy is an outlaw.,Ce type est un bandit.
+This heater burns gas.,Le radiateur fonctionne à l'essence.
+This house is haunted.,Cette maison est hantée.
+This is a Chinese fan.,C'est un éventail chinois.
+This is a big problem.,C'est un gros problème.
+This is a big project.,C'est un gros projet.
+This is a big project.,Il s'agit d'un gros projet.
+This is a coincidence.,C'est une coïncidence.
+This is a company car.,C'est une voiture de fonction.
+This is a dirty movie.,C'est un film dégueulasse.
+This is a free sample.,C'est un échantillon gratuit.
+This is a free ticket.,C'est un ticket gratuit.
+This is a good system.,C'est un bon système.
+"This is a joke, right?","C'est une blague, hein ?"
+This is a spotted dog.,C'est un chien tacheté.
+This is a stupid game.,C'est un jeu stupide.
+This is a superb idea.,C'est une superbe idée.
+This is all a mistake.,Tout est une erreur.
+This is all our fault.,Tout est de notre faute.
+This is an apple tree.,C'est un pommier.
+"This is an apple, too.",Ça aussi c'est une pomme.
+This is an epic novel.,C'est un roman épique.
+This is an old letter.,C'est une vieille lettre.
+This is based on fact.,Ça se base sur des faits.
+This is for everybody.,C'est pour tout le monde.
+This is for my friend.,Ceci est pour mon ami.
+This is for my friend.,C'est pour mon ami.
+This is for my friend.,C'est pour mon amie.
+This is for my friend.,Ceci est pour mon amie.
+This is going to hurt.,Ça va faire mal.
+This is going too far.,Ça va trop loin !
+This is how I made it.,Voici comment je l'ai fait.
+This is how I made it.,Voici comment je le fis.
+This is how I made it.,C'est comme ça que je le fis.
+This is how I made it.,C'est comme ça que je l'ai fait.
+This is how I made it.,Voici comment je l'ai confectionné.
+This is how I made it.,C'est comme ça que je le confectionnai.
+This is how you do it.,C'est comme ça qu'on fait.
+This is inappropriate.,C'est inapproprié.
+This is my dictionary.,C'est mon dictionnaire.
+This is my first time.,"C'est, pour moi, la première fois."
+This is my last offer.,C'est ma dernière offre.
+This is my last offer.,C'est mon ultime offre.
+This is not expensive.,Ce n'est pas cher.
+This is not happening.,Ça ne se produit pas.
+This is not my ticket.,Ce n'est pas mon ticket.
+This is not necessary.,Ce n'est pas nécessaire.
+This is not true love.,Ce n'est pas du véritable amour.
+This is our main goal.,Ceci est notre objectif principal.
+This is our only hope.,C'est notre seul espoir.
+This is our only hope.,C'est notre unique espoir.
+This is our only shot.,C'est notre seule chance.
+This is quite a place.,C'est un sacré endroit.
+This is so depressing.,C'est tellement déprimant.
+This is something new.,C'est quelque chose de neuf.
+This is something new.,C'est quelque chose de nouveau.
+This is the easy part.,C'est la partie facile.
+This is the last game.,C'est la dernière manche.
+This is the last game.,C'est la dernière partie.
+This is the last game.,C'est le dernier jeu.
+This is the last time.,C'est la dernière fois.
+This is truly amazing.,C'est vraiment incroyable.
+This is unprecedented.,C'est sans précédent.
+This is very exciting.,C'est très excitant.
+This is what I wanted.,C'est ce que je voulais.
+This is where we live.,Voici où nous vivons.
+This isn't a hospital.,Ce n'est pas un hôpital.
+This isn't my problem.,Ce n'est pas mon problème.
+This made me very sad.,Cela me rendit très triste.
+This made me very sad.,Ça me rendit très triste.
+This made me very sad.,Cela m'a rendu très triste.
+This made me very sad.,Cela m'a rendue très triste.
+This made me very sad.,Ça m'a rendu très triste.
+This made me very sad.,Ça m'a rendue très triste.
+This makes me curious.,Ça excite ma curiosité.
+This makes me curious.,Ça éveille ma curiosité.
+This map is worthless.,Cette carte est sans valeur.
+This may take a while.,Ceci pourrait prendre un moment.
+This may take a while.,Ça peut prendre un certain temps.
+This milk tastes sour.,Ce lait a un goût aigre.
+"This mink cost $3,000.",Ce vison coûte 3000 dollars.
+This movie is rated R.,Ce film est classé X.
+This news is official.,Cette nouvelle est officielle.
+This one is all yours.,Celui-ci est tout à toi.
+This one is all yours.,Celui-ci est tout à vous.
+This one is all yours.,Celui-ci est entièrement à toi.
+This one is all yours.,Celui-ci est entièrement à vous.
+This one is different.,Celui-ci est différent.
+This one is different.,Celle-ci est différente.
+This one is the worst.,Celui-ci est le pire.
+This one is the worst.,Celle-ci est la pire.
+This party is awesome.,Cette fête est géniale.
+This pear smells nice.,Cette poire sent bon.
+This place is perfect.,Cet endroit est parfait.
+This place smells bad.,Cet endroit sent mauvais.
+This road is terrible.,Cette route est redoutable.
+This room is for VIPs.,Cette pièce est pour les personnalités.
+This room is for rent.,Cette chambre est à louer.
+This sandwich is good.,Ce sandwich est bon.
+This should be plenty.,Ça devrait être amplement suffisant.
+This should be plenty.,Ça devrait largement suffire.
+This spoon is for tea.,Cette cuillère est pour le thé.
+This string is strong.,Cette corde est solide.
+This stuff is amazing.,Ce truc est stupéfiant.
+This sure tastes good!,Ça a vraiment bon goût !
+This tastes like soap.,Ça a un goût de savon.
+This tastes very good.,C’est très bon.
+This tea is very good.,Ce thé est très bon.
+This tea is very nice.,Ce thé est très agréable.
+This textbook is good.,Ce manuel est bon.
+This time I'll try it.,"Cette fois, je vais l'essayer."
+This time I'll try it.,"Cette fois, je vais essayer ça."
+This was a great idea.,C'était une brillante idée.
+This was a great idea.,Ce fut une brillante idée.
+This was not the deal.,Ça n'était pas le contrat.
+This won't hurt a bit.,Ça ne va pas faire mal du tout.
+This work doesn't pay.,Ce travail ne paie pas.
+This work doesn't pay.,Ce boulot ne paie pas.
+Those are empty words.,Ce sont des mots vides de sens.
+Those are my trousers.,C'est mon pantalon.
+Those boots are Tom's.,Ces bottes sont à Tom.
+Those men are cowards.,Ces hommes sont des pleutres.
+Those photos are hers.,Ces photos-là sont les siennes.
+Time cures all things.,Le temps guérit toutes les plaies.
+Time heals all wounds.,Le temps guérit toutes les plaies.
+Time heals all wounds.,Le temps soulage toutes les plaies.
+Time waits for no one.,Le temps file et n'attend personne.
+Tips are not accepted.,Les pourboires ne sont pas acceptés.
+Today is my lucky day.,Aujourd'hui est mon jour de chance.
+Today is not your day.,Ce n'est pas ton jour.
+Today was a tough day.,Aujourd'hui fut une journée difficile.
+Today was a tough day.,Aujourd'hui était une dure journée.
+Tom almost got caught.,Tom a failli se faire prendre.
+Tom always works hard.,Tom travaille toujours d'arrache-pied.
+Tom and I are buddies.,Tom et moi sommes copains.
+Tom and I are buddies.,Tom et moi sommes potes.
+Tom and I are friends.,Tom et moi sommes amis.
+Tom asked for a raise.,Tom a demandé une augmentation.
+Tom became a Catholic.,Thomas est devenu catholique.
+Tom became a minister.,Tom est devenu ministre.
+Tom became a minister.,Tom est devenu pasteur.
+Tom boarded the plane.,Tom monta à bord de l'avion.
+Tom boiled some water.,Tom a fait bouillir un peu d'eau.
+Tom borrowed my ruler.,Tom a emprunté ma règle.
+Tom bought Mary a car.,Tom a acheté une voiture à Marie.
+Tom bought a bathrobe.,Tom a acheté un peignoir.
+Tom bought a used car.,Tom a acheté une voiture d'occasion.
+Tom broke the silence.,Tom a rompu le silence.
+Tom brought Mary here.,Tom amena Marie ici.
+Tom brought a blanket.,Tom a apporté une couverture.
+Tom buttoned his coat.,Tom boutonna son manteau.
+Tom buttoned his coat.,Tom a boutonné son manteau.
+Tom can count on Mary.,Tom peut compter sur Mary.
+Tom can't be far away.,Tom ne doit pas être bien loin.
+Tom can't do it alone.,Tom n'y arrivera pas tout seul.
+Tom can't play tennis.,Tom ne sait pas jouer au tennis.
+Tom can't ride a bike.,Tom ne sait pas faire du vélo.
+Tom caught a big fish.,Tom a attrapé un gros poisson.
+Tom closed the blinds.,Tom ferma les volets.
+Tom collects antiques.,Tom collectionne les antiquités.
+Tom comes from Boston.,Tom vient de Boston.
+Tom corrected himself.,Tom s’est corrigé tout seul.
+Tom corrected himself.,Tom s’est corrigé lui-même.
+Tom could barely walk.,Tom pouvait à peine marcher.
+Tom could be anywhere.,Tom pourrait être n'importe où.
+Tom cried all morning.,Tom a pleuré toute la matinée.
+Tom cried all morning.,Tom pleura toute la matinée.
+Tom didn't come today.,Tom n'est pas venu aujourd'hui.
+Tom didn't drink much.,Tom n'a pas beaucoup bu.
+Tom didn't feel tired.,Tom ne s'est pas senti fatigué.
+Tom didn't get caught.,Tom ne s'est pas fait prendre.
+Tom didn't leave Mary.,Tom ne quitta pas Mary.
+Tom didn't leave Mary.,Tom n'a pas quitté Mary.
+Tom didn't say a word.,Tom ne dit mot.
+Tom didn't say a word.,Tom n'a pas dit un mot.
+Tom didn't trust Mary.,Tom n'a pas fait confiance à Mary.
+Tom died in the blast.,Tom est mort dans l'explosion.
+Tom died this morning.,Tom est mort ce matin.
+Tom does it very well.,Tom le fait très bien.
+Tom doesn't cook well.,Tom ne cuisine pas bien.
+Tom doesn't have kids.,Tom n'a pas d'enfants.
+Tom doesn't like Mary.,Tom n'aime pas Mary.
+Tom doesn't like beef.,Tom n'aime pas la viande de bœuf.
+Tom doesn't live here.,Tom ne vit pas ici.
+Tom doesn't live here.,Tom n'habite pas ici.
+Tom doesn't live here.,Tom n’habite pas ici.
+Tom doesn't play golf.,Tom ne joue pas au golf.
+Tom doesn't seem busy.,Tom n'a pas l'air d'être occupé.
+Tom doesn't talk much.,Tom ne parle pas beaucoup.
+Tom doesn't want kids.,Tom ne veut pas d'enfants.
+Tom eats very quickly.,Tom mange très vite.
+Tom enjoyed the movie.,Tom a adoré le film.
+Tom folded his sheets.,Tom a plié ses draps.
+Tom folded his shirts.,Tom plia ses chemises.
+Tom folded his shirts.,Tom a plié ses chemises.
+Tom found the problem.,Tom trouva le problème.
+Tom found the problem.,Tom a trouvé le problème.
+Tom gave me a bicycle.,Tom m'a donné un vélo.
+Tom gave me this book.,Tom me donna ce livre.
+Tom gave me this book.,Tom m'a donné ce livre.
+Tom gets on my nerves.,Tom me tape sur les nerfs.
+Tom gets upset easily.,Tom est facilement contrarié.
+Tom got a lucky break.,Tom a eu de la chance.
+Tom got his car fixed.,Tom a fait réparer sa voiture.
+Tom got off the train.,Tom est descendu du train.
+Tom graduated in 2013.,Tom a été diplômé en 2013.
+Tom greeted us warmly.,Tom nous accueillit chaleureusement.
+Tom has a good excuse.,Tom a bon dos.
+Tom has a half-sister.,Thomas a une demi-sœur.
+Tom has a half-sister.,Tom a une demi-sœur.
+Tom has a loose tooth.,Tom a une dent qui bouge.
+Tom has a lot of toys.,Tom a beaucoup de jouets.
+"Tom has a plan, right?","Tom a un plan, n'est-ce pas ?"
+Tom has a thick beard.,Tom a une barbe touffue.
+Tom has back problems.,Tom a des problèmes de dos.
+Tom has been defeated.,Tom a été battu.
+Tom has gained weight.,Tom a pris du poids.
+Tom has just resigned.,Tom vient de démissionner.
+Tom has lots of money.,Tom a beaucoup d'argent.
+Tom has three guitars.,Tom a trois guitares.
+Tom has three sisters.,Tom a trois sœurs.
+Tom has to be stopped.,Tom doit être arrêté.
+Tom hasn't apologized.,Tom ne s'est pas excusé.
+Tom hid behind a bush.,Tom se cacha derrière un buisson.
+Tom hid behind a tree.,Tom se cacha derrière un arbre.
+Tom hid behind a tree.,Tom s'est caché derrière un arbre.
+Tom hid in the closet.,Tom s'est caché dans la penderie.
+Tom is Mary's fiancé.,Tom est le fiancé de Marie.
+Tom is Mary's stepson.,Tom est le beau-fils de Mary.
+Tom is a bit paranoid.,Tom est un peu paranoïaque.
+Tom is a car mechanic.,Tom est mécanicien automobile.
+Tom is a fast learner.,Tom apprend vite.
+Tom is a good climber.,Tom est un bon grimpeur.
+Tom is a good student.,Tom est un bon étudiant.
+Tom is a good teacher.,Tom est un bon professeur.
+Tom is a handsome guy.,Tom est un beau mec.
+Tom is a handsome man.,Tom est un bel homme.
+Tom is a househusband.,Tom est un homme au foyer.
+Tom is a pediatrician.,Tom est pédiatre.
+Tom is a psychologist.,Tom est psychologue.
+Tom is a real charmer.,Tom est un vrai charmeur.
+Tom is a sheep farmer.,Tom est un éleveur de moutons.
+Tom is a stubborn man.,Tom est un homme têtu.
+Tom is a very shy boy.,Tom est un garçon très timide.
+Tom is also an artist.,Tom est aussi artiste.
+Tom is always helpful.,Tom est toujours serviable.
+Tom is always present.,Tom est toujours présent.
+Tom is always working.,Tom travaille toujours.
+Tom is always working.,Tom travaille tout le temps.
+Tom is an electrician.,Tom est électricien.
+Tom is an evil genius.,Tom est un génie du mal.
+Tom is an optometrist.,Tom est optométriste.
+Tom is an unusual kid.,Tom est un enfant inhabituel.
+Tom is as old as Mary.,Tom est aussi âgé que Marie.
+Tom is at Mary's home.,Tom est chez Marie.
+Tom is average height.,Tom a une taille moyenne.
+Tom is buying bananas.,Tom achète des bananes.
+Tom is claustrophobic.,Tom est claustrophobe.
+Tom is dating someone.,Tom sort avec quelqu'un.
+Tom is dreaming again.,Tom est encore en train de rêver.
+Tom is falling asleep.,Tom tombe de sommeil.
+Tom is falling asleep.,Tom s'endort.
+Tom is from Australia.,Tom vient d'Australie.
+Tom is gambling again.,Tom s'est remis à jouer.
+Tom is getting better.,Tom va mieux.
+Tom is getting hungry.,Tom commence à avoir faim.
+Tom is good at diving.,Tom est bon en plongée.
+Tom is here somewhere.,Tom est quelque part par là.
+Tom is in big trouble.,Tom a de gros ennuis.
+Tom is in big trouble.,Tom est en grande difficulté.
+Tom is in college now.,Tom est désormais à l'université.
+"Tom is in danger, too.",Tom est également en danger.
+Tom is in there alone.,Tom est là-dedans tout seul.
+Tom is just different.,Tom est juste différent.
+Tom is kind of creepy.,Tom est un peu effrayant.
+Tom is kind of creepy.,Tom est un peu glauque.
+Tom is likely to fail.,Tom a de bonnes chances d'échouer.
+Tom is making a video.,Tom tourne une vidéo.
+Tom is making a video.,Tom fait une vidéo.
+Tom is not a criminal.,Tom n'est pas un criminel.
+Tom is not interested.,Tom n'est pas intéressé.
+Tom is now in custody.,Tom est maintenant en garde à vue.
+Tom is now in custody.,Tom est maintenant en détention provisoire.
+Tom is obviously busy.,Tom est visiblement occupé.
+Tom is our best pilot.,Tom est notre meilleur pilote.
+Tom is reading a book.,Tom est en train de lire un livre.
+Tom is ready to begin.,Tom est prêt à commencer.
+Tom is sadly mistaken.,Tom a malheureusement tort.
+Tom is still in shock.,Tom est toujours en état de choc.
+Tom is too old for me.,Tom est trop vieux pour moi.
+Tom is trying to quit.,Tom essaye de démissionner.
+Tom is very efficient.,Tom est très efficace.
+Tom is writing a book.,Tom écrit un livre.
+Tom is writing a book.,Tom rédige un ouvrage.
+Tom isn't a good cook.,Tom n'est pas un bon cuisinier.
+Tom isn't cooperative.,Tom n'est pas coopératif.
+Tom isn't on Facebook.,Tom n'est pas sur Facebook.
+Tom isn't progressing.,Tom ne progresse pas.
+Tom isn't so gullible.,Tom n'est pas si crédule que ça.
+Tom isn't very frugal.,Thomas n’est pas très économe.
+Tom just contacted us.,Tom vient de nous contacter.
+Tom kissed his cousin.,Tom a embrassé sa cousine.
+Tom kissed his cousin.,Tom a embrassé son cousin.
+Tom kissed his cousin.,Tom embrassa son cousin.
+Tom kissed his cousin.,Tom embrassa sa cousine.
+Tom knocked Mary down.,"Tom frappa Mary, l'envoyant au sol."
+Tom knows how to dive.,Tom sait comment plonger.
+Tom knows that's true.,Tom sait que c'est vrai.
+Tom knows you're here.,Tom sait que tu es ici.
+Tom knows you're here.,Tom sait que vous êtes ici.
+Tom laughed nervously.,Tom riait nerveusement.
+Tom left empty-handed.,Tom est parti les mains vides.
+Tom left the building.,Tom a quitté le bâtiment.
+Tom lied to all of us.,Tom nous a à tous menti.
+Tom liked what he saw.,Tom a aimé ce qu'il a vu.
+Tom liked what he saw.,Tom aima ce qu'il vit.
+"Tom likes skiing, too.",Tom aussi aime skier.
+Tom likes watching TV.,Tom aime regarder la télé.
+Tom looked interested.,Tom avait l'air intéressé.
+Tom looks like a girl.,Tom ressemble à une fille.
+Tom lost 30 kilograms.,Tom a perdu trente kilogrammes.
+Tom lost 30 kilograms.,Tom perdit trente kilogrammes.
+Tom lost his umbrella.,Tom a perdu son parapluie.
+Tom lowered his sword.,Tom abaissa son épée.
+Tom lowered his sword.,Tom a abaissé son épée.
+Tom made a pilgrimage.,Tom a fait un pèlerinage.
+Tom made an exception.,Tom fit une exception.
+Tom made that himself.,Tom a fait cela lui-même.
+Tom made three errors.,Tom a fait trois erreurs.
+Tom means a lot to me.,Tom compte beaucoup pour moi.
+Tom must be tired now.,Tom doit être fatigué maintenant.
+Tom needed a good job.,Tom avait besoin d'un bon boulot.
+Tom never kissed Mary.,Tom n'a jamais embrassé Mary.
+Tom often tells jokes.,Tom raconte souvent des blagues.
+Tom painted the fence.,Tom a peint la clôture.
+Tom played his violin.,Tom jouait de son violon.
+Tom played the violin.,Tom a joué du violon.
+Tom plugged in the TV.,Tom a branché la télé.
+Tom ran at full speed.,Tom courut à pleine vitesse.
+Tom respects everyone.,Tom respecte tout le monde.
+Tom said he knew Mary.,Tom a dit qu'il connaissait Mary.
+Tom said he was alone.,Tom a dit qu'il était seul.
+Tom said he would try.,Tom a dit qu'il essayerait.
+Tom says he knows you.,Tom dit qu'il vous connaît.
+Tom says that's a lie.,Tom dit que c'est un mensonge.
+Tom scrubbed his feet.,Tom nettoya ses pieds.
+Tom searched the room.,Tom fouilla la pièce.
+Tom searched the room.,Tom inspecta la pièce.
+Tom seemed distracted.,Tom semblait distrait.
+Tom set the bird free.,Tom libéra l'oiseau.
+Tom showed me the way.,Tom me montrait le chemin.
+Tom sipped his coffee.,Tom sirotait son café.
+Tom still despises me.,Tom me méprise encore.
+Tom swam to the shore.,Tom nagea jusqu'au rivage.
+Tom talks like a girl.,Tom parle comme une fille.
+Tom taught me to sing.,Tom m'a appris à chanter.
+Tom teaches me French.,Tom m'enseigne le français.
+Tom teaches us French.,Tom nous enseigne le français.
+Tom teaches us French.,Tom nous apprend le français.
+Tom thinks I'm stupid.,Tom pense que je suis stupide.
+Tom took Mary's money.,Tom a pris l'argent de Mary.
+Tom took Mary's money.,Tom prit l'argent de Mary.
+Tom took all my stuff.,Tom a pris toutes mes affaires.
+Tom took another bite.,Tom a pris une autre bouchée.
+Tom took another bite.,Tom prit une autre bouchée.
+Tom took off his belt.,Tom retira sa ceinture.
+Tom took off his belt.,Tom a retiré sa ceinture.
+Tom took off his coat.,Tom enleva son manteau.
+Tom took surf lessons.,Tom a pris des leçons de surf.
+Tom tore up the paper.,Tom déchira le papier.
+Tom tried to hit Mary.,Tom a essayé de frapper Mary.
+Tom tried to hit Mary.,Tom essaya de toucher Mary.
+Tom tried to run away.,Tom essaya de s'enfuir.
+Tom underwent surgery.,Tom a subi une intervention chirurgicale.
+Tom wanted to be sure.,Tom voulait être sûr.
+Tom wants answers now.,Tom veut des réponses maintenant.
+Tom wants to be liked.,Tom veut être aimé.
+Tom wants to help out.,Tom veut aider.
+Tom wants to know why.,Tom veut savoir pourquoi.
+Tom was a bit jealous.,Tom était un peu jaloux.
+Tom was a blackmailer.,Tom était un maître-chanteur.
+Tom was a drug addict.,Tom était toxicomane.
+Tom was a scrawny kid.,Tom était un enfant maigre.
+Tom was an accountant.,Tom était comptable.
+Tom was awfully bored.,Tom s'ennuyait terriblement.
+Tom was brokenhearted.,Tom avait le cœur brisé.
+Tom was given a medal.,Tom a reçu une médaille.
+Tom was given a medal.,On a donné une médaille à Tom.
+Tom was great tonight.,Tom était génial ce soir.
+Tom was in good shape.,Tom était en forme.
+Tom was in the shower.,Tom était sous la douche.
+Tom was late for work.,Tom arriva en retard au travail.
+Tom was my first boss.,Tom a été mon premier patron.
+Tom was my role model.,Tom était mon modèle.
+Tom was quiet all day.,Tom n'a pas dit un mot de la journée.
+Tom was quiet all day.,Tom n'a rien dit de la journée.
+Tom was quiet all day.,Tom était silencieux aujourd'hui.
+Tom was ready to jump.,Tom était prêt à sauter.
+Tom was ready to jump.,Tom était prêt à se lancer.
+Tom wasn't here today.,Tom n'était pas là aujourd'hui.
+Tom wasn't in a hurry.,Tom n'était pas pressé.
+Tom wasn't my husband.,Tom n'était pas mon mari.
+Tom wasn't shy at all.,Tom n'était pas du tout timide.
+Tom went home at 6:30.,Tom rentra à la maison à 18 h 30.
+Tom went home at 6:30.,Tom est rentré chez lui à 6 h 30.
+Tom went skiing alone.,Tom est allé skier seul.
+Tom went to Australia.,Tom est parti pour l'Australie.
+Tom will be back soon.,Tom va bientôt rentrer.
+Tom will be back soon.,Tom sera bientôt de retour.
+Tom will be back soon.,Tom reviendra bientôt.
+Tom will be overjoyed.,Tom sera fou de joie.
+Tom will be overjoyed.,Tom sera ravi.
+Tom will go ballistic.,Tom ira à la balistique.
+Tom will never change.,Tom ne changera jamais.
+Tom will probably win.,Tom gagnera probablement.
+Tom will stay with us.,Tom restera avec nous.
+Tom will surely agree.,Tom sera sûrement d'accord.
+Tom won't be arrested.,Tom ne sera pas arrêté.
+Tom won't leave early.,Tom ne partira pas tôt.
+Tom won't wait for me.,Tom ne m'attendra pas.
+Tom won't wait for us.,Tom ne nous attendra pas.
+Tom worked until 2:30.,Tom a travaillé jusqu'à 2h30.
+Tom worked until 2:30.,Tom a travaillé jusqu’à 14 h 30.
+Tom works as a waiter.,Tom travaille comme serveur.
+Tom works for the FBI.,Tom travaille pour le FBI.
+Tom wrote to a friend.,Tom a écrit à un ami.
+Tom's answer is wrong.,La réponse de Tom est fausse.
+Tom's boat was stolen.,Le bateau de Tom a été volé.
+Tom's car caught fire.,La voiture de Tom a prit feu.
+Tom's dog attacked me.,Le chien de Tom m'a attaqué.
+Tom's dog is very big.,Le chien de Tom est très gros.
+Tom's glass was empty.,Le verre de Tom est vide.
+Tom's good at his job.,Tom est bon dans son travail.
+Tom's leg is bleeding.,La jambe de Tom saigne.
+Tom's not very frugal.,Thomas n’est pas très économe.
+Tom's plan is perfect.,Le plan de Tom est parfait.
+Tom's window was open.,La fenêtre de Tom était ouverte.
+"Tom, look what we did.","Tom, regarde ce que nous avons fait."
+Tomorrow is Christmas.,"Demain, c'est Noël."
+Tomorrow is a holiday.,Demain est un jour férié.
+Tomorrow's my day off.,Demain est mon jour de congé.
+Turn in your homework.,Remettez vos devoirs !
+Turn in your homework.,Remets ton devoir !
+"Turn the page, please.","Tournez la page, s'il vous plaît."
+Two seats were vacant.,Deux sièges étaient libres.
+Tyranny is everywhere.,La tyrannie règne partout.
+Wait here for a while.,Attendez ici un moment.
+War is not inevitable.,La guerre n'est pas inévitable.
+War is not inevitable.,La guerre n'est pas une fatalité.
+Was anybody else hurt?,Quelqu'un d'autre a-t-il été blessé ?
+Was that another joke?,Était-ce une autre blague ?
+Was there much damage?,Y eut-il beaucoup de dégâts ?
+Was there much damage?,Y a-t-il eu beaucoup de dégâts ?
+Wash your hands first.,Lave-toi d'abord les mains.
+Wash your hands first.,Lavez-vous d'abord les mains.
+Watch out for the car!,Attention à la voiture !
+We accepted his offer.,Nous avons accepté son offre.
+We accomplished a lot.,Nous avons beaucoup accompli.
+We agreed to the plan.,Nous nous sommes accordés sur le projet.
+We agreed to the plan.,Nous tombâmes d'accord sur le projet.
+We all agree with you.,Nous sommes tous d'accord avec toi.
+We all agree with you.,Nous sommes tous d'accord avec vous.
+We all got distracted.,Nous avons tous été distraits.
+We all got distracted.,Nous avons toutes été distraites.
+We all got in the car.,Nous montâmes tous dans la voiture.
+We all sang in unison.,Nous chantâmes tous à l'unisson.
+We all sang in unison.,Nous chantâmes toutes à l'unisson.
+We all sang in unison.,Nous avons tous chanté à l'unisson.
+We all sang in unison.,Nous avons toutes chanté à l'unisson.
+We already tried that.,Nous avons déjà essayé cela.
+We are short of money.,Nous sommes à court d'argent.
+We brought it with us.,Nous l'avons amené avec nous.
+We can live with that.,Nous pouvons vivre avec ça.
+We can't back out now.,Nous ne pouvons nous retirer maintenant.
+We can't go right now.,Nous ne pouvons partir à l'instant.
+We can't help Tom now.,Nous ne pouvons pas aider Tom maintenant.
+We can't see anything.,On n'arrive à rien voir.
+We can't see anything.,Nous ne pouvons rien voir.
+We can't see anything.,Nous n'arrivons à rien voir.
+We can't see anything.,Nous ne parvenons à rien voir.
+We can't tell anybody.,Nous ne pouvons le dire à quiconque.
+We can't tell anybody.,Nous ne pouvons le raconter à quiconque.
+We can't tow this car.,Nous ne pouvons pas tracter cette voiture.
+We captured the thief.,Nous avons attrapé le voleur.
+We certainly hope not.,Nous ne l'espérons certainement pas.
+We could go there now.,Nous pourrions y aller maintenant.
+We could make a salad.,Nous pourrions faire une salade.
+We could write a book.,Nous pourrions écrire un livre.
+We could've done that.,Nous aurions pu faire ça.
+We did that yesterday.,Nous avons fait ça hier.
+We did that yesterday.,Nous l'avons fait hier.
+We didn't see anybody.,Nous n'avons pas vu âme.
+We didn't see anybody.,Nous n'avons vu personne.
+We don't always agree.,Nous ne sommes pas toujours d'accord.
+We don't have secrets.,Nous n'avons pas de secrets.
+We don't want to know.,Nous ne voulons pas savoir.
+We don't want to know.,On veut pas savoir.
+We don't want to lose.,Nous ne voulons pas perdre.
+We don't want to wait.,Nous ne voulons pas attendre.
+We enjoyed the dinner.,Nous avons apprécié le dîner.
+We gave it to the man.,Nous l'avons donné au monsieur.
+We got along famously.,Nous nous entendîmes à merveille.
+We got an early start.,Nous avons démarré tôt.
+We had a little water.,Nous disposions d'un peu d'eau.
+We had a slight delay.,Nous avons eu un léger retard.
+We had an appointment.,Nous avions un rendez-vous.
+"We had fun, didn't we?","Nous nous sommes amusés, pas vrai ?"
+"We had fun, didn't we?","Nous nous sommes amusées, pas vrai ?"
+"We had fun, didn't we?","On s'est marrés, pas vrai ?"
+"We had fun, didn't we?","On s'est marrées, pas vrai ?"
+We had nothing to eat.,Nous n'avions rien à manger.
+We have a lot of them.,Nous en avons beaucoup.
+We have a lot of time.,Nous avons beaucoup de temps.
+We have a lot of time.,Nous disposons de beaucoup de temps.
+We have a reservation.,Nous avons une réservation.
+We have no complaints.,Nous n'enregistrons pas de plaintes.
+We have no complaints.,Nous n'enregistrons aucune plainte.
+We have no more sugar.,Nous sommes à court de sucre.
+We have so much to do.,Nous avons tant à faire.
+We have the same goal.,Nous avons le même but.
+We have three of them.,Nous en avons trois.
+We have three of them.,On a trois d'entre eux.
+We have three options.,Nous avons trois options.
+We have time to spare.,Nous avons le temps qu'il faut.
+We have time to spare.,Nous disposons de suffisamment de temps.
+We have to be careful.,Nous devons être prudents.
+We have to be on time.,Nous devons être à l'heure.
+We have to be serious.,Nous devons être sérieux.
+We have to be serious.,Nous devons être sérieuses.
+We have two daughters.,Nous avons deux filles.
+We hoped you'd forget.,Nous espérions que vous auriez oublié.
+We just have to do it.,Il nous faut juste le faire.
+We knelt down to pray.,Nous nous agenouillâmes pour prier.
+We know Tom can't win.,Nous savons que Tom ne peut pas gagner.
+We know all about you.,Nous savons tout sur vous.
+We know all about you.,Nous savons tout sur toi.
+We know all about you.,Nous savons tout à votre propos.
+We know all about you.,Nous savons tout à ton propos.
+We know what it means.,On sait ce que ça veut dire.
+We know what it means.,Nous savons ce que ça signifie.
+We left the door open.,Nous avons laissé la porte ouverte.
+We live in a big city.,Nous vivons dans une grande ville.
+We lost a lot of time.,Nous avons perdu beaucoup de temps.
+We love our customers.,Nous adorons nos clients.
+We met at summer camp.,Nous nous sommes rencontrés en colonie de vacances.
+We met at summer camp.,Nous nous sommes rencontrées en colonie de vacances.
+We miss you very much.,Tu nous manques beaucoup.
+We miss you very much.,Vous nous manquez beaucoup.
+We miss you very much.,Tu nous manque beaucoup.
+We must do it quickly.,Il nous faut le faire rapidement.
+We must do it quickly.,Nous devons le faire vite.
+We must start at once.,Nous devons commencer immédiatement.
+We must start at once.,Nous devons commencer tout de suite.
+We must study English.,Nous devons étudier l'anglais.
+We need a distraction.,Il nous faut une distraction.
+We need a little rest.,Nous avons besoin d'un peu de repos.
+We need authorization.,Il nous faut une autorisation.
+We need new batteries.,Nous avons besoin de batteries neuves.
+We need to hire a pro.,Nous devons engager un pro.
+We need to move ahead.,On doit avancer.
+We need to move ahead.,Nous devons aller de l'avant.
+We need to study more.,Il nous faut étudier davantage.
+We need to study more.,Il faut qu’on étudie plus.
+We needed information.,Nous avions besoin d'information.
+We no longer need you.,Nous n'avons plus besoin de vous.
+We no longer need you.,Nous n'avons plus besoin de toi.
+We often eat fish raw.,Nous mangeons souvent du poisson cru.
+We often eat raw fish.,Nous mangeons souvent du poisson cru.
+We ought to do better.,Nous devrions faire mieux.
+We ought to do better.,Nous devrions mieux faire.
+We ran short of money.,L'argent vint à nous manquer.
+We really need to win.,Il nous faut vraiment l'emporter.
+We really want to win.,Nous voulons vraiment gagner.
+We respect each other.,Nous nous respectons les uns les autres.
+We rested for a while.,Nous nous sommes reposés un moment.
+We saw it on the news.,Nous l'avons vu aux nouvelles.
+We saw it on the news.,On l'a vu aux nouvelles.
+We saw it on the news.,On l'a vu aux informations.
+We saw it on the news.,Nous l'avons vu aux informations.
+We should do our best.,Nous devons faire de notre mieux.
+We should finish this.,Nous devrions finir ceci.
+We should get married.,Nous devrions nous marier.
+We should go this way.,Nous devrions aller par là.
+We should go to sleep.,Nous devrions aller dormir.
+We should probably go.,Nous devrions probablement y aller.
+We should work faster.,Nous devons travailler plus rapidement.
+We sometimes see them.,Nous les voyons parfois.
+We still can't see it.,Nous ne pouvons pas encore le voir.
+We stood face to face.,Nous nous tenions face à face.
+We talked about music.,Nous avons parlé de musique.
+We talked for a while.,Nous avons parlé un moment.
+We took turns driving.,Nous nous sommes relayés pour conduire.
+We tried to stop them.,Nous avons essayé de les arrêter.
+We tried to warn them.,Nous avons essayé de les avertir.
+We walked in the park.,Nous avons marché dans le parc.
+We walked to the park.,Nous avons marché jusqu'au parc.
+We want something new.,Nous voulons quelque chose de nouveau.
+We wear the same size.,Nous portons la même taille.
+We were all concerned.,Nous nous faisions tous du souci.
+We were all concerned.,Nous nous faisions toutes du souci.
+We were all disgusted.,Nous étions tous dégoûtés.
+We were all disgusted.,Nous étions toutes dégoûtées.
+We were kids together.,Nous avons passé notre enfance ensemble.
+We were playing chess.,Nous jouions aux échecs.
+We were playing rugby.,Nous jouions au rugby.
+We will not surrender.,Nous ne nous rendrons pas.
+We will soon take off.,Nous allons bientôt décoller.
+We work to earn money.,Nous travaillons pour gagner de l'argent.
+We'd better get going.,Nous ferions mieux d'y aller !
+We'll all be together.,Nous resterons ensemble.
+We'll be back tonight.,Nous reviendrons au soir.
+We'll be here all day.,Nous serons ici toute la journée.
+We'll begin work soon.,Nous commencerons le travail bientôt.
+We'll come back later.,Nous reviendrons plus tard.
+We'll get another one.,On en obtiendra un autre.
+We'll get another one.,Nous en aurons un autre.
+We'll give you a call.,Nous vous appellerons.
+We'll give you a call.,On t'appellera.
+We'll need their help.,Nous aurons besoin de leur aide.
+We'll never catch Tom.,Nous n'attraperons jamais Tom.
+We'll talk afterwards.,Nous parlerons après.
+We'll travel together.,Nous voyagerons ensemble.
+We're almost finished.,Nous avons presque terminé.
+We're an active group.,Nous sommes un groupe actif.
+We're behind schedule.,Nous sommes en retard.
+We're behind schedule.,Nous sommes en retard sur l'emploi du temps.
+We're closed tomorrow.,Nous serons fermés demain.
+We're completely lost.,Nous sommes complètement égarés.
+We're completely lost.,Nous sommes complètement égarées.
+We're dealing with it.,Nous nous en occupons.
+We're getting married.,Nous nous marions.
+We're getting nowhere.,Nous n'aboutissons nulle part.
+We're glad to see you.,Nous sommes contents de te voir.
+We're glad to see you.,Nous sommes contentes de te voir.
+We're glad to see you.,Nous sommes contents de vous voir.
+We're glad to see you.,Nous sommes contentes de vous voir.
+We're glad to see you.,On est contents de te voir.
+We're glad to see you.,On est contentes de te voir.
+We're in need of help.,Nous avons besoin d'aide.
+We're just practicing.,Nous ne faisons que nous exercer.
+We're learning French.,Nous apprenons le français.
+We're leaving tonight.,Nous partons ce soir.
+We're making progress.,Nous faisons des progrès.
+We're nearly finished.,Nous en avons presque terminé.
+We're nearly finished.,Nous en avons presque fini.
+We're not going there.,Nous n'y allons pas.
+We're not proud of it.,Nous n'en sommes pas fiers.
+We're not really sure.,Nous ne sommes pas vraiment sûrs.
+We're not really sure.,Nous ne sommes pas vraiment sûres.
+We're not responsible.,Nous ne sommes pas responsables.
+We're not that stupid.,Nous ne sommes pas si stupides.
+We're not through yet.,Nous n'en avons pas encore terminé.
+We're on our way home.,Nous sommes sur le chemin de la maison.
+We're so proud of you!,Nous sommes tellement fières de toi !
+We're so proud of you!,Nous sommes tellement fières de vous !
+We're so proud of you!,Nous sommes tellement fiers de toi !
+We're so proud of you!,Nous sommes tellement fiers de vous !
+We're studying French.,Nous étudions le français.
+We're used to waiting.,Nous avons l'habitude d'attendre.
+We've done all we can.,Nous avons fait tout ce que nous pouvions.
+We've got a job to do.,Nous avons un travail à faire.
+We've got to find Tom.,Nous devons trouver Tom.
+We've got to get help.,Il nous faut de l'aide.
+We've had a complaint.,Nous avons eu une plainte.
+We've missed the boat.,Nous avons loupé le coche.
+We've run out of beer.,Nous sommes à court de bière.
+We've run out of food.,Nous avons épuisé nos vivres.
+We've run out of food.,Nous avons épuisé notre nourriture.
+We've run out of time.,Nous n'avons plus de temps.
+We've seen three wars.,Nous avons connu trois guerres.
+Weigh your words well.,Pèse bien tes mots !
+Weigh your words well.,Pesez bien vos mots !
+"Well, I must be going.","Bien, je dois partir."
+"Well, I must be going.","Bien, il faut que j'y aille."
+Were you able to help?,As-tu pu aider ?
+Were you able to help?,Avez-vous pu aider ?
+Were you even tempted?,Avez-vous même été tenté ?
+Were you even tempted?,Avez-vous même été tentée ?
+Were you even tempted?,Avez-vous même été tentées ?
+Were you even tempted?,Avez-vous même été tentés ?
+Were you even tempted?,As-tu même été tenté ?
+Were you even tempted?,As-tu même été tentée ?
+Were you really angry?,Étiez-vous vraiment énervé ?
+Were you really angry?,Étais-tu vraiment en colère ?
+Were you really angry?,Étais-tu vraiment énervée ?
+Were you really angry?,Étiez-vous vraiment en colère ?
+Were you really angry?,Étiez-vous vraiment énervés ?
+Were you really angry?,Étiez-vous vraiment énervée ?
+Were you really angry?,Étiez-vous vraiment énervées ?
+Were you spying on me?,M'espionniez-vous ?
+Were you spying on me?,M'espionnais-tu ?
+What I can do for you?,Que puis-je faire pour vous ?
+What I can do for you?,Qu'est-ce que je peux faire pour toi ?
+What I need is a beer.,"Ce dont j'ai besoin, c'est d'une bière."
+What a beautiful baby!,Quel beau bébé !
+What a beautiful city!,Quelle belle ville !
+What a beautiful town!,Quelle belle ville !
+What a beautiful town!,Quelle belle bourgade !
+What a beautiful view!,Quelle superbe vue !
+What a big boy Tom is!,Quel grand garçon est Tom !
+What a brilliant idea!,Quelle idée brillante !
+What a disappointment!,Quelle déception !
+What a fool I've been!,Quel idiot j'ai été !
+What a fool I've been!,Quelle idiote j'ai été !
+What a happy surprise!,Quelle agréable surprise !
+What a happy surprise!,Quelle bonne surprise !
+What a horrible thing!,Quelle horrible chose !
+What a stroke of luck!,Quel coup de chance !
+What a waste of money!,Quel gaspillage d'argent !
+What a waste of water!,Quel gaspillage d'eau !
+What a wonderful gift!,Quel merveilleux cadeau !
+What a wonderful idea!,Quelle merveilleuse idée !
+What a wonderful town!,Quelle ville merveilleuse !
+What about this dress?,Et cette robe ?
+What about this dress?,Que dis-tu de cette robe ?
+What am I agreeing to?,À quoi est-ce que je donne mon accord ?
+What am I going to do?,Que vais-je faire ?
+What an exciting game!,Quel jeu excitant !
+What are the symptoms?,Quels sont les symptômes ?
+What are they made of?,De quoi sont-ils faits ?
+What are they made of?,De quoi sont-elles faites ?
+What are we afraid of?,De quoi avons-nous peur ?
+What are we all doing?,Que sommes-nous tous en train de faire ?
+What are we all doing?,Que sommes-nous toutes en train de faire ?
+What are you doing up?,Qu'est-ce que tu empaquettes ?
+What are you drinking?,Que buvez-vous ?
+What are you drinking?,Que bois-tu ?
+What are you drinking?,Qu'es-tu en train de boire ?
+What are you drinking?,Qu'êtes-vous en train de boire ?
+What are you here for?,Pourquoi es-tu ici ?
+What are you here for?,Dans quel but êtes-vous ici ?
+What are you implying?,Qu'insinues-tu ?
+What are you implying?,Qu'insinuez-vous ?
+What are you mumbling?,Qu’est-ce que tu baragouines ?
+What are you watching?,Qu'es-tu en train de regarder ?
+What are you watching?,Qu'êtes-vous en train de regarder ?
+What book did you buy?,Quel livre as-tu acheté ?
+What book did you buy?,Quel ouvrage as-tu acquis ?
+What book did you buy?,De quel ouvrage as-tu fait l'acquisition ?
+What can I do for you?,Que puis-je faire pour vous ?
+What can I do for you?,Que puis-je faire pour toi ?
+What can I do you for?,Que puis-je faire pour vous ?
+What can I do you for?,Que puis-je faire pour toi ?
+What can I get rid of?,De quoi puis-je me débarrasser ?
+What can you make out?,Que parviens-tu à distinguer ?
+What can you make out?,Que parvenez-vous à distinguer ?
+What can you teach me?,Que peux-tu m'enseigner ?
+What can you teach me?,Que pouvez-vous m'enseigner ?
+What caused the crash?,Qu'est-ce qui a causé le crash ?
+What caused the crash?,Quelle est la cause de l'accident ?
+What did Tom discover?,Qu'a découvert Tom ?
+What did Tom do today?,Qu'a fait Tom aujourd'hui ?
+What did Tom do wrong?,Qu'est-ce que Tom a fait de mal?
+What did Tom show you?,Qu'est-ce que t'a montré Tom ?
+What did he do to you?,Que t'a-t-il fait ?
+What did he look like?,De quoi avait-il l'air ?
+What did he say again?,Qu'est-ce qu'il a dit déjà ?
+What did his wife say?,Qu'a dit sa femme ?
+What did it feel like?,Qu'as-tu ressenti ?
+What did it feel like?,Qu'avez-vous ressenti ?
+What did it feel like?,Que ressentait-on ?
+What did it look like?,À quoi ressemblait-il ?
+What did it look like?,À quoi ressemblait-elle ?
+What did it look like?,À quoi ça ressemblait ?
+What did you discover?,Qu'as-tu découvert ?
+What did you discover?,Qu'avez-vous découvert ?
+What did you do to it?,Qu'y as-tu fait ?
+What did you do to it?,Qu'y avez-vous fait ?
+What did you do today?,Qu'avez-vous fait aujourd'hui ?
+What did you do today?,Qu'as-tu fait aujourd'hui ?
+What did you find out?,Qu'avez-vous découvert ?
+What did you find out?,Qu'as-tu découvert ?
+What did you just say?,Qu'as-tu dit à l'instant ?
+What did you just say?,Qu'avez-vous dit à l'instant ?
+What did you just say?,Que viens-tu de dire ?
+What did you just say?,Que venez-vous de dire ?
+What did you see next?,Qu'avez-vous vu ensuite ?
+What did you see next?,Qu'as-tu vu ensuite ?
+What did your mom say?,Qu'a dit ta mère ?
+What did your mom say?,Qu'a dit votre mère ?
+What do I mean to you?,Que suis-je pour toi ?
+What do I mean to you?,Que suis-je pour vous ?
+What do announcers do?,Que font les présentateurs ?
+What do we have to do?,Que devons-nous faire ?
+What do you call that?,Comment nommez-vous cela ?
+What do you call that?,Comment nommes-tu cela ?
+What do you call this?,Comment appelles-tu ceci ?
+What do you call this?,Comment appelez-vous ceci ?
+What do you look like?,À quoi ressembles-tu ?
+What do you look like?,À quoi ressemblez-vous ?
+What do you look like?,À quoi est-ce que tu ressembles ?
+What do you look like?,À quoi est-ce que vous ressemblez ?
+What do you think now?,Que pensez-vous maintenant ?
+What do you think now?,Que pensez-vous désormais ?
+What do you think now?,Que penses-tu maintenant ?
+What do you think now?,Que penses-tu désormais ?
+What does your son do?,Que fait votre fils ?
+What does your son do?,Que fait ton fils ?
+What else did Tom say?,Qu'est-ce que Tom a dit d'autre ?
+What else did you eat?,Qu'avez-vous mangé d'autre?
+What else do you have?,Qu'as-tu d'autre ?
+What else do you have?,Qu'avez-vous d'autre ?
+What else do you know?,Que savez-vous d'autre ?
+What else do you like?,Qu'est-ce que tu aimes d'autre ?
+What else do you need?,De quoi d'autre as-tu besoin ?
+What else do you need?,De quoi d'autre avez-vous besoin ?
+What else do you want?,Que voulez-vous encore ?
+What exactly happened?,"Que s'est-il passé, exactement ?"
+What exactly happened?,"Que s'est-il produit, exactement ?"
+What exactly happened?,"Qu'est-il arrivé, exactement ?"
+What exactly happened?,"Qu'est-ce qui a eu lieu, exactement ?"
+What floats your boat?,Qu'est-ce qui te chante ?
+What floats your boat?,Qu'est-ce qui vous chante ?
+What grade are you in?,En quelle classe es-tu ?
+What happened exactly?,"Que s'est-il passé, exactement ?"
+What happened exactly?,"Que s'est-il produit, exactement ?"
+What happened exactly?,"Qu'est-il arrivé, exactement ?"
+What happened exactly?,"Qu'est-ce qui a eu lieu, exactement ?"
+What happened in here?,"Que s'est-il passé, ici ?"
+What happened in here?,"Que s'est-il passé, là-dedans ?"
+What happens tomorrow?,Que va-t-il se passer demain ?
+What horrible weather!,Quel temps horrible !
+What if I'm not lucky?,Et si je n'ai pas de chance ?
+What if Tom finds out?,Et si Tom le découvre ?
+What if it's too late?,Et si c'est trop tard ?
+What if they're wrong?,Et s'ils ont tort ?
+What if they're wrong?,Et si elles ont tort ?
+What is going on here?,Que se passe-t-il ici ?
+What is his shoe size?,Quelle est sa pointure ?
+What is in the garden?,Qu'y a-t-il dans le jardin ?
+What is on Channel 10?,Qu'y a-t-il sur la dixième chaîne ?
+What is the cat up to?,Qu'est-ce que le chat a en tête ?
+What is the cat up to?,Qu'est-ce que le chat manigance ?
+What is the next stop?,Quel est le prochain arrêt ?
+What is this nonsense?,Qu’est ce que c’est que cette bêtise ?
+What is two times two?,Combien font deux fois deux ?
+What is your decision?,Quelle est ta décision ?
+What is your decision?,Quelle est votre décision ?
+What made her do that?,Qu'est-ce qui lui a fait faire ça ?
+What more do you need?,De quoi as-tu besoin de plus ?
+What more do you need?,De quoi avez-vous besoin de plus ?
+What more do you want?,Que veux-tu de plus ?
+What more do you want?,Que voulez-vous de plus ?
+What on earth is that?,Qu'est-ce que c'est que ça ?!
+What ship were you on?,Sur quel bateau vous trouviez-vous ?
+What ship were you on?,Sur quel bateau te trouvais-tu ?
+What should I do next?,Que devrais-je faire ensuite ?
+What should I name it?,Comment devrais-je l'appeler ?
+What time did Tom eat?,À quelle heure Tom a-t-il mangé ?
+What time did you eat?,À quelle heure as-tu mangé ?
+What took you so long?,Qu'est-ce qui t'a pris tant de temps ?
+What took you so long?,Qu'est-ce qui vous a pris tant de temps ?
+What was the question?,Quelle était la question ?
+What were we thinking?,À quoi est-ce que nous pensions ?
+What will it all cost?,Combien cela coûtera-t-il en tout ?
+What would cause that?,Qu'est-ce qui causerait ça ?
+What would cause that?,Qu'est-ce qui causerait cela ?
+What would cause this?,Qu'est-ce qui le causerait ?
+What'd the doctor say?,Que dirait le médecin ?
+What'll we talk about?,De quoi parlerons-nous ?
+What're you doing now?,Qu'es-tu en train de faire ?
+What's Tom doing here?,Qu'est-ce que Tom fait ici ?
+What's Tom looking at?,Que regarde Tom ?
+What's all that about?,À propos de quoi est tout ceci ?
+What's all the ruckus?,C'est quoi tout ce bordel ?
+What's all this noise?,Qu'est tout ce bruit ?
+What's all this noise?,Qu'est donc tout ce bruit ?
+What's all this noise?,Quel est tout ce bruit ?
+What's all this noise?,Quel est donc tout ce bruit ?
+What's all this stuff?,"C'est quoi, tous ces trucs ?"
+What's all this stuff?,Que sont tous ces trucs ?
+What's happened to us?,Que nous est-il arrivé ?
+What's happening here?,Que se passe-t-il ici ?
+What's her name again?,"Quel est son nom, déjà ?"
+What's his first name?,Quel est son prénom ?
+What's in that bottle?,Qu'y a-t-il dans cette bouteille?
+What's in the package?,Qu'y a-t-il dans le paquet ?
+What's in these boxes?,Qu'y a-t-il dans ces boîtes ?
+What's in these boxes?,Qu'est-ce qu'il y a dans ces boîtes ?
+What's in those boxes?,Qu'y a-t-il dans ces boîtes ?
+What's it going to be?,Qu'est-ce que ça va être ?
+What's my room number?,Quel est le numéro de ma chambre ?
+What's my room number?,Quel est mon numéro de chambre ?
+What's my room number?,Lequel est le numéro de ma chambre ?
+What's taking so long?,Qu'est-ce qui prend tellement de temps ?
+What's that dog doing?,Que fait ce chien ?
+What's that red stuff?,Qu'est-ce que c'est que ce truc rouge ?
+What's that scar from?,D'où provient cette cicatrice ?
+What's the daily rate?,Quel est le tarif journalier ?
+What's the date today?,Quelle est la date aujourd'hui ?
+What's the date today?,On est le combien ?
+What's the date today?,Le quantième sommes-nous ?
+What's the difference?,Quelle est la différence ?
+What's the magic word?,Quel est le mot magique ?
+What's the matter now?,Qu'est-ce qu'il y a maintenant ?
+What's the text about?,De quoi traite le texte ?
+What's this all about?,De quoi s'agit tout ceci ?
+What's this all about?,Qu'est-ce que tout ceci ?
+What's with everybody?,Qu'est-ce qui vous arrive à tous ?
+What's wrong with you?,Qu'est-ce qui ne va pas avec toi ?
+What's wrong with you?,T'as un problème ?
+What's wrong with you?,Vous avez un problème ?
+What's wrong with you?,Qu'est-ce qui cloche avec toi ?
+What's wrong with you?,Qu'est-ce qui cloche avec vous ?
+What's wrong with you?,C'est quoi ton problème ?
+What's wrong with you?,C'est quoi votre problème ?
+What's your diagnosis?,Quel est votre diagnostic ?
+What's your full name?,Quel est votre nom complet ?
+What's your full name?,Quel est ton nom complet ?
+What's your last name?,Quel est votre nom de famille ?
+What's your real name?,Quel est ton véritable nom ?
+What's your shoe size?,Quelle pointure faites-vous ?
+What's your shoe size?,Quelle pointure fais-tu ?
+What's your specialty?,Quelle est ta spécialité ?
+Whatever he says goes.,Quoi qu'il dise conviendra.
+When did Tom say that?,Quand est-ce que Tom a dit ça ?
+When did you buy that?,Quand l'as-tu acheté ?
+When did you buy that?,Quand l'avez-vous acheté ?
+When did you find out?,Quand l'as-tu découvert ?
+When did you find out?,Quand as-tu trouvé ?
+When did you find out?,Quand as-tu deviné ?
+When did you find out?,Quand avez-vous deviné ?
+When did you find out?,Quand avez-vous trouvé ?
+When did you find out?,Quand l'avez-vous découvert ?
+When did you fire Tom?,Quand as-tu viré Tom ?
+When did you fire Tom?,Quand avez-vous renvoyé Tom ?
+When did you get this?,Quand as-tu reçu ceci ?
+When did you get this?,Quand avez-vous reçu ceci ?
+When did you meet her?,Quand l'as-tu rencontrée ?
+When did you say that?,Quand avez-vous dit ça ?
+When did you say that?,Quand avez-vous dit cela ?
+When did you say that?,Quand as-tu dit ça ?
+When did you say that?,Quand as-tu dit cela ?
+When is the paper due?,Quand l'article est-il attendu ?
+When is your birthday?,Quand ton anniversaire a-t-il lieu ?
+When should I do that?,Quand est-ce que je devrais faire ça ?
+When was this decided?,Quand ceci a-t-il été décidé ?
+When will he be freed?,Quand sera-t-il libéré ?
+When will it be ready?,Quand sera-ce prêt ?
+When will you be back?,Quand reviendras-tu ?
+When will you be back?,Tu rentres quand ?
+When will you be free?,Quand seras-tu libre ?
+When will you be free?,Quand seras-tu libre ?
+Where are my children?,Où sont mes enfants ?
+Where are my scissors?,Où sont mes ciseaux ?
+Where are my slippers?,Où sont mes pantoufles ?
+Where are my slippers?,Où sont mes savates ?
+Where are my slippers?,Où sont mes chaussons ?
+Where are my trousers?,Où se trouve mon pantalon ?
+Where are my trousers?,Où est mon pantalon ?
+Where are our friends?,Où sont nos amis ?
+Where are the glasses?,Où sont les verres ?
+Where are the glasses?,Où sont les lunettes ?
+Where are the showers?,Où sont les douches ?
+Where are the toilets?,Où sont les toilettes ?
+Where are the victims?,Où sont les victimes ?
+Where are you heading?,Où vas-tu ?
+Where are you heading?,Quelle direction prenez-vous ?
+Where are you heading?,Où te diriges-tu ?
+Where are you heading?,Où vous dirigez-vous ?
+Where are you heading?,Où te rends-tu ?
+Where are you heading?,Où vous rendez-vous ?
+Where are you staying?,Où séjournes-tu ?
+Where are you staying?,Où séjournez-vous ?
+Where are you working?,Où travailles-tu ?
+Where are your gloves?,Où sont tes gants ?
+Where are your people?,Où sont vos proches ?
+Where are your things?,Où sont tes affaires ?
+Where are your things?,Où sont vos affaires ?
+Where can I reach you?,Où puis-je te joindre ?
+Where can I reach you?,Où puis-je vous joindre ?
+Where did you grow up?,Où avez-vous grandi ?
+Where did you grow up?,Où as-tu grandi ?
+Where did you guys go?,"Où êtes-vous allés, les mecs ?"
+Where did you hide it?,Où l'avez-vous caché ?
+Where did you hide it?,Où l'avez-vous cachée ?
+Where did you hide it?,Où l'as-tu caché ?
+Where did you hide it?,Où l'as-tu cachée ?
+Where do you all live?,Où vivez-vous tous ?
+Where do you live now?,Où habites-tu maintenant ?
+Where do you work now?,Où travailles-tu maintenant ?
+Where do you work now?,Où travaillez-vous maintenant ?
+Where exactly are you?,"Où êtes-vous, exactement ?"
+Where exactly are you?,"Où es-tu, exactement ?"
+Where is Tom sleeping?,Où dort Tom ?
+Where is my newspaper?,Où se trouve mon journal ?
+Where is my newspaper?,Où est mon journal ?
+Where is the bathroom?,Où sont les toilettes ?
+Where is the bathroom?,Où est la salle de bain ?
+Where is the bathroom?,Où est la salle de bain ?
+Where is the bus stop?,Où se trouve l'arrêt de bus ?
+Where is the elevator?,Où se trouve l'ascenseur ?
+Where is the elevator?,Où est l'ascenseur ?
+Where is the evidence?,Où est la preuve ?
+Where is your luggage?,Où sont tes bagages ?
+Where is your luggage?,Où sont vos bagages ?
+Where should I put it?,Où devrais-je le mettre ?
+Where should I put it?,Où devrais-je le poser ?
+Where should I put it?,Où devrais-je le déposer ?
+Where was your father?,Où était ton père ?
+Where was your father?,Où était votre père ?
+Where were all of you?,Où étiez-vous tous ?
+Where were all of you?,Où étiez-vous toutes ?
+Where were the others?,Où étaient les autres ?
+Where were the police?,Où se trouvait la police ?
+Where were they going?,Où allaient-ils ?
+Where were they going?,Où allaient-elles ?
+Where were you hiding?,Où vous cachiez-vous ?
+Where were you hiding?,Où te cachais-tu ?
+Where're Tom's things?,Où sont les affaires de Tom ?
+Where's everyone else?,Où sont tous les autres ?
+Where's everyone else?,Où sont toutes les autres ?
+Where's my microphone?,Où est mon micro ?
+Where's my other shoe?,Où est mon autre chaussure ?
+Where's the Red Cross?,"La Croix Rouge, où est-elle ?"
+Where's the Red Cross?,Où est la Croix Rouge ?
+Where's the newspaper?,Où est le journal ?
+Where's your daughter?,Où se trouve votre fille ?
+Where's your daughter?,Où se trouve ta fille ?
+Where's your passport?,Où est ton passeport ?
+Where's your suitcase?,Où est ta valise ?
+Which is your luggage?,Quelle est votre valise ?
+Which is your luggage?,Quelle est ta valise ?
+Which team are you on?,De quelle équipe fais-tu partie ?
+Who am I talking with?,Je parle avec qui ?
+Who are you afraid of?,Qui crains-tu ?
+Who are you to decide?,Qui es-tu pour en décider ?
+Who are you to decide?,Qui êtes-vous pour en décider ?
+Who asked Tom to sing?,Qui a demandé à Tom de chanter ?
+Who asked you to sing?,Qui t'a demandé de chanter ?
+Who ate all the fruit?,Qui a mangé tous les fruits ?
+Who broke this window?,Qui a cassé cette fenêtre ?
+Who built the snowman?,Qui a fait le bonhomme de neige ?
+Who cares about facts?,Qui se soucie des faits ?
+Who closed the window?,Qui a fermé la fenêtre ?
+Who crashed the party?,Qui s'est introduit dans la fête ?
+Who did you come with?,Avec qui es-tu venu ?
+Who did you talk with?,Avec qui parlais-tu ?
+Who do you think I am?,Tu me prends pour qui ?!
+Who else is out there?,Qui d'autre est là ?
+Who exactly were they?,Qui étaient-ils exactement ?
+Who exactly were they?,Qui étaient-elles exactement ?
+Who has a better idea?,Qui a une meilleure idée ?
+Who helps your mother?,Qui aide votre mère ?
+Who helps your mother?,Qui aide ta mère ?
+Who hid my suspenders?,Qui a caché mes bretelles ?
+Who is that gentleman?,Qui est ce monsieur ?
+Who is that old woman?,Qui est cette vieille femme ?
+Who planned that trip?,Qui a organisé ce voyage ?
+Who should we believe?,Qui devons-nous croire?
+Who takes care of you?,Qui prend soin de vous ?
+Who takes care of you?,Qui prend soin de toi ?
+Who taught you French?,Qui t'a enseigné le français ?
+Who taught you French?,Qui vous a enseigné le français ?
+Who told Tom to leave?,Qui a dit à Tom de partir ?
+Who told you all that?,Qui vous a dit tout cela ?
+Who told you all that?,Qui t'a dit tout cela ?
+Who told you the news?,Qui t'a conté les nouvelles ?
+Who told you the news?,Qui vous a conté les nouvelles ?
+Who took this picture?,Qui a pris cette photo ?
+Who tried to kill Tom?,Qui a essayé de tuer Tom ?
+Who wants to go first?,Qui veut y aller en premier ?
+Who will come with me?,Qui viendra avec moi ?
+Who will come with me?,Qui m'accompagnera ?
+Who wrote this letter?,Qui a écrit cette lettre ?
+Who's in command here?,Qui commande ici ?
+Who's working tonight?,Qui travaille ce soir ?
+Who's your girlfriend?,Qui est ta petite amie ?
+Who's your girlfriend?,Qui est ta copine ?
+Who's your girlfriend?,Qui est ta petite copine ?
+Who's your girlfriend?,Qui est ta nana ?
+Whose bicycle is that?,À qui est cette bicyclette ?
+Whose bicycle is that?,À qui est ce vélo ?
+Whose bicycle is that?,"C’est à qui, ce vélo ?"
+Whose bicycle is this?,À qui est cette bicyclette ?
+Whose bicycle is this?,À qui est ce vélo ?
+Whose bicycle is this?,"C’est à qui, ce vélo ?"
+Whose books are these?,À qui sont ces livres ?
+Whose books are those?,À qui sont ces livres ?
+Whose handbag is this?,À qui est ce sac à main ?
+Whose is this bicycle?,À qui est cette bicyclette ?
+Whose is this bicycle?,À qui est ce vélo ?
+Whose is this bicycle?,"C’est à qui, ce vélo ?"
+Whose shoes are these?,À qui sont ces chaussures ?
+Whose side are you on?,De quel côté êtes-vous ?
+Whose side are you on?,De quel côté es-tu ?
+Whose turn is it next?,À qui le tour ?
+Whose turn is it next?,À qui est-ce le tour ?
+Why are they fighting?,Pourquoi se battent-ils ?
+Why are they fighting?,Pourquoi se battent-elles ?
+Why are they so upset?,Pourquoi sont-ils si énervés ?
+Why are they so upset?,Pourquoi sont-elles si énervées ?
+Why are we doing this?,Pourquoi faisons-nous cela ?
+Why are we here today?,Pourquoi sommes-nous ici aujourd'hui ?
+Why are you depressed?,Pourquoi êtes-vous déprimé ?
+Why are you even here?,Pourquoi es-tu même ici ?
+Why are you even here?,Pourquoi êtes-vous même ici ?
+Why are you flinching?,Pourquoi tressailles-tu ?
+Why are you flinching?,Pourquoi flanches-tu ?
+Why are you flinching?,Pourquoi te dérobes-tu ?
+Why are you flinching?,Pourquoi vous dérobez-vous ?
+Why are you flinching?,Pourquoi tressaillez-vous ?
+Why are you flinching?,Pourquoi flanchez-vous ?
+Why are you flinching?,Pourquoi es-tu en train de te dérober ?
+Why are you flinching?,Pourquoi êtes-vous en train de vous dérober ?
+Why are you irritated?,Pourquoi êtes-vous énervé ?
+Why are you mad at me?,Pourquoi es-tu fâchée contre moi ?
+Why are you mad at me?,Pourquoi êtes-vous en colère contre moi ?
+Why are you so clumsy?,Pourquoi es-tu si maladroit ?
+Why are you so clumsy?,Pourquoi es-tu si maladroite ?
+Why are you so clumsy?,Pourquoi êtes-vous si maladroit ?
+Why are you so clumsy?,Pourquoi êtes-vous si maladroite ?
+Why are you so clumsy?,Pourquoi êtes-vous si maladroits ?
+Why are you so clumsy?,Pourquoi êtes-vous si maladroites ?
+Why are you so hungry?,Pourquoi avez-vous si faim ?
+Why are you so hungry?,Pourquoi est-ce que tu as si faim ?
+Why are you surprised?,Pourquoi es-tu surpris ?
+Why are you surprised?,Pourquoi es-tu surprise ?
+Why are you surprised?,Pourquoi êtes-vous surpris ?
+Why are you surprised?,Pourquoi êtes-vous surprise ?
+Why are you surprised?,Pourquoi êtes-vous surprises ?
+Why aren't you afraid?,Pourquoi n'as-tu pas peur ?
+Why can't we talk now?,Pourquoi ne pouvons-nous pas parler maintenant ?
+Why did they hire you?,Pourquoi vous ont-ils recruté ?
+Why did they hire you?,Pourquoi vous ont-elles recruté ?
+Why did they hire you?,Pourquoi vous ont-ils recrutée ?
+Why did they hire you?,Pourquoi vous ont-elles recrutée ?
+Why did they hire you?,Pourquoi vous ont-elles recrutés ?
+Why did they hire you?,Pourquoi vous ont-elles recrutées ?
+Why did they hire you?,Pourquoi vous ont-ils recrutées ?
+Why did they hire you?,Pourquoi vous ont-ils recrutés ?
+Why did they hire you?,Pourquoi t'ont-ils recrutée ?
+Why did they hire you?,Pourquoi t'ont-elles recrutée ?
+Why did they hire you?,Pourquoi t'ont-ils recruté ?
+Why did they hire you?,Pourquoi t'ont-elles recruté ?
+Why did you back away?,Pourquoi avez-vous cédé ?
+Why did you back away?,Pourquoi as-tu cédé ?
+Why did you buy a car?,Pourquoi as-tu acheté une voiture ?
+Why did you buy a car?,Pourquoi avez-vous acheté une voiture ?
+Why did you come here?,Pourquoi es-tu venu ici ?
+Why did you come here?,Pourquoi es-tu venue ici ?
+Why did you come here?,Pourquoi êtes-vous venus ici ?
+Why did you come here?,Pourquoi êtes-vous venu ici ?
+Why did you come here?,Pourquoi êtes-vous venue ici ?
+Why did you come here?,Pourquoi êtes-vous venues ici ?
+Why did you interfere?,Pourquoi êtes-vous intervenu ?
+Why did you lie to me?,Pourquoi est-ce que tu m'as menti ?
+Why did you lie to me?,Pourquoi m'as-tu menti ?
+Why did you marry him?,Pourquoi l'as-tu épousé ?
+Why did you marry him?,Pourquoi l'avez-vous épousé ?
+Why didn't you use it?,Pourquoi ne l'utilises-tu pas ?
+Why do people do this?,Pourquoi les gens font-ils ceci ?
+Why do we have dreams?,Pourquoi rêvons-nous ?
+Why do you hate women?,Pourquoi tu détestes les femmes ?
+Why do you have to go?,Pourquoi dois-tu partir ?
+Why do you have to go?,Pourquoi devez-vous partir ?
+Why do you think that?,Pourquoi pensez-vous ça ?
+Why do you want a dog?,Pourquoi veux-tu un chien ?
+Why do you want a dog?,Pourquoi voulez-vous un chien ?
+Why don't I drive you?,Pourquoi ne te conduirais-je pas ?
+Why don't I drive you?,Pourquoi ne vous conduirais-je pas ?
+Why don't you come in?,Pourquoi n'entrez-vous pas ?
+Why don't you come in?,Pourquoi n'entres-tu pas ?
+Why don't you give up?,Pourquoi n'abandonnez-vous pas ?
+Why don't you give up?,Pourquoi n'abandonnes-tu pas ?
+Why don't you grow up?,Pourquoi ne grandis-tu pas ?
+Why don't you grow up?,Pourquoi ne grandissez-vous pas ?
+Why don't you help us?,Pourquoi ne nous aides-tu pas ?
+Why don't you help us?,Pourquoi ne nous aidez-vous pas ?
+Why don't you join me?,Pourquoi ne te joins-tu pas à moi ?
+Why don't you join me?,Pourquoi ne vous joignez-vous pas à moi ?
+Why don't you join us?,Pourquoi ne te joins-tu pas à nous ?
+Why don't you join us?,Pourquoi ne vous joignez-vous pas à nous ?
+Why don't you like us?,Pourquoi ne nous apprécies-tu pas ?
+Why don't you like us?,Pourquoi ne nous appréciez-vous pas ?
+Why don't you love me?,Pourquoi ne m'aimez-vous pas ?
+Why don't you love me?,Et si vous m'aimiez ?
+Why don't you love me?,Et si tu m'aimais ?
+Why don't you love me?,Pourquoi ne m'aimes-tu pas ?
+Why don't you love me?,Pourquoi ne pas m'aimer ?
+Why don't you shut up?,Pourquoi ne te tais-tu pas?
+Why give it to me now?,Pourquoi me le donner maintenant ?
+Why is Tom still here?,Pourquoi Tom est encore ici ?
+Why is she doing this?,Pourquoi fait-elle cela ?
+Why is she so popular?,Pourquoi est-elle si populaire ?
+Why is the plane late?,Pourquoi l'avion est-il en retard ?
+Why is the train late?,Pourquoi le train est-il en retard ?
+Why is this door open?,Pourquoi cette porte est ouverte ?
+Why is this happening?,Pourquoi cela survient-il ?
+Why is this happening?,Pourquoi cela arrive-t-il ?
+Why not just tell Tom?,Pourquoi ne pas simplement le dire à Tom ?
+Why should anyone pay?,Pourquoi quiconque devrait-il payer ?
+Why shouldn't I do it?,Pourquoi ne devrais-je pas le faire ?
+Why were you laughing?,Pourquoi rigolais-tu ?
+Why were you laughing?,Pourquoi rigoliez-vous ?
+Why would I know that?,Pourquoi saurais-je cela ?
+Why would I know that?,Pourquoi le saurais-je ?
+Why would I want this?,Pourquoi voudrais-je ceci ?
+Why would Tom be here?,Pourquoi est-ce que Tom serait là ?
+Why would you want me?,Pourquoi me voudriez-vous ?
+Why would you want me?,Pourquoi me voudrais-tu ?
+Why's Tom always here?,Pourquoi Tom est-il toujours ici ?
+Will he come tomorrow?,Viendra-t-il demain ?
+Will it clear up soon?,Cela va-t-il bientôt s'éclaircir ?
+Will it rain tomorrow?,Pleuvra-t-il demain ?
+Will it rain tomorrow?,Est-ce qu'il pleuvra demain?
+Will it rain tomorrow?,Pleut-il demain ?
+Will that really work?,Est-ce que ça va vraiment fonctionner ?
+Will this satisfy you?,Cela te satisfera-t-il ?
+Will this satisfy you?,Cela vous satisfera-t-il ?
+Will you accompany me?,M'accompagneras-tu ?
+Will you accompany me?,M'accompagnerez-vous ?
+Will you take me home?,"Tu me ramènes, s'il te plaît ?"
+Will you take the job?,Vas-tu prendre le poste ?
+Will you take the job?,Allez-vous prendre le poste ?
+Winter is coming soon.,L'hiver arrive bientôt.
+Wisdom comes with age.,La sagesse vient avec l'âge.
+Would you care to bet?,Voudriez-vous parier ?
+Would you care to bet?,Voudrais-tu parier ?
+Would you sing for me?,Chanterais-tu pour moi ?
+"Write me sometime, OK?","Écris-moi à l'occasion, d'accord ?"
+Write your goals down.,Notez vos objectifs.
+Write your goals down.,Écris tes objectifs.
+You all did good work.,Vous avez tous fait du bon travail.
+You all did good work.,Vous avez toutes fait du bon travail.
+You all look so happy.,Vous avez tous l'air si heureux.
+You alone can help me.,Toi seul peut m'aider.
+You are a good person.,Tu es un mec bien.
+You are a good person.,Vous êtes un mec bien.
+You are a good person.,Tu es une chouette gonzesse.
+You are a good person.,Vous êtes une chouette gonzesse.
+You are a good person.,Vous êtes un chic type.
+You are a good person.,T'es un chic type.
+You are a good person.,T'es une bonne fille.
+You are a good person.,Vous êtes une bonne fille.
+You are a good person.,T'es une chouette gonzesse.
+You are a good person.,T'es un mec bien.
+You are a mean person.,Vous êtes quelqu'un de méchant.
+You are going too far.,Tu vas trop loin.
+You are not a student.,Tu n'es pas un étudiant.
+You can borrow my pen.,Tu peux emprunter mon stylo.
+You can borrow my pen.,Vous pouvez emprunter mon stylo.
+You can count on that.,Tu peux compter là-dessus.
+You can count on that.,Vous pouvez compter là-dessus.
+You can make your own.,Tu peux faire le tien.
+You can make your own.,Vous pouvez faire le vôtre.
+You can make your own.,Tu peux t'en faire un à toi.
+You can make your own.,Vous pouvez vous en faire un à vous.
+You can start anytime.,Tu peux commencer à tout moment.
+You can start anytime.,Vous pouvez commencer à tout moment.
+You can't be a lawyer.,Vous ne pouvez pas être avocate.
+You can't be a lawyer.,Tu ne peux pas être avocat.
+You can't buy respect.,On n'achète pas le respect.
+You can't give up now.,Tu ne peux pas abandonner maintenant.
+You can't give up now.,Vous ne pouvez pas abandonner maintenant.
+You can't kill us all.,Tu ne peux pas tous nous tuer.
+You can't kill us all.,Vous ne pouvez pas tous nous tuer.
+You can't pull it off.,On ne peut pas l'arracher.
+You can't tame a wolf.,Vous ne pouvez pas apprivoiser un loup.
+You cannot be serious.,Tu ne peux pas être sérieux.
+You cannot be serious.,C'est pas vrai.
+You cannot be serious.,Tu plaisantes !
+You cannot be serious.,Vous plaisantez !
+You cannot be serious.,Pas vrai !
+You deserve a present.,Tu mérites un cadeau.
+You deserve a present.,Vous méritez un cadeau.
+You deserve the prize.,Tu mérites le prix.
+You deserve the prize.,Vous méritez le prix.
+You did nothing wrong.,Tu n'as rien fait de mal.
+You did nothing wrong.,Vous n'avez rien fait de mal.
+You don't belong here.,Tu n'as rien à faire là.
+You don't belong here.,Vous n'avez rien à faire là.
+You don't belong here.,Vous n'appartenez pas à cette société.
+You don't belong here.,Tu n'appartiens pas à cette société.
+You don't belong here.,Ce n'est pas ton monde.
+You don't belong here.,Ce n'est pas votre monde.
+You don't fit in here.,"Vous n'êtes pas dans votre élément, ici."
+You don't fit in here.,"Tu n'es pas dans ton élément, ici."
+You don't frighten me.,Vous ne me faites pas peur.
+You don't frighten me.,Vous me faites pas peur.
+You don't have a clue.,Tu n'en as pas la moindre idée.
+You don't have a clue.,Vous n'en avez pas la moindre idée.
+You don't have to lie.,Vous n'êtes pas obligé de mentir.
+You don't have to lie.,Vous n'êtes pas obligés de mentir.
+You don't have to lie.,Vous n'êtes pas obligée de mentir.
+You don't have to lie.,Vous n'êtes pas obligées de mentir.
+You don't have to lie.,Tu n'es pas obligé de mentir.
+You don't have to lie.,Tu n'es pas obligée de mentir.
+You don't have to lie.,Tu n'es pas forcé de mentir.
+You don't have to lie.,Tu n'es pas forcée de mentir.
+You don't have to lie.,Vous n'êtes pas forcé de mentir.
+You don't have to lie.,Vous n'êtes pas forcée de mentir.
+You don't have to lie.,Vous n'êtes pas forcées de mentir.
+You don't have to lie.,Vous n'êtes pas forcés de mentir.
+You don't have to pay.,Ils ne font pas payer.
+You don't need a list.,Vous n'avez pas besoin d'une liste.
+You don't need a list.,Tu n'as pas besoin d'une liste.
+You don't need to lie.,Tu n'as pas besoin de mentir.
+You don't need to lie.,Vous n'avez pas besoin de mentir.
+You dropped something.,Vous avez fait tomber quelque chose.
+You dropped something.,Vous avez laissé tomber quelque chose.
+You dropped something.,Vous avez laissé choir quelque chose.
+You dropped something.,Tu as fait tomber quelque chose.
+You dropped something.,Tu as laissé tomber quelque chose.
+You dropped something.,Tu as laissé choir quelque chose.
+You gave me no choice.,Tu ne m'as pas laissé le choix.
+You gave me no choice.,Vous ne m'avez pas laissé le choix.
+You gave me your word.,Tu m'as donné ta parole.
+You gave me your word.,Vous m'avez donné votre parole.
+You handled that well.,Tu as bien géré ça.
+You handled that well.,Vous avez bien géré cela.
+You have many friends.,Tu as beaucoup d'amis.
+You have many friends.,Tu as beaucoup d'amies.
+You have to be joking.,Tu veux rire ?
+You have to be strong.,Il te faut être fort.
+You have to be strong.,Il vous faut être fort.
+You have to disappear.,Tu dois disparaître.
+You have to disappear.,Vous devez disparaître.
+You have to hold back.,Il vous faut vous retenir.
+You have to hold back.,Il te faut te retenir.
+You have to pay taxes.,Tu dois payer des impôts.
+You have to pay taxes.,Vous devez payer des impôts.
+You have to try again.,Tu dois encore essayer.
+You have to try again.,Vous devez essayer à nouveau.
+You heard your mother.,Vous avez entendu votre mère.
+You heard your mother.,Tu as entendu ta mère.
+You know I have to go.,Tu sais que je dois y aller.
+You know I have to go.,Tu sais que je dois partir.
+You know I have to go.,Vous savez que je dois y aller.
+You know I have to go.,Vous savez que je dois partir.
+You live too far away.,Vous vivez trop loin.
+You look disappointed.,Vous avez l'air déçu.
+You look disappointed.,Tu as l'air déçu.
+You look kind of down.,Tu as l'air déprimé.
+You look kind of pale.,Tu as l'air un peu pâle.
+You look kind of pale.,Vous avez l'air un peu pâles.
+You look so beautiful.,Tu as l'air si beau.
+You look so beautiful.,Tu as l'air si belle.
+You look so beautiful.,Vous avez l'air si beau.
+You look so beautiful.,Vous avez l'air si beaux.
+You look so beautiful.,Vous avez l'air si belle.
+You look so beautiful.,Vous avez l'air si belles.
+You make it look easy.,Vous faites en sorte que ça ait l'air facile.
+You make it look easy.,Tu fais en sorte que ça ait l'air facile.
+You make it look easy.,"On dirait que c'est facile, en te regardant."
+You make it look easy.,Ça semble tellement simple avec toi.
+You may need a shovel.,Vous pourriez avoir besoin d'une pelle.
+You may need a shovel.,Tu pourrais avoir besoin d'une pelle.
+You may take the book.,Tu peux prendre le livre.
+You may take the book.,Vous pouvez prendre le livre.
+You might not find it.,Il est possible que vous ne le trouviez pas.
+You missed the target.,Tu as raté la cible.
+You must be exhausted.,Tu dois être épuisé.
+You must be exhausted.,Vous devez être épuisé.
+You must be exhausted.,Vous devez être épuisée.
+You must be exhausted.,Vous devez être épuisés.
+You must be exhausted.,Vous devez être épuisées.
+You must be exhausted.,Tu dois être épuisée.
+You must be terrified.,Tu dois être terrifié.
+You must come with me.,Vous devez venir avec moi.
+You must come with me.,Tu dois venir avec moi.
+You must do your best.,Vous devez faire de votre mieux.
+You must go to school.,Il vous faut aller à l'école.
+You must go to school.,Il te faut aller à l'école.
+You must go to school.,Vous devez aller à l'école.
+You must go to school.,Tu dois aller à l'école.
+You must see a doctor.,Vous devez voir un docteur.
+You must see a doctor.,Tu dois voir un docteur.
+You must stop smoking.,Il faut que tu arrêtes de fumer.
+You must study harder.,Tu dois étudier plus.
+You must study harder.,Tu dois davantage étudier.
+You must study harder.,Tu dois étudier davantage.
+You must wait a while.,Tu dois attendre un moment.
+You must wait a while.,Vous devez attendre un moment.
+You must've lost them.,Tu as dû les perdre.
+You need an ambulance.,Tu as besoin d'une ambulance.
+You need an ambulance.,Vous avez besoin d'une ambulance.
+You need not go there.,Tu n'as pas besoin de t'y rendre.
+You need to come home.,Il te faut venir à la maison.
+You need to come home.,Il vous faut venir à la maison.
+You need to follow me.,Vous devez me suivre.
+You need to work fast.,Il vous faut travailler vite.
+You need to work fast.,Il te faut travailler vite.
+You owe him the truth.,Tu dois lui dire la vérité.
+You owe me an apology.,Tu me dois une excuse.
+You owe me an apology.,Vous me devez une excuse.
+You people are no fun.,Vous n'êtes pas amusants.
+You really are a jerk.,T'es vraiment un salaud.
+You reap what you sow.,Comme tu auras semé tu moissonneras.
+You reap what you sow.,On récolte ce que l'on sème.
+You reap what you sow.,On récolte ce que l'on a semé.
+You recovered quickly.,Tu t'es rapidement remis sur pieds.
+You ruined everything.,T'as tout foutu en l'air.
+You ruined everything.,Tu as tout foutu en l'air.
+You ruined everything.,Vous avez tout foutu en l'air.
+You ruined everything.,T'as tout fait foirer.
+You ruined everything.,Tu as tout fait foirer.
+You ruined everything.,Vous avez tout fait foirer.
+You should be careful.,Tu devrais faire attention.
+You should be careful.,Vous devriez faire attention.
+"You should leave, Tom.","Tu devrais partir, Tom."
+"You should leave, Tom.","Vous devriez partir, Tom."
+You should smoke less.,Tu devrais moins fumer.
+"You understand, right?","Vous comprenez, n'est-ce pas ?"
+"You understand, right?","Tu comprends, n'est-ce pas ?"
+You wash the potatoes.,Tu laves les pommes de terre.
+You watch too much TV.,Tu regardes trop la télé.
+"You were there, right?","Vous y étiez, n'est-ce pas ?"
+"You were there, right?","Tu étais là-bas, n'est-ce pas ?"
+You will stay at home.,Tu resteras chez toi.
+You won't be punished.,Tu ne seras pas punie.
+You won't regret this.,Vous n'allez pas le regretter.
+You won't regret this.,Tu ne vas pas le regretter.
+You'd better back off.,Tu ferais mieux de reculer.
+You'd better hurry up.,Tu ferais mieux de te dépêcher.
+You'd better sit here.,Tu ferais mieux de t'asseoir ici.
+You'd better sit here.,Vous feriez mieux de vous asseoir ici.
+You'll be better soon.,Tu iras mieux bientôt.
+You'll end up in jail.,Tu finiras en prison.
+You'll get used to it.,Vous vous y habituerez.
+You'll have no choice.,Vous n'aurez pas le choix.
+You'll have no choice.,Tu n'auras pas le choix.
+You'll miss the train.,Vous allez rater le train.
+You'll miss the train.,Tu vas rater le train.
+You'll never be alone.,Tu ne seras jamais seul.
+You'll never be alone.,Tu ne seras jamais seule.
+You'll never be alone.,Vous ne serez jamais seul.
+You'll never be alone.,Vous ne serez jamais seuls.
+You'll never be alone.,Vous ne serez jamais seules.
+You'll never be alone.,Vous ne serez jamais seule.
+You're a good bassist.,Tu es un bon bassiste.
+You're a good student.,Vous êtes une bonne étudiante.
+You're a good student.,Vous êtes un bon étudiant.
+You're a good student.,Tu es une bonne étudiante.
+You're a little weird.,Tu es un peu bizarre.
+You're a talented kid.,Tu es un enfant talentueux.
+You're a talented kid.,Vous êtes une enfant talentueuse.
+You're actually wrong.,En fait tu te trompes.
+You're all against me.,Vous êtes tous contre moi.
+You're all against me.,Vous êtes toutes contre moi.
+You're always singing.,Tu chantes tout le temps.
+You're always singing.,Vous chantez tout le temps.
+You're always singing.,Tu es tout le temps en train de chanter.
+You're always singing.,Vous êtes tout le temps en train de chanter.
+You're being paranoid.,Tu es paranoïaque.
+You're being paranoid.,Vous êtes paranoïaque.
+You're being paranoid.,Vous êtes paranoïaques.
+You're better than me.,Vous êtes meilleur que moi.
+You're doing it right.,Tu le fais correctement.
+You're doing it right.,Vous le faites correctement.
+You're doing it right.,Tu le fais comme il faut.
+You're doing it right.,Vous le faites comme il faut.
+You're doing it wrong!,Tu le fais de travers !
+You're getting closer.,Tu t'approches.
+You're getting closer.,Vous vous approchez.
+You're going to be OK.,Vous allez être sur pieds.
+You're going to be OK.,Vous allez vous remettre.
+You're going to be OK.,Tu vas te remettre.
+You're going to be OK.,Tu vas être sur pieds.
+You're going to laugh.,Tu vas rire.
+You're going to laugh.,Vous allez rire.
+You're going too fast.,Tu vas trop vite.
+You're going too fast.,Vous allez trop vite.
+You're good with kids.,Vous êtes bon avec les enfants.
+You're in big trouble.,Tu as de gros problèmes.
+You're in big trouble.,Vous avez de gros problèmes.
+You're in big trouble.,Tu es dans la merde.
+You're in big trouble.,Vous êtes dans la merde.
+"You're in danger, Tom.","Tu es en danger, Tom."
+"You're in danger, Tom.","Vous êtes en danger, Tom."
+"You're in danger, too.","Tu es en danger, toi aussi."
+"You're in danger, too.","Vous êtes en danger, vous aussi."
+You're just different.,Tu es juste différent.
+You're my best friend.,Tu es mon meilleur ami.
+You're my kind of gal.,T'es mon type de gonzesse.
+You're no fun anymore.,Vous n'êtes plus amusant.
+You're no fun anymore.,Vous n'êtes plus amusants.
+You're no fun anymore.,Vous n'êtes plus amusante.
+You're no fun anymore.,Vous n'êtes plus amusantes.
+You're no fun anymore.,Tu n'es plus amusant.
+You're no fun anymore.,Tu n'es plus amusante.
+You're not being fair.,Tu n'es pas juste.
+You're not being fair.,Vous n'êtes pas juste.
+You're not helping me.,Tu ne m'aides pas.
+You're not helping me.,Vous ne m'aidez pas.
+You're not invincible.,Vous n'êtes pas invincibles.
+You're not invincible.,Vous n'êtes pas invincible.
+You're not invincible.,Tu n'es pas invincible.
+You're not safe there.,Vous n'y êtes pas en sécurité.
+You're not safe there.,Tu n'y es pas en sécurité.
+You're not that crazy.,Tu n'es pas si folle.
+You're not that crazy.,Tu n'es pas si fou.
+You're not that smart.,Tu n'es pas si malin.
+You're not that smart.,Tu n'es pas si maline.
+You're not very funny.,Tu n'es pas très amusant.
+You're not very funny.,Tu n'es pas très amusante.
+You're not very funny.,Vous n'êtes pas très amusant.
+You're not very funny.,Vous n'êtes pas très amusante.
+You're not very funny.,Vous n'êtes pas très amusantes.
+You're not very funny.,Vous n'êtes pas très amusants.
+You're out of control.,Tu es hors de contrôle.
+You're out of control.,Vous êtes hors de contrôle.
+You're out of excuses.,Tu n'as plus d'excuses.
+You're out of excuses.,Vous n'avez plus d'excuses.
+You're over-analyzing.,Vous analysez trop.
+You're over-analyzing.,Tu analyses trop.
+You're perfect for me.,Tu es parfait pour moi.
+You're perfect for me.,Tu es parfaite pour moi.
+You're perfect for me.,Vous êtes parfait pour moi.
+You're perfect for me.,Vous êtes parfaite pour moi.
+You're perfect for me.,Vous êtes parfaits pour moi.
+You're perfect for me.,Vous êtes parfaites pour moi.
+You're probably right.,Vous avez probablement raison.
+You're probably tired.,Tu es probablement fatigué.
+You're probably tired.,Tu es probablement fatiguée.
+You're probably tired.,Vous êtes probablement fatigué.
+You're probably tired.,Vous êtes probablement fatiguée.
+You're probably tired.,Vous êtes probablement fatigués.
+You're probably tired.,Vous êtes probablement fatiguées.
+You're pulling my leg.,Tu me fais marcher.
+You're pulling my leg.,Vous me faites marcher.
+You're really awesome.,Tu es vraiment génial.
+You're really awesome.,Tu es vraiment géniale.
+You're really awesome.,Vous êtes vraiment génial.
+You're really awesome.,Vous êtes vraiment géniale.
+You're really awesome.,Vous êtes vraiment géniales.
+You're really awesome.,Vous êtes vraiment géniaux.
+You're really selfish.,Tu es vraiment égoïste.
+You're really selfish.,Vous êtes vraiment égoïste.
+You're really selfish.,Vous êtes vraiment égoïstes.
+"You're right, I think.",Je pense que vous avez raison.
+"You're right, I think.",Je pense que tu as raison.
+"You're right, I think.","Vous avez raison, je pense."
+"You're right, I think.","Tu as raison, je pense."
+You're so predictable.,Tu es tellement prévisible !
+You're so predictable.,Vous êtes tellement prévisible !
+You're so predictable.,Vous êtes tellement prévisibles !
+You're taller than me.,Tu es plus grand que moi.
+You're taller than me.,Tu es plus grande que moi.
+You're taller than me.,Vous êtes plus grand que moi.
+You're taller than me.,Vous êtes plus grande que moi.
+You're taller than me.,Vous êtes plus grands que moi.
+You're taller than me.,Vous êtes plus grandes que moi.
+You're too good to me.,Tu es trop bon avec moi.
+You're too good to me.,Vous êtes trop bon avec moi.
+You're too old for me.,Tu es trop vieux pour moi.
+You're too old for me.,Tu es trop vieille pour moi.
+You're too old for me.,Vous êtes trop vieux pour moi.
+You're too old for me.,Vous êtes trop vieille pour moi.
+You're too old for me.,Vous êtes trop vieilles pour moi.
+You're turning thirty.,Tu entres dans la trentaine.
+You're turning thirty.,Vous entrez dans la trentaine.
+You're very beautiful.,Vous êtes très belle.
+You're very efficient.,Tu es très efficace.
+You're very efficient.,Tu es fort efficace.
+You're very efficient.,Vous êtes très efficace.
+You're very efficient.,Vous êtes très efficaces.
+You're very efficient.,Vous êtes fort efficace.
+You're very efficient.,Vous êtes fort efficaces.
+You're very emotional.,Vous êtes très émotives.
+You're very emotional.,Vous êtes fort émotives.
+You're very emotional.,Vous êtes très émotifs.
+You're very emotional.,Vous êtes très émotive.
+You're very emotional.,Vous êtes très émotif.
+You're very emotional.,Vous êtes fort émotive.
+You're very emotional.,Vous êtes fort émotifs.
+You're very emotional.,Vous êtes fort émotif.
+You're very emotional.,Tu es fort émotive.
+You're very emotional.,Tu es très émotive.
+You're very emotional.,Tu es fort émotif.
+You're very emotional.,Tu es très émotif.
+You're very fortunate.,Tu as vraiment beaucoup de chance.
+You're very fortunate.,Vous avez vraiment beaucoup de chance.
+"You're very kind, Tom.","Tu es très gentil, Tom."
+"You're very kind, Tom.","Vous êtes très gentil, Tom."
+You're very observant.,Tu es très observateur.
+You're very observant.,Tu es très observatrice.
+You're very observant.,Vous êtes très observateur.
+You're very observant.,Vous êtes très observateurs.
+You're very observant.,Vous êtes très observatrice.
+You're very observant.,Vous êtes très observatrices.
+You're very skeptical.,Vous êtes très sceptique.
+You're very skeptical.,Vous êtes fort sceptique.
+You're very skeptical.,Vous êtes très sceptiques.
+You're very skeptical.,Vous êtes fort sceptiques.
+You're very skeptical.,Tu es fort sceptique.
+You're very skeptical.,Tu es très sceptique.
+You're worse than Tom.,Tu es pire que Tom.
+You're worse than Tom.,Vous êtes pire que Tom.
+You've been suspended.,Tu as été suspendue.
+You've been suspended.,Tu as été suspendu.
+You've been suspended.,Vous avez été suspendue.
+You've been suspended.,Vous avez été suspendu.
+You've been suspended.,Vous avez été suspendues.
+You've been suspended.,Vous avez été suspendus.
+You've come too early.,Tu es venu trop tôt.
+You've come too early.,Vous êtes venu trop tôt.
+You've come too early.,Vous êtes venue trop tôt.
+You've come too early.,Vous êtes venues trop tôt.
+You've come too early.,Vous êtes venus trop tôt.
+You've come too early.,Tu es venue trop tôt.
+You've done well here.,Vous avez fait du bon travail.
+You've got some nerve.,Tu as du culot.
+You've got to be bold!,Tu dois être hardi !
+You've got to be bold!,Tu dois être audacieux !
+You've got to be bold!,Tu dois être audacieuse !
+You've got to be bold!,Tu dois être hardie !
+You've got to be bold!,Vous devez être hardi !
+You've got to be bold!,Vous devez être hardie !
+You've got to be bold!,Vous devez être hardis !
+You've got to be bold!,Vous devez être hardies !
+You've got to be bold!,Vous devez être audacieux !
+You've got to be bold!,Vous devez être audacieuse !
+You've got to be bold!,Vous devez être audacieuses !
+You've got to be bold!,Vous devez être intrépide !
+You've got to be bold!,Vous devez être intrépides !
+You've got to be bold!,Tu dois être intrépide !
+You've got to help us.,Tu dois nous aider.
+You've got to help us.,Vous devez nous aider.
+You've got to wake up.,Tu dois te réveiller.
+You've got to wake up.,Vous devez vous réveiller.
+Your answer was wrong.,Votre réponse était fausse.
+Your answer was wrong.,Ta réponse était fausse.
+Your boots are ruined.,Tes bottes sont abimées.
+Your cat will survive.,Votre chat survivra.
+Your cat will survive.,Votre chatte survivra.
+Your cat will survive.,Ton chat survivra.
+Your cat will survive.,Ta chatte survivra.
+Your cough worries me.,Ta toux m'inquiète.
+Your cough worries me.,Votre toux m'inquiète.
+Your daughter is tall.,Ta fille est grande.
+Your daughter is tall.,Votre fille est grande.
+Your father was right.,Ton père avait raison.
+Your father was right.,Votre père avait raison.
+Your friends are late.,Tes amis sont en retard.
+Your friends are late.,Tes amies sont en retard.
+Your friends are late.,Vos amis sont en retard.
+Your friends are late.,Vos amies sont en retard.
+Your hair is too long.,Tes cheveux sont trop longs.
+Your hair is too long.,Vos cheveux sont trop longs.
+Your hair's beautiful.,Tes cheveux sont beaux.
+Your hair's beautiful.,Vos cheveux sont beaux.
+Your life's in danger.,Votre vie est en danger.
+Your life's in danger.,Ta vie est en danger.
+Your method is better.,Votre méthode est meilleure.
+Your method is better.,Ta méthode est meilleure.
+Your nose is bleeding.,Vous saignez du nez.
+Your nose is bleeding.,Tu saignes du nez.
+Your parents are cool.,Tes parents sont sympas.
+Your plan didn't work.,Votre projet n'a pas fonctionné.
+Your plan didn't work.,Votre plan n'a pas fonctionné.
+Your plan didn't work.,Ton projet n'a pas fonctionné.
+Your plan didn't work.,Ton plan n'a pas fonctionné.
+Your room is very big.,Votre chambre est très grande.
+Your shoes are untied.,Tes chaussures sont délacées.
+Your watch gains time.,Votre montre avance.
+Your watch gains time.,Ta montre avance.
+Zero comes before one.,Le zéro est avant le un.
+Zero comes before one.,Zéro vient avant un.
+"Who is it? ""It's me.""",« Qui est là ? » « C'est moi. »
+"Who is it? ""It's me.""",« Qui est-ce ? » « C'est moi. »
+A child needs a mother.,Un enfant a besoin d'une mère.
+A dust storm is coming.,Une tempête de poussière s'approche.
+A fox is a wild animal.,Le renard est un animal sauvage.
+A lot of fish perished.,Beaucoup de poissons ont péri.
+A lot of fish perished.,De nombreux poissons sont morts.
+A lot of fish perished.,De nombreux poissons périrent.
+A magnet attracts iron.,Un aimant attire le fer.
+A mosquito just bit me.,Un moustique vient de me piquer.
+A password is required.,Un mot de passe est requis.
+A policeman is outside.,Il y a un policier dehors.
+A rabbit has long ears.,Les lapins ont de grandes oreilles.
+A sponge absorbs water.,Une éponge absorbe l'eau.
+A stone does not float.,Une pierre ne flotte pas.
+A wolf cannot be tamed.,Un loup ne peut être apprivoisé.
+"Actually, you're right.","En fait, tu as raison."
+"Actually, you're right.","En fait, vous avez raison."
+"Actually, you're right.","En vérité, vous avez raison."
+"Actually, you're right.","En vérité, tu as raison."
+"Ah, that's much better.","Ah, c'est bien meilleur."
+All I want is your cat.,"Tout ce que je veux, c'est ton chat."
+All I want is your cat.,"Tout ce que je veux, c'est votre chat."
+All of them went there.,Ils sont tous allés là-bas.
+All of them went there.,Tous y sont allés.
+All of these are Tom's.,Ils sont tous à Tom.
+All of these are Tom's.,Elles sont toutes à Tom.
+All of us speak French.,Nous parlons tous français.
+All roads lead to Rome.,Tous les chemins mènent à Rome.
+All roads lead to Rome.,Toutes les routes mènent à Rome.
+All seats are reserved.,Tous les sièges sont réservés.
+All the buses are full.,Tous les bus sont pleins.
+All the girls love Tom.,Toutes les filles aiment Tom.
+All the lights were on.,Toutes les lumières étaient allumées.
+All the money was gone.,Tout l'argent avait disparu.
+All you do is complain.,Tout ce que tu fais c'est de te plaindre !
+All you do is complain.,Tout ce que vous faites c'est de vous plaindre !
+Allow us to do our job.,Laissez-nous faire notre boulot !
+Am I on the right road?,Suis-je sur la bonne route ?
+Am I on the wrong road?,Suis-je sur la mauvaise route ?
+An idea occurred to me.,Une idée me vint à l'esprit.
+Any other bright ideas?,Encore une quelconque brillante idée ?
+Anything is OK with me.,Tout me convient.
+Apparently I'm adopted.,"Apparemment, je suis adopté."
+Apparently I'm adopted.,"Apparemment, je suis adoptée."
+Apples are cheap today.,Les pommes sont bon marché aujourd'hui.
+Are these all the same?,Sont-ce toutes les mêmes ?
+Are these all the same?,Sont-ce tous les mêmes ?
+Are these bananas ripe?,Ces bananes sont-elles mûres ?
+Are they collaborators?,Sont-ils collaborateurs ?
+Are they ready to talk?,Sont-ils prêts à discuter ?
+Are they ready to talk?,Sont-elles prêtes à discuter ?
+Are things OK with you?,Les choses vont-elles bien pour toi ?
+Are things OK with you?,Les choses vont-elles bien pour vous ?
+Are things OK with you?,Ça se passe bien pour vous ?
+Are things OK with you?,Ça se passe bien pour toi ?
+Are we going somewhere?,Allons-nous quelque part ?
+Are we on speakerphone?,Sommes-nous sur haut-parleur ?
+Are you a good swimmer?,Êtes-vous bon nageur ?
+Are you a good swimmer?,Est-ce que tu es une bonne nageuse ?
+Are you a psychologist?,Êtes-vous psychologue ?
+Are you a psychologist?,Es-tu psychologue ?
+Are you a student here?,"Êtes-vous élève, ici ?"
+Are you a student here?,"Es-tu élève, ici ?"
+Are you afraid of dogs?,Craignez-vous les chiens ?
+Are you afraid of dogs?,Crains-tu les chiens ?
+Are you afraid of that?,En as-tu peur ?
+Are you afraid of that?,En avez-vous peur ?
+Are you afraid of that?,Avez-vous peur de ça ?
+Are you afraid of that?,As-tu peur de ça ?
+Are you all doing well?,Allez-vous tous bien ?
+Are you all doing well?,Allez-vous toutes bien ?
+Are you angry with Tom?,Tu es fâchée contre Tom ?
+Are you being followed?,Es-tu suivi ?
+Are you being followed?,Es-tu suivie ?
+Are you being followed?,Êtes-vous suivie ?
+Are you being followed?,Êtes-vous suivi ?
+Are you being followed?,Êtes-vous suivies ?
+Are you being followed?,Êtes-vous suivis ?
+Are you being punished?,Es-tu puni?
+Are you blowing me off?,T'es en train de me laisser tomber ?
+Are you blowing me off?,Tu me laisses en plan ?
+Are you blowing me off?,Êtes-vous en train de me laisser en plan ?
+Are you busy right now?,Es-tu occupé actuellement ?
+Are you coming with me?,Tu viens avec moi ?
+Are you coming with us?,Venez-vous avec nous ?
+Are you coming with us?,Viens-tu avec nous ?
+Are you dating anybody?,Sors-tu avec quiconque ?
+Are you dating anybody?,Sortez-vous avec qui que ce soit ?
+Are you dating anybody?,Sors-tu avec qui que ce soit ?
+Are you falling for me?,Es-tu en train de tomber amoureux de moi ?
+Are you falling for me?,Es-tu en train de tomber amoureuse de moi ?
+Are you falling for me?,Êtes-vous en train de tomber amoureuse de moi ?
+Are you falling for me?,Êtes-vous en train de tomber amoureux de moi ?
+Are you falling for me?,Êtes-vous en train de tomber amoureuses de moi ?
+Are you free for lunch?,Es-tu libre pour le déjeuner ?
+Are you free for lunch?,Êtes-vous libre pour le déjeuner ?
+Are you free for lunch?,Êtes-vous libres pour le déjeuner ?
+Are you free on Monday?,Êtes-vous libre lundi ?
+Are you free on Monday?,Est-ce que tu es libre lundi ?
+Are you going to be OK?,Est-ce que ça va aller ?
+Are you going to be OK?,Est-ce que ça va aller ?
+Are you going to do it?,Est-ce que tu vas le faire ?
+Are you going to do it?,Est-ce que vous allez le faire ?
+Are you going to leave?,Allez-vous partir ?
+Are you going to leave?,Vas-tu partir ?
+Are you good at skiing?,Tu es bon en ski ?
+Are you good at skiing?,Vous êtes bons en ski ?
+Are you good at skiing?,Êtes-vous bon en ski ?
+Are you good at tennis?,Est-ce que tu joues bien au tennis ?
+Are you good at tennis?,Êtes-vous bon au tennis ?
+Are you good at tennis?,Est-ce que vous jouez bien au tennis ?
+Are you good at tennis?,Es-tu bonne au tennis ?
+Are you good at tennis?,Es-tu bon au tennis ?
+Are you good at tennis?,Joues-tu bien au tennis ?
+Are you guys all right?,"Allez-vous bien, les garçons ?"
+Are you guys all right?,"Ça va, les mecs ?"
+Are you here to see me?,Êtes-vous ici pour me voir ?
+Are you here to see me?,Est-ce que tu es ici pour me voir ?
+Are you in a good mood?,Êtes-vous de bonne humeur ?
+Are you in good health?,Es-tu en bonne santé ?
+Are you in good health?,Êtes-vous en bonne santé ?
+Are you laughing at me?,Est-ce de moi que vous riez ?
+Are you laughing at me?,Tu ris de moi ?
+Are you looking for me?,Tu me cherches ?
+Are you looking for me?,Me cherchez-vous ?
+Are you looking for me?,Est-ce moi que vous cherchez ?
+Are you looking for us?,Nous cherches-tu ?
+Are you looking for us?,Nous cherchez-vous ?
+Are you pointing at me?,Est-ce moi que tu désignes ?
+Are you pointing at me?,Est-ce moi que vous désignez ?
+Are you pulling my leg?,Tu joues avec mes pieds ?
+Are you ready to begin?,Es-tu prêt à commencer ?
+Are you ready to begin?,Es-tu prête à commencer ?
+Are you ready to begin?,Êtes-vous prêt à commencer ?
+Are you ready to begin?,Êtes-vous prête à commencer ?
+Are you ready to begin?,Êtes-vous prêtes à commencer ?
+Are you ready to begin?,Êtes-vous prêts à commencer ?
+Are you ready to begin?,Es-tu prêt à t'y mettre ?
+Are you ready to begin?,Es-tu prête à t'y mettre ?
+Are you ready to begin?,Êtes-vous prêts à vous y mettre ?
+Are you ready to begin?,Êtes-vous prêtes à vous y mettre ?
+Are you ready to begin?,Êtes-vous prêt à vous y mettre ?
+Are you ready to begin?,Êtes-vous prête à vous y mettre ?
+Are you ready to leave?,Êtes-vous prêt à partir ?
+Are you ready to leave?,Êtes-vous prêts à partir ?
+Are you ready to leave?,Êtes-vous prête à partir ?
+Are you ready to leave?,Êtes-vous prêtes à partir ?
+Are you ready to leave?,Es-tu prêt à partir ?
+Are you ready to leave?,Es-tu prête à partir ?
+Are you ready to order?,Êtes-vous prêt à commander ?
+Are you ready to order?,Êtes-vous prêtes à commander ?
+Are you ready to party?,Êtes-vous prêts à faire la fête ?
+Are you ready to party?,Êtes-vous prêtes à faire la fête ?
+Are you ready to party?,Êtes-vous prête à faire la fête ?
+Are you ready to party?,Êtes-vous prêt à faire la fête ?
+Are you ready to party?,Es-tu prêt à faire la fête ?
+Are you ready to party?,Es-tu prête à faire la fête ?
+Are you recording this?,Enregistres-tu ceci ?
+Are you recording this?,Enregistrez-vous ceci ?
+Are you seeing anybody?,Vois-tu qui que ce soit ?
+Are you seeing anybody?,Voyez-vous qui que ce soit ?
+Are you seeing anybody?,Sors-tu avec quiconque ?
+Are you seeing someone?,Vois-tu quelqu'un ?
+Are you seeing someone?,Voyez-vous quelqu'un ?
+Are you speaking to me?,C'est à moi que tu parles ?
+Are you speaking to me?,C'est à moi que vous parlez ?
+Are you speaking to me?,Me parlez-vous ?
+Are you speaking to me?,Me parles-tu ?
+Are you threatening me?,Êtes-vous en train de me menacer ?
+Are you threatening me?,Es-tu en train de me menacer ?
+Are you up to the task?,Es-tu à la hauteur de la tâche ?
+Are you up to the task?,Êtes-vous à la hauteur de la tâche ?
+Are you wearing a wire?,Portez-vous un micro ?
+Are you wearing a wire?,Est-ce que tu portes un micro ?
+Aren't there any risks?,N'y a-t-il aucun risque ?
+Aren't they Englishmen?,Ne sont-ils pas Anglais ?
+Aren't you dressed yet?,N'es-tu pas encore habillé ?
+Aren't you dressed yet?,N'es-tu pas encore habillée ?
+Aren't you dressed yet?,N'êtes-vous pas encore habillé ?
+Aren't you dressed yet?,N'êtes-vous pas encore habillés ?
+Aren't you dressed yet?,N'êtes-vous pas encore habillée ?
+Aren't you dressed yet?,N'êtes-vous pas encore habillées ?
+Aren't you embarrassed?,N'es-tu pas gêné ?
+Aren't you embarrassed?,N'es-tu pas gênée ?
+Aren't you embarrassed?,N'êtes-vous pas gêné ?
+Aren't you embarrassed?,N'êtes-vous pas gênée ?
+Aren't you embarrassed?,N'êtes-vous pas gênées ?
+Aren't you embarrassed?,N'êtes-vous pas gênés ?
+Aren't you guys sleepy?,"N'avez-vous pas sommeil, les mecs ?"
+"Aren't you hungry, Tom?","N'as-tu pas faim, Tom ?"
+Aren't you the doorman?,N'es-tu pas le portier ?
+Aren't you the doorman?,N'êtes-vous pas le portier ?
+Aren't you the manager?,N'êtes-vous pas le gérant ?
+Badgers dig deep holes.,Les blaireaux creusent de profonds trous.
+Be careful not to fall.,Faites attention de ne pas tomber !
+Be careful not to fall.,Fais attention de ne pas tomber !
+Be careful not to slip.,Fais attention de ne pas glisser !
+Be careful not to slip.,Faites attention de ne pas glisser !
+Beauty isn't important.,La beauté n’est pas importante.
+Better late than never.,Mieux vaut tard que jamais.
+Better safe than sorry.,Mieux vaut prévenir que guérir.
+Boston is a great town.,Boston est une ville fantastique.
+Boston is a large city.,Boston est une grande ville.
+Both Tom and I said no.,Tom et moi avons dit non.
+Both are great schools.,Les deux sont d'excellentes écoles.
+Both boys were rescued.,Les deux garçons furent secourus.
+Both boys were rescued.,Les deux garçons ont été sauvés.
+Both men were executed.,Les deux hommes ont été exécutés.
+Bring me a moist towel.,Apporte-moi une serviette humide.
+Bring me the newspaper.,Apporte-moi le journal.
+Bring me the newspaper.,Apportez-moi le journal.
+Bring me today's paper.,Rapporte-moi le journal du jour.
+"Bring the bill, please.","L'addition, s'il vous plaît."
+Business is looking up.,Les affaires ont l'air de croître.
+Business is quite slow.,Les affaires sont assez faibles.
+Buy a book and read it.,Achète un livre et lis-le.
+Buy a book and read it.,Achetez un livre et lisez-le.
+Buy the dress you want.,Achète la robe que tu veux.
+Call me at this number.,Appelle-moi à ce numéro.
+Call me at this number.,Appelez-moi à ce numéro.
+Call me when it's done.,Appelle-moi quand c'est fait.
+Call me when it's done.,Appelez-moi quand c'est fait.
+Call them this evening.,Appelle-les ce soir.
+Call them this evening.,Appelez-les ce soir.
+Call up Tom right away.,Appelle Tom tout de suite.
+Can I continue my trip?,Puis-je poursuivre mon voyage ?
+Can I get a refund now?,Puis-je obtenir un remboursement maintenant ?
+Can I get back to work?,Est-ce que je peux retourner travailler ?
+Can I get back to work?,Puis-je me remettre au travail ?
+Can I get you anything?,Puis-je aller vous chercher quoi que ce soit ?
+Can I get you anything?,Puis-je aller te chercher quoi que ce soit ?
+Can I have a paper bag?,Puis-je avoir un sac en papier ?
+Can I have this orange?,Puis-je avoir cette orange ?
+Can I make you a drink?,Puis-je te servir un verre ?
+Can I make you a drink?,Puis-je vous servir un verre ?
+Can I open my eyes now?,Je peux ouvrir les yeux maintenant ?
+Can I open the curtain?,Est-ce que je peux ouvrir le rideau ?
+Can I open the windows?,Puis-je ouvrir les fenêtres ?
+Can I park my car here?,Est-ce que je peux garer ma voiture ici ?
+Can I park my car here?,Je peux garer ma voiture ici ?
+Can I see you a moment?,Puis-je te voir un moment ?
+Can I see you a moment?,Puis-je vous voir un moment ?
+Can I see you a second?,Puis-je vous voir une seconde ?
+Can I see you a second?,Puis-je te voir une seconde ?
+Can I see you tomorrow?,Puis-je te voir demain ?
+Can I see you tomorrow?,Puis-je vous voir demain ?
+Can I take a break now?,Puis-je prendre une pause maintenant ?
+Can I touch your beard?,Puis-je toucher votre barbe ?
+Can anyone believe you?,Est-ce que quelqu'un vous croit ?
+Can anyone believe you?,Quiconque peut-il vous croire ?
+Can anyone believe you?,Quiconque peut-il te croire ?
+Can anyone verify that?,Quiconque peut-il vérifier cela ?
+Can someone check this?,Quelqu'un peut vérifier ça ?
+Can we afford all this?,Avons-nous les moyens de tout ceci ?
+Can we get started now?,Peut-on commencer maintenant ?
+Can we get started now?,Pouvons-nous commencer maintenant ?
+Can we go to your room?,Pouvons-nous aller dans ta chambre ?
+Can we save the planet?,Pouvons-nous sauver la planète ?
+Can we talk in private?,On peut parler en privé ?
+Can we talk in private?,Pouvons-nous parler en privé ?
+Can we turn the TV off?,Est-ce qu'on peut éteindre la télé ?
+Can we turn the TV off?,Pouvons-nous éteindre la télévision ?
+Can you call me a taxi?,Pouvez-vous m'appeler un taxi ?
+Can you climb the tree?,Pouvez-vous grimper à l'arbre ?
+Can you close the door?,Peux-tu fermer la porte ?
+Can you close the door?,Pouvez-vous fermer la porte ?
+Can you do a handstand?,Peux-tu faire le poirier ?
+Can you do a handstand?,Pouvez-vous faire le poirier ?
+Can you do a headstand?,Sais-tu te tenir sur la tête ?
+Can you do a headstand?,Savez-vous vous tenir sur la tête ?
+Can you do bookkeeping?,Pouvez-vous tenir la comptabilité ?
+Can you do it tomorrow?,Peux-tu le faire demain?
+Can you do that for me?,Est-ce que tu peux faire ça pour moi?
+Can you give me a ride?,Peux-tu me déposer ?
+Can you give me a sign?,Peux-tu me donner un signe?
+Can you give us a lift?,Peux-tu me déposer ?
+Can you jump that high?,Est-ce que tu peux sauter si haut ?
+Can you jump that high?,Pouvez-vous sauter si haut ?
+Can you leave me alone?,Peux-tu me laisser seule ?
+Can you leave me alone?,Peux-tu me laisser tranquille ?
+Can you leave me alone?,Peux-tu me laisser seul ?
+Can you make me a copy?,Peux-tu me faire une copie ?
+Can you make me a copy?,Pouvez-vous me faire une copie ?
+Can you play the drums?,Sais-tu jouer de la batterie ?
+Can you play the organ?,Savez-vous jouer de l'orgue ?
+Can you play the piano?,Savez-vous jouer du piano ?
+Can you please shut up?,"Peux-tu la fermer, je te prie ?"
+Can you ride a bicycle?,Sais-tu faire du vélo ?
+Can you ride a bicycle?,Savez-vous faire du vélo ?
+Can you say that again?,Peux-tu répéter cela ?
+Can you say that again?,Pouvez-vous répéter cela ?
+Can you say that again?,Peux-tu redire cela ?
+Can you show me around?,Tu peux me faire visiter?
+Can you sing this song?,Peux-tu chanter cette chanson ?
+Can you sing us a song?,Peux-tu nous chanter une chanson ?
+Can you sing us a song?,Pouvez-vous nous chanter une chanson ?
+Can you stand the pain?,Pouvez-vous supporter la douleur ?
+Can you stay for a bit?,Peux-tu rester un moment ?
+Can you stay for a bit?,Pouvez-vous rester un peu ?
+Can you turn that down?,Tu peux mettre moins fort?
+Can you turn that down?,Tu peux baisser le son?
+Can you understand Tom?,Peux-tu comprendre Tom ?
+Can you understand Tom?,Pouvez-vous comprendre Tom ?
+Can you use a computer?,Sais-tu utiliser un ordinateur ?
+Can you use a computer?,Savez-vous utiliser un ordinateur ?
+Can you walk on stilts?,Sais-tu marcher sur des échasses ?
+Can you walk on stilts?,Savez-vous marcher sur des échasses ?
+Can you watch the kids?,Peux-tu surveiller les enfants ?
+Can you watch the kids?,Pouvez-vous surveiller les enfants ?
+Can't they do anything?,Ne peuvent-ils rien faire ?
+Can't you see I'm busy?,Ne peux-tu voir que je suis occupé ?
+Can't you see I'm busy?,Ne peux-tu voir que je suis occupée ?
+Can't you see I'm busy?,Ne pouvez-vous voir que je suis occupé ?
+Can't you see I'm busy?,Ne pouvez-vous voir que je suis occupée ?
+Can't you see I'm busy?,Ne vois-tu pas que je suis occupé ?
+Can't you see I'm busy?,Ne vois-tu pas que je suis occupée ?
+Can't you speak French?,Ne parles-tu pas le français ?
+Can't you speak French?,Ne parlez-vous pas français ?
+Can't you speak French?,Tu ne parles pas français ?
+Can't you speak French?,Vous ne parlez pas français ?
+Cats have pointed ears.,Les chats ont les oreilles pointues.
+Cats usually hate dogs.,"En général, les chats détestent les chiens."
+Charge this bill to me.,Imputez-moi cette note.
+Charge this bill to me.,Mettez cette note sur mon compte.
+Charity begins at home.,Charité bien ordonnée commence par soi-même.
+Choose between the two.,Choisis entre les deux.
+Choose books carefully.,Choisis des livres avec soin.
+Choose books carefully.,Choisis les livres avec soin.
+Choose books carefully.,Choisissez des livres avec soin.
+Choose books carefully.,Choisissez les livres avec soin.
+Classes start tomorrow.,Les classes commenceront demain.
+"Close the door, please.","Fermez la porte, s'il vous plaît."
+"Close the door, please.",Veuillez fermer la porte.
+"Close the door, please.","Ferme la porte, je te prie."
+"Close the door, please.","Ferme la porte, s'il te plait."
+"Close the door, please.",Je vous prie de fermer la porte.
+"Close the door, please.",Veuillez fermer la porte !
+"Close the door, please.","Fermez la porte, je vous prie !"
+"Close the door, please.","Ferme la porte, je te prie !"
+"Close the door, please.",Je te prie de fermer la porte !
+Come and dance with me.,Viens et danse avec moi.
+Come back to the party.,Reviens à la fête.
+Come here and sit down.,Viens ici et assieds-toi.
+Come on! We'll be late.,Allez ! Nous serons en retard.
+"Come on, you can do it.","Allez, tu peux le faire."
+"Come on, you can do it.","Allez, vous pouvez le faire."
+Come on. Give it a try.,Allez. Essaye.
+Come over to our table.,Joins-toi à notre table !
+Come over to our table.,Joignez-vous à notre table !
+Come visit us tomorrow.,Rendez-nous visite demain.
+Come whenever you like.,Viens quand tu veux.
+Come whenever you like.,Venez quand vous voulez.
+Come whenever you want.,Viens quand tu veux.
+Come whenever you want.,Venez quand vous voulez.
+Come whenever you want.,Passe quand tu veux.
+"Come with me, will you?","Viens avec moi, veux-tu ?"
+Compare the signatures.,Compare les signatures.
+Compare the signatures.,Comparez les signatures.
+Cooking is interesting.,"La cuisine, c'est intéressant."
+Could I have the check?,Pourrais-je avoir la note ?
+Could I use your phone?,Pourrais-je utiliser votre téléphone ?
+Could I use your phone?,Pourrais-je utiliser ton téléphone ?
+Could I work part-time?,Pourrais-je travailler à temps partiel ?
+Could you explain that?,Pourriez-vous expliquer cela ?
+Could you explain that?,Pourrais-tu expliquer ça ?
+Could you gift wrap it?,Pourriez-vous l'emballer ?
+Could you gift wrap it?,Pourrais-tu l'emballer ?
+Could you kill someone?,Seriez-vous capable de tuer quelqu'un ?
+Could you kill someone?,Serais-tu capable de tuer quelqu'un ?
+Could you leave me one?,Pourrais-tu m'en laisser un ?
+Could you leave me one?,Pourrais-tu m'en laisser une ?
+Could you leave me one?,Pourriez-vous m'en laisser un ?
+Could you leave me one?,Pourriez-vous m'en laisser une ?
+Could you please hurry?,"Pourrais-tu, s'il te plaît, te dépêcher ?"
+Could you please hurry?,"Pourriez-vous vous dépêcher, s'il vous plaît ?"
+Could you show me that?,Pourriez-vous me montrer cela ?
+"Could you stop, please?","Pourrais-tu cesser, je te prie ?"
+"Could you stop, please?","Pourriez-vous cesser, je vous prie ?"
+Could you turn it down?,Pourrais-tu baisser le son ?
+Could you turn it down?,Pourrais-tu le refuser ?
+Could you turn it down?,Pourriez-vous le refuser ?
+Could you turn it down?,Pourriez-vous baisser le son ?
+Dancing is not a crime.,Danser n'est pas un crime.
+Dead men tell no tales.,Les morts ne racontent pas d'histoires.
+Dead men tell no tales.,Les morts ne parlent pas.
+Defend her from danger.,Protégez-la du danger.
+Did I ask your opinion?,Vous ai-je demandé votre opinion ?
+Did I ask your opinion?,T'ai-je demandé ton opinion ?
+Did I not mention that?,N'en ai-je pas fait mention ?
+Did I not mention that?,Ne l'ai-je pas mentionné ?
+Did Tom tell the truth?,Est-ce que Tom a dis la vérité ?
+Did anybody take notes?,Quelqu'un a-t-il pris des notes ?
+Did it snow last night?,A-t-il neigé cette nuit?
+Did the phone wake you?,Le téléphone vous a-t-il réveillé ?
+Did the phone wake you?,Le téléphone t'a-t-il réveillé ?
+Did they find anything?,Ont-ils trouvé quoi que ce soit ?
+Did they find anything?,Ont-elles trouvé quoi que ce soit ?
+Did we forget anything?,Avons-nous oublié quelque chose ?
+Did we forget anything?,Avons-nous oublié quoi que ce soit ?
+Did you agree to do it?,Avez-vous accepté de le faire ?
+Did you agree to do it?,As-tu accepté de le faire ?
+Did you ask the others?,Avez-vous demandé aux autres ?
+Did you ask the others?,Est-ce que tu as demandé aux autres ?
+Did you bring a weapon?,Avez-vous apporté une arme ?
+Did you bring a weapon?,As-tu apporté une arme ?
+Did you bring the book?,Avez-vous apporté le livre ?
+Did you bring the book?,As-tu apporté le livre ?
+Did you do that for me?,Avez-vous fait cela pour moi ?
+Did you do that for me?,As-tu fait ça pour moi ?
+Did you enjoy the film?,As-tu aimé le film ?
+Did you enjoy the game?,As-tu apprécié la partie ?
+Did you enjoy the game?,Avez-vous apprécié la partie ?
+Did you enjoy the show?,As-tu apprécié le spectacle ?
+Did you enjoy the show?,Avez-vous apprécié le spectacle ?
+Did you enjoy the tour?,As-tu apprécié la visite ?
+Did you enjoy the tour?,Avez-vous apprécié la visite ?
+Did you enjoy your run?,Avez-vous eu plaisir à courir ?
+Did you enjoy your run?,As-tu eu plaisir à courir ?
+Did you enjoy yourself?,Est-ce que tu t'apprécies ?
+Did you enjoy yourself?,T'es-tu amusé ?
+Did you enjoy yourself?,T'es-tu amusée ?
+Did you enjoy yourself?,Vous êtes-vous amusé ?
+Did you enjoy yourself?,Vous êtes-vous amusée ?
+Did you enjoy yourself?,Vous êtes-vous amusées ?
+Did you enjoy yourself?,Vous êtes-vous amusés ?
+Did you find your keys?,Avez-vous trouvé vos clefs ?
+Did you find your keys?,As-tu trouvé tes clefs ?
+Did you find your keys?,Avez-vous trouvé vos clefs ?
+Did you finish the job?,Avez-vous terminé le travail ?
+Did you get good marks?,As-tu obtenu de bons résultats ?
+Did you get her letter?,As-tu reçu sa lettre ?
+Did you get her letter?,Avez-vous reçu sa lettre ?
+Did you get his letter?,As-tu reçu sa lettre ?
+Did you get his letter?,Avez-vous reçu sa lettre ?
+Did you have breakfast?,As-tu petit-déjeuné ?
+Did you hear the noise?,As-tu entendu ce bruit ?
+Did you just insult me?,Viens-tu de m'insulter ?
+Did you like the movie?,As-tu aimé le film ?
+Did you like the movie?,Avez-vous aimé le film ?
+Did you like the movie?,Le film vous a-t-il plu ?
+Did you like this book?,Est-ce que tu as aimé ce livre ?
+Did you like this book?,Avez-vous aimé ce livre ?
+Did you lock the doors?,Avez-vous fermé les portes à clé ?
+Did you lose something?,As-tu perdu quelque chose ?
+Did you lose something?,Avez-vous perdu quelque chose ?
+Did you order any food?,Avez-vous commandé la moindre nourriture ?
+Did you order the book?,As-tu commandé le livre ?
+Did you read all of it?,Avez-vous tout lu ?
+Did you really do that?,L'avez-vous vraiment fait ?
+Did you really do that?,L'as-tu vraiment fait ?
+Did you see a bag here?,As-tu vu un sac ici ?
+Did you see him go out?,L'avez-vous vu sortir ?
+Did you see what I did?,As-tu vu ce que j'ai fait ?
+Did you see what I did?,Avez-vous vu ce que j'ai fait ?
+Did you see who it was?,As-tu vu qui c'était ?
+Did you steal that car?,Avez-vous volé cette voiture ?
+Did you steal that car?,Avez-vous dérobé cette voiture ?
+Did you steal that car?,As-tu volé cette voiture ?
+Did you take the money?,As-tu pris l'argent ?
+Did you take the money?,Avez-vous pris l'argent ?
+Did you think about it?,Y avez-vous pensé ?
+Did you think about it?,Y as-tu pensé ?
+Did you watch the game?,As-tu regardé le match ?
+Did you watch the game?,Avez-vous regardé la partie ?
+Did you win the trophy?,As-tu remporté le trophée ?
+Did you win the trophy?,Avez-vous remporté le trophée ?
+Did you work yesterday?,Avez-vous travaillé hier ?
+Didn't anyone tell you?,Personne ne te l'a-t-il dit ?
+Didn't anyone tell you?,Personne ne vous l'a-t-il dit ?
+Dinner is almost ready.,Le déjeuner est presque prêt.
+Dinner is almost ready.,Le dîner est presque prêt.
+Dinner is almost ready.,Le souper est presque prêt.
+Do I have to wait long?,Dois-je attendre longtemps ?
+Do I have to wait long?,Est-ce que je dois attendre longtemps ?
+Do I have to wear this?,Est-ce que je dois porter ça ?
+Do I look happy to you?,"Ai-je l'air heureux, selon vous ?"
+Do I look happy to you?,"Ai-je l'air heureuse, selon vous ?"
+Do I look happy to you?,"Ai-je l'air heureux, selon toi ?"
+Do I look happy to you?,"Ai-je l'air heureuse, selon toi ?"
+Do I make myself clear?,Me fais-je bien comprendre ?
+Do ghosts really exist?,Les fantômes existent-ils vraiment ?
+Do one thing at a time.,Fais une seule chose à la fois.
+Do those insects sting?,Ces insectes piquent-ils ?
+Do we have a deal here?,Affaire conclue ?
+Do we have enough food?,Avons-nous assez de nourriture ?
+Do we have enough food?,Disposons-nous de suffisamment de nourriture ?
+Do we really want that?,Voulons-nous vraiment cela ?
+Do what you have to do.,Fais ce que tu as à faire.
+Do what you have to do.,Faites ce que vous avez à faire.
+Do you agree with this?,Est-ce que tu es d'accord avec ça ?
+Do you agree with this?,Es-tu d'accord avec ceci ?
+Do you agree with this?,Êtes-vous d'accord avec ceci ?
+Do you believe in UFOs?,Croyez-vous aux OVNI ?
+Do you believe in UFOs?,Crois-tu aux OVNIs ?
+Do you believe in UFOs?,Crois-tu aux OVNIs ?
+Do you believe in UFOs?,Croyez-vous aux OVNIs ?
+Do you come here a lot?,Venez-vous souvent ici ?
+Do you come here a lot?,Viens-tu souvent ici ?
+Do you come here often?,Tu viens souvent ici ?
+Do you come here often?,Venez-vous souvent ici ?
+Do you come here often?,Viens-tu souvent ici ?
+Do you come here often?,Vous êtes souvent ici ?
+Do you drink green tea?,Bois-tu du thé vert ?
+Do you drink green tea?,Buvez-vous du thé vert ?
+Do you feel any better?,Vous sentez-vous mieux ?
+Do you feel any better?,Te sens-tu mieux ?
+Do you give to charity?,Donnes-tu aux œuvres ?
+Do you give to charity?,Fais-tu la charité ?
+Do you have a daughter?,As-tu une fille ?
+Do you have a passport?,Disposez-vous d'un passeport ?
+Do you have a passport?,Disposes-tu d'un passeport ?
+Do you have a question?,Est-ce que vous avez des questions ?
+Do you have a question?,Avez-vous une question ?
+Do you have a question?,As-tu une question ?
+Do you have a shoehorn?,Avez-vous un chausse-pied ?
+Do you have a shoehorn?,Disposez-vous d'un chausse-pied ?
+Do you have a shoehorn?,As-tu un chausse-pied ?
+Do you have a shoehorn?,Disposes-tu d'un chausse-pied ?
+Do you have a solution?,As-tu une solution ?
+Do you have an opinion?,Vous avez une opinion ?
+Do you have an opinion?,Tu as une opinion ?
+Do you have an opinion?,Avez-vous une opinion ?
+Do you have an opinion?,As-tu une opinion ?
+Do you have any drinks?,Avez-vous des boissons ici ?
+Do you have any others?,Vous en avez d'autres ?
+Do you have everything?,Avez-vous tout ?
+Do you have everything?,As-tu tout ?
+Do you have nightmares?,Fais-tu des cauchemars ?
+Do you have nightmares?,Faites-vous des cauchemars ?
+Do you have some money?,As-tu un peu d'argent ?
+Do you have some money?,As-tu quelque argent ?
+Do you have some money?,Disposez-vous d'un peu d'argent ?
+Do you have some money?,Avez-vous un peu d'argent ?
+Do you have some money?,Tu as de l'argent ?
+Do you know Noah's ark?,Connais-tu l'arche de Noé ?
+Do you know Noah's ark?,Connaissez-vous l'arche de Noé ?
+Do you know about that?,Es-tu au courant de cela ?
+Do you know about that?,Êtes-vous au courant de cela ?
+Do you know her father?,Connaissez-vous son père ?
+Do you know her father?,Connais-tu son père ?
+Do you know his father?,Connais-tu son père ?
+Do you know his father?,Connaissez-vous son père ?
+Do you know how to ski?,Sais-tu faire du ski ?
+Do you know my husband?,Connaissez-vous mon mari ?
+Do you know that hotel?,Connais-tu cet hôtel ?
+Do you know the answer?,Tu connais la réponse ?
+Do you know the answer?,Connais-tu la réponse ?
+Do you know the answer?,Connaissez-vous la réponse ?
+Do you know the reason?,Connaissez-vous la raison ?
+Do you know the reason?,Connais-tu la raison ?
+Do you know who he was?,Sais-tu qui il était ?
+Do you know who he was?,Savez-vous qui il était ?
+Do you know who she is?,Sais-tu qui elle est ?
+Do you know who she is?,Sais-tu qui elle est ?
+Do you know who we are?,Savez-vous qui nous sommes ?
+Do you know who we are?,Sais-tu qui nous sommes ?
+Do you like apple pies?,Aimez-vous les tartes aux pommes ?
+Do you like apple pies?,Aimes-tu les tartes aux pommes ?
+Do you like black cats?,Aimez-vous les chats noirs ?
+Do you like my T-shirt?,Mon maillot te plaît-il ?
+Do you like this color?,Est-ce que cette couleur vous plaît ?
+Do you like this color?,Aimes-tu cette couleur ?
+Do you like this music?,Aimes-tu cette musique?
+Do you like white wine?,Aimez-vous le vin blanc ?
+Do you like white wine?,Aimes-tu le vin blanc ?
+Do you mind if I smoke?,Est-ce que ça vous dérange si je fume ?
+Do you mind if I smoke?,Ça te dérange si je fume ?
+Do you mind if I smoke?,Voyez-vous un inconvénient à ce que je fume ?
+Do you mind if I smoke?,Vois-tu un inconvénient à ce que je fume ?
+Do you need much money?,As-tu besoin de beaucoup d'argent ?
+Do you need much money?,Te faut-il beaucoup d'argent ?
+Do you need some water?,Vous faut-il de l'eau ?
+Do you need some water?,Te faut-il de l'eau ?
+Do you play any sports?,Pratiques-tu quelque sport ?
+Do you play any sports?,Pratiquez-vous quelque sport ?
+Do you play any sports?,Pratiques-tu le moindre sport ?
+Do you play any sports?,Pratiquez-vous le moindre sport ?
+Do you read Tom's blog?,Tu lis le blog de Tom ?
+Do you read Tom's blog?,Lisez-vous le blog de Tom ?
+Do you really not know?,Ne le savez-vous vraiment pas ?
+Do you really not know?,Ne le sais-tu vraiment pas ?
+Do you see the raccoon?,Tu vois le raton laveur ?
+Do you see the raccoon?,Voyez-vous le raton laveur ?
+Do you see what I mean?,Tu comprends ce que je veux dire ?
+Do you see what I mean?,Vois-tu ce que je veux dire ?
+Do you see what I mean?,Voyez-vous ce que je veux dire ?
+Do you smell something?,Sens-tu quelque chose ?
+Do you smell something?,Sentez-vous quelque chose ?
+Do you speak Esperanto?,Parlez-vous espéranto ?
+Do you still play golf?,Tu joues toujours au golf ?
+Do you still play golf?,Est-ce que vous jouez toujours au golf ?
+Do you study every day?,Étudies-tu chaque jour ?
+Do you study every day?,Étudiez-vous chaque jour ?
+Do you study every day?,Étudies-tu quotidiennement ?
+Do you think I'm crazy?,Penses-tu que je sois fou ?
+Do you think I'm crazy?,Pensez-vous que je sois fou ?
+Do you think I'm crazy?,Penses-tu que je sois folle ?
+Do you think I'm crazy?,Pensez-vous que je sois folle ?
+Do you think I'm right?,Penses-tu que j'ai raison ?
+Do you think I'm right?,Pensez-vous que j'ai raison ?
+Do you think Tom knows?,Pensez-vous que Tom soit au courant ?
+Do you think Tom knows?,Penses-tu que Tom soit au courant ?
+Do you think in French?,Réfléchissez-vous en français ?
+Do you think in French?,Penses-tu en français ?
+Do you think it'll fit?,Penses-tu que ce sera la bonne taille ?
+Do you think it'll fit?,Pensez-vous que ce sera la bonne taille ?
+Do you understand that?,Le comprenez-vous ?
+Do you understand that?,Comprenez-vous ça ?
+Do you understand that?,Comprends-tu ça ?
+Do you understand that?,Le comprends-tu ?
+Do you want me to sing?,Veux-tu que je chante ?
+Do you want me to sing?,Voulez-vous que je chante ?
+Do you want me to wait?,Veux-tu que j'attende ?
+Do you want me to wait?,Voulez-vous que j'attende ?
+Do you want some candy?,Voulez-vous un bonbon ?
+Do you want some water?,Vous voulez un peu d'eau ?
+Do you want some water?,Vous voulez de l'eau ?
+Do you want some water?,Tu veux de l'eau ?
+Do you want some water?,Voulez-vous de l'eau ?
+Do you want this shirt?,Voulez-vous cette chemise ?
+Do you want this shirt?,Est-ce que vous voulez cette chemise ?
+Do you want this shirt?,Veux-tu cette chemise ?
+Do you want to be rich?,Voulez-vous devenir riches ?
+Do you want to be rich?,Voulez-vous être riche ?
+Do you want to come in?,Veux-tu entrer ?
+Do you want to come in?,Voulez-vous entrer ?
+Do you want to do this?,Veux-tu le faire ?
+Do you want to do this?,Voulez-vous le faire ?
+Do you want to give up?,Veux-tu abandonner ?
+Do you work on Mondays?,Travaillez-vous le lundi ?
+Do you work on Mondays?,Est-ce que tu travailles le lundi ?
+Do you write in French?,Est-ce que tu écris en français ?
+Do you write in French?,Écrivez-vous en français ?
+Do you write in French?,Écris-tu en français ?
+Does Tom like swimming?,Tom aime-t-il nager ?
+Does everybody do that?,Est-ce que tout le monde fait ça ?
+Does that make you sad?,Cela vous rend-il triste ?
+Does that make you sad?,Cela te rend-il triste ?
+Does that surprise you?,Est-ce que ça te surprend ?
+Does that surprise you?,Cela vous surprend-il ?
+Does that work for you?,Cela fonctionne-t-il pour vous ?
+Does that work for you?,Cela fonctionne-t-il pour toi ?
+Does the coat fit well?,La veste lui va bien ?
+Dogs are loyal animals.,Les chiens sont des animaux loyaux.
+Dogs like squeaky toys.,Les chiens aiment les jouets qui couinent.
+Don't approach the dog.,N'approchez pas du chien.
+Don't approach the dog.,Ne t'approche pas du chien.
+Don't approach the dog.,Ne vous approchez pas du chien.
+Don't approach the dog.,N'approche pas du chien.
+Don't ask me for money.,Ne me demandez pas d'argent.
+Don't ask me for money.,Ne me demande pas d'argent.
+Don't be fresh with me.,Ne sois pas effronté avec moi !
+Don't be fresh with me.,Ne sois pas effrontée avec moi !
+Don't be fresh with me.,Ne soyez pas effronté avec moi !
+Don't be fresh with me.,Ne soyez pas effrontée avec moi !
+Don't be fresh with me.,Ne soyez pas effrontés avec moi !
+Don't be fresh with me.,Ne soyez pas effrontées avec moi !
+Don't be so hard on me.,Ne soyez pas si dure envers moi.
+Don't beat yourself up.,Ne te torture pas !
+Don't beat yourself up.,Ne vous torturez pas !
+Don't blame the victim.,N'accuse pas la victime !
+Don't blame the victim.,N'accusez pas la victime !
+Don't change your mind.,Ne change pas d'avis.
+Don't delete this file.,Ne supprime pas ce fichier.
+Don't delete this file.,Ne supprimez pas ce fichier.
+Don't feed the animals.,Ne nourrissez pas les animaux.
+Don't feed the animals.,Ne donnez pas à manger aux animaux.
+Don't feed the pigeons.,Ne nourrissez pas les pigeons.
+Don't forget your coat.,N'oublie pas ton manteau.
+Don't forget your coat.,N'oubliez pas votre manteau.
+Don't get carried away.,Ne t'emballe pas.
+Don't get cute with me.,Ne la jouez pas fine avec moi.
+"Don't get mad, promise.","Ne te mets pas en colère, promets !"
+"Don't get mad, promise.","Ne vous mettez pas en colère, promettez !"
+Don't go back to sleep!,Ne retourne pas dormir !
+Don't go near the fire.,Ne t'approche pas du feu.
+Don't go near the fire.,Ne vous approchez pas du feu.
+Don't go without a hat.,N'y va pas sans chapeau.
+Don't go without a hat.,N'y allez pas sans chapeau.
+Don't go without a hat.,Ne vous y rendez pas sans chapeau.
+Don't go without a hat.,Ne vous y rendez pas tête nue.
+Don't go without a hat.,N'y va pas tête nue.
+Don't go without a hat.,Ne t'y rends pas tête nue.
+Don't just stand there.,Ne restez pas plantée là !
+Don't just stand there.,Ne restez pas plantées là !
+Don't just stand there.,Ne restez pas plantés là !
+Don't just stand there.,Ne restez pas planté là !
+Don't just stand there.,Ne reste pas plantée là !
+Don't just stand there.,Ne reste pas planté là !
+Don't leave them alone.,Ne les laissez pas seuls.
+Don't leave them alone.,Ne les laisse pas seuls.
+Don't leave them alone.,Ne les laisse pas seules.
+Don't leave them alone.,Ne les laissez pas seules.
+Don't let it scare you.,Ne te laisse pas impressionner.
+Don't let it scare you.,Ne vous laissez pas impressionner.
+Don't let them do this.,Ne les laisse pas faire ça.
+Don't let them do this.,Ne les laissez pas faire ceci.
+Don't light the candle.,N'allume pas la bougie !
+Don't light the candle.,N'allumez pas la bougie !
+Don't make fun of them.,Ne te moque pas d'eux.
+Don't make me hurt you.,Ne m'obligez pas à vous faire mal !
+Don't make me hurt you.,Ne m'oblige pas à te faire mal !
+Don't make me kill you.,Ne me force pas à te tuer !
+Don't make me kill you.,Ne me forcez pas à vous tuer !
+Don't make me kill you.,Ne m'obligez pas à vous tuer !
+Don't make me kill you.,Ne m'oblige pas à te tuer !
+Don't open the box yet.,N'ouvrez pas encore la boîte !
+Don't open the box yet.,N'ouvre pas encore la boîte !
+Don't open this window.,N'ouvre pas cette fenêtre.
+Don't open this window.,N'ouvrez pas cette fenêtre.
+Don't push this button.,N'appuyez pas sur ce bouton.
+Don't push this button.,N'appuye pas sur ce bouton.
+Don't raise your voice.,N'élevez pas la voix !
+Don't raise your voice.,N'élève pas la voix !
+Don't release that dog.,Ne lâche pas le chien.
+Don't say a word to me.,Ne me dis pas un mot !
+Don't say a word to me.,Ne me dites pas un mot !
+Don't say another word.,Ne dis pas un mot de plus !
+Don't say another word.,Ne dites pas un mot de plus !
+Don't say such a thing.,Ne dis pas une chose pareille.
+Don't sit on the floor.,Ne vous asseyez pas par terre.
+Don't sleep too deeply.,Ne dors pas trop profondément !
+Don't spoil your child.,Ne gâte pas ton enfant.
+Don't spoil your child.,Ne gâtez pas votre enfant.
+Don't start doing that.,Ne commence pas à faire ça.
+Don't start doing that.,Ne commencez pas à faire cela.
+Don't stay around here.,Ne reste pas ici !
+Don't stay up too late.,Ne vous couchez pas trop tard.
+Don't stay up too late.,Ne te couche pas trop tard.
+Don't take any chances.,Ne prends pas de risques !
+Don't take any chances.,Ne prenez pas de risques !
+Don't take any chances.,Ne prends aucun risque !
+Don't take any chances.,Ne prenez aucun risque !
+Don't take it personal.,Ne le prends pas pour toi.
+Don't take it personal.,Ne le prends pas personnellement.
+Don't take it to heart.,Ne le prends pas trop à cœur.
+Don't tell anyone this.,Ne dis cela à personne !
+Don't tell anyone this.,Ne dites cela à personne.
+Don't tell anyone this.,N'en fais part à personne.
+Don't tell me to relax.,Ne me dites pas de me détendre !
+Don't tell me to relax.,Ne me dis pas de me détendre !
+Don't tell your mother.,Ne le dites pas à votre mère.
+Don't tell your mother.,Ne le dis pas à ta mère.
+Don't touch the button.,Ne touche pas au bouton.
+"Don't toy with me, Tom.","Ne jouez pas avec moi, Tom."
+"Don't toy with me, Tom.","Ne joue pas avec moi, Tom."
+Don't try that at home.,N'essaye pas cela à la maison.
+Don't try this at home.,N'essaye pas ça chez toi.
+Don't try this at home.,N'essaie pas ça chez toi.
+Don't try this at home.,N'essayez pas ça chez vous.
+Don't try this at home.,N'essaye pas ça à la maison.
+Don't try this at home.,N'essaie pas ça à la maison.
+Don't try this at home.,N'essayez pas ça à la maison.
+Don't try to be a hero.,Ne joue pas les héros !
+Don't try to be a hero.,Ne tente pas le diable !
+Don't try to be a hero.,Ne jouez pas les héros !
+Don't try to be a hero.,Ne tentez pas le diable !
+Don't underestimate me.,Ne me sous-estime pas.
+Don't underestimate me.,Ne me sous-estimez pas.
+Don't underestimate us.,Ne nous sous-estime pas.
+Don't waste ammunition.,Ne gaspillez pas de munitions.
+Don't waste ammunition.,Ne gaspille pas les munitions.
+Don't waste your money.,Ne jette pas ton argent par les fenêtres.
+Don't worry about that.,Ne t'en fais pas à propos de ça.
+Don't worry about that.,Ne t'inquiète pas pour ça.
+Don't worry. It's easy.,Ne t'en fais pas ! C'est facile.
+Don't worry. It's easy.,Ne vous en faites pas ! C'est facile.
+Don't write in red ink.,Ne pas écrire à l'encre rouge.
+Don't write in red ink.,N'écrivez pas à l'encre rouge.
+Don't you have friends?,N'as-tu pas d'amis ?
+Don't you have friends?,N'avez-vous pas d'amis ?
+Don't you speak French?,Vous ne parlez pas français ?
+Don't you want to help?,Ne veux-tu pas donner de l'aide?
+Don't you want to help?,Ne voulez-vous pas prêter assistance ?
+Don't you want to know?,Ne veux-tu pas savoir ?
+Don't you want to know?,Ne voulez-vous pas savoir ?
+Dreaming costs nothing.,Rêver ne coute rien.
+Dry wood burns quickly.,Le bois sec brûle vite.
+Easter is near at hand.,Pâques est à portée de main.
+Elves have pointy ears.,Les Elfes ont les oreilles en pointes.
+Enjoy it while you can.,Profites-en tant que tu peux !
+Enjoy it while you can.,Profitez-en tant que vous pouvez !
+Europe isn't a country.,L'Europe n'est pas un pays.
+Even Tom was surprised.,Même Tom était surpris.
+Even a child can do it.,Même un enfant peut le faire.
+Every person is unique.,Chaque personne est unique.
+Every person is unique.,Tout le monde est unique.
+Everybody calls me Tom.,Tout le monde m'appelle Tom.
+Everybody is very busy.,Tout le monde est très occupé.
+Everybody puts me down.,Tout le monde me dévalorise.
+Everybody was startled.,Tout le monde fut surpris.
+Everybody was startled.,Tout le monde a été surpris.
+Everybody was startled.,Tout le monde fut arrêté.
+Everybody was startled.,Tout le monde a été arrêté.
+Everyone called me Tom.,Tout le monde m'a appelé Tom.
+Everyone can do better.,Tout le monde peut faire mieux.
